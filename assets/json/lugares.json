@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "lugares_comercio_supermercado",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Supermercado",
+    "imagen_url": "assets/Imagenes/LUGARES/SUPERMERCADO.JPG",
+    "subcategoria": "Comercio"
+  },
+  {
+    "_id": "lugares_entretenimiento_cine",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cine",
+    "imagen_url": "assets/Imagenes/LUGARES/CINE.JPG",
+    "subcategoria": "Entretenimiento"
+  },
+  {
+    "_id": "lugares_alimentacion_restaurante",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Restaurante",
+    "imagen_url": "assets/Imagenes/LUGARES/RESTAURANTE.JPG",
+    "subcategoria": "Alimentación"
+  },
+  {
+    "_id": "lugares_recreacion_parque",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Parque",
+    "imagen_url": "assets/Imagenes/LUGARES/PARQUE.JPG",
+    "subcategoria": "Recreación"
+  },
+  {
+    "_id": "lugares_educacion_escuela",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Escuela",
+    "imagen_url": "assets/Imagenes/LUGARES/ESCUELA.JPG",
+    "subcategoria": "Educación"
+  },
+  {
+    "_id": "lugares_comercio_tienda",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tienda",
+    "imagen_url": "assets/Imagenes/LUGARES/TIENDA.JPG",
+    "subcategoria": "Comercio"
+  },
+  {
+    "_id": "lugares_alimentacion_cafeteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cafetería",
+    "imagen_url": "assets/Imagenes/LUGARES/CAFETERIA.JPG",
+    "subcategoria": "Alimentación"
+  },
+  {
+    "_id": "lugares_transporte_aeropuerto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Aeropuerto",
+    "imagen_url": "assets/Imagenes/LUGARES/AEROPUERTO.JPG",
+    "subcategoria": "Transporte"
+  },
+  {
+    "_id": "lugares_alimentacion_heladeria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Heladería",
+    "imagen_url": "assets/Imagenes/LUGARES/HELADERIA.JPG",
+    "subcategoria": "Alimentación"
+  }
+]

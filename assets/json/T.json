@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "verbo_tachar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tachar",
+    "imagen_url": "assets/Imagenes/VERBOS/TACHAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "tacho",
+        "tu": "tachas",
+        "el_ella_usted": "tacha",
+        "nosotros": "tachamos",
+        "ellos_ellas_ustedes": "tachan"
+      },
+      "pasado": {
+        "yo": "taché",
+        "tu": "tachaste",
+        "el_ella_usted": "tachó",
+        "nosotros": "tachamos",
+        "ellos_ellas_ustedes": "tacharon"
+      },
+      "futuro": {
+        "yo": "tacharé",
+        "tu": "tacharás",
+        "el_ella_usted": "tachará",
+        "nosotros": "tacharemos",
+        "ellos_ellas_ustedes": "tacharán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_tener",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tener",
+    "imagen_url": "assets/Imagenes/VERBOS/TENER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "tengo",
+        "tu": "tienes",
+        "el_ella_usted": "tiene",
+        "nosotros": "tenemos",
+        "ellos_ellas_ustedes": "tienen"
+      },
+      "pasado": {
+        "yo": "tuve",
+        "tu": "tuviste",
+        "el_ella_usted": "tuvo",
+        "nosotros": "tuvimos",
+        "ellos_ellas_ustedes": "tuvieron"
+      },
+      "futuro": {
+        "yo": "tendré",
+        "tu": "tendrás",
+        "el_ella_usted": "tendrá",
+        "nosotros": "tendremos",
+        "ellos_ellas_ustedes": "tendrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_tirar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tirar",
+    "imagen_url": "assets/Imagenes/VERBOS/TIRAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "tiro",
+        "tu": "tiras",
+        "el_ella_usted": "tira",
+        "nosotros": "tiramos",
+        "ellos_ellas_ustedes": "tiran"
+      },
+      "pasado": {
+        "yo": "tiré",
+        "tu": "tiraste",
+        "el_ella_usted": "tiró",
+        "nosotros": "tiramos",
+        "ellos_ellas_ustedes": "tiraron"
+      },
+      "futuro": {
+        "yo": "tiraré",
+        "tu": "tirarás",
+        "el_ella_usted": "tirará",
+        "nosotros": "tiraremos",
+        "ellos_ellas_ustedes": "tirarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_tocar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tocar",
+    "imagen_url": "assets/Imagenes/VERBOS/TOCAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "toco",
+        "tu": "tocas",
+        "el_ella_usted": "toca",
+        "nosotros": "tocamos",
+        "ellos_ellas_ustedes": "tocan"
+      },
+      "pasado": {
+        "yo": "toqué",
+        "tu": "tocaste",
+        "el_ella_usted": "tocó",
+        "nosotros": "tocamos",
+        "ellos_ellas_ustedes": "tocaron"
+      },
+      "futuro": {
+        "yo": "tocaré",
+        "tu": "tocarás",
+        "el_ella_usted": "tocará",
+        "nosotros": "tocaremos",
+        "ellos_ellas_ustedes": "tocarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_tomar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tomar",
+    "imagen_url": "assets/Imagenes/VERBOS/TOMAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "tomo",
+        "tu": "tomas",
+        "el_ella_usted": "toma",
+        "nosotros": "tomamos",
+        "ellos_ellas_ustedes": "toman"
+      },
+      "pasado": {
+        "yo": "tomé",
+        "tu": "tomaste",
+        "el_ella_usted": "tomó",
+        "nosotros": "tomamos",
+        "ellos_ellas_ustedes": "tomaron"
+      },
+      "futuro": {
+        "yo": "tomaré",
+        "tu": "tomarás",
+        "el_ella_usted": "tomará",
+        "nosotros": "tomaremos",
+        "ellos_ellas_ustedes": "tomarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_trabajar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Trabajar",
+    "imagen_url": "assets/Imagenes/VERBOS/TRABAJAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "trabajo",
+        "tu": "trabajas",
+        "el_ella_usted": "trabaja",
+        "nosotros": "trabajamos",
+        "ellos_ellas_ustedes": "trabajan"
+      },
+      "pasado": {
+        "yo": "trabajé",
+        "tu": "trabajaste",
+        "el_ella_usted": "trabajó",
+        "nosotros": "trabajamos",
+        "ellos_ellas_ustedes": "trabajaron"
+      },
+      "futuro": {
+        "yo": "trabajaré",
+        "tu": "trabajarás",
+        "el_ella_usted": "trabajará",
+        "nosotros": "trabajaremos",
+        "ellos_ellas_ustedes": "trabajarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_traer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Traer",
+    "imagen_url": "assets/Imagenes/VERBOS/TRAER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "traigo",
+        "tu": "traes",
+        "el_ella_usted": "trae",
+        "nosotros": "traemos",
+        "ellos_ellas_ustedes": "traen"
+      },
+      "pasado": {
+        "yo": "traje",
+        "tu": "trajiste",
+        "el_ella_usted": "trajo",
+        "nosotros": "trajimos",
+        "ellos_ellas_ustedes": "trajeron"
+      },
+      "futuro": {
+        "yo": "traeré",
+        "tu": "traerás",
+        "el_ella_usted": "traerá",
+        "nosotros": "traeremos",
+        "ellos_ellas_ustedes": "traerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_tropezar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Tropezar",
+    "imagen_url": "assets/Imagenes/VERBOS/TROPEZAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "tropiezo",
+        "tu": "tropiezas",
+        "el_ella_usted": "tropieza",
+        "nosotros": "tropezamos",
+        "ellos_ellas_ustedes": "tropiezan"
+      },
+      "pasado": {
+        "yo": "tropecé",
+        "tu": "tropezaste",
+        "el_ella_usted": "tropezó",
+        "nosotros": "tropezamos",
+        "ellos_ellas_ustedes": "tropezaron"
+      },
+      "futuro": {
+        "yo": "tropezaré",
+        "tu": "tropezarás",
+        "el_ella_usted": "tropezará",
+        "nosotros": "tropezaremos",
+        "ellos_ellas_ustedes": "tropezarán"
+      }
+    }
+  }
+]

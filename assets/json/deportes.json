@@ -1,0 +1,369 @@
+[
+  {
+    "id": "deportes_futbol_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Fútbol",
+    "imagen_url": "assets/Imagenes/DEPORTES/FUTBOL.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_baloncesto_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Baloncesto",
+    "imagen_url": "assets/Imagenes/DEPORTES/BASKETBALL.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_beisbol_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Béisbol",
+    "imagen_url": "assets/Imagenes/DEPORTES/BEISBOL.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_tenis_deportes_de_raqueta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tenis",
+    "imagen_url": "assets/Imagenes/DEPORTES/TENNIS.png",
+    "subcategoria": "Deportes de Raqueta"
+  }
+,
+  {
+    "id": "deportes_natacion_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Natación",
+    "imagen_url": "assets/Imagenes/DEPORTES/NATACION.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_atletismo_atletismo_y_resistencia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Atletismo",
+    "imagen_url": "assets/Imagenes/DEPORTES/ATLETISMO.png",
+    "subcategoria": "Atletismo y Resistencia"
+  }
+,
+  {
+    "id": "deportes_voleibol_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Voleibol",
+    "imagen_url": "assets/Imagenes/DEPORTES/VOLEIBOL.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_gimnasia_gimnasia_y_expresion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gimnasia",
+    "imagen_url": "assets/Imagenes/DEPORTES/GIMNASIA.png",
+    "subcategoria": "Gimnasia y Expresión"
+  }
+,
+  {
+    "id": "deportes_boxeo_artes_marciales_y_combate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Boxeo",
+    "imagen_url": "assets/Imagenes/DEPORTES/BOXEO.png",
+    "subcategoria": "Artes Marciales y Combate"
+  }
+,
+  {
+    "id": "deportes_ciclismo_deportes_individuales_y_de_ruedas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ciclismo",
+    "imagen_url": "assets/Imagenes/DEPORTES/CICLISMO.png",
+    "subcategoria": "Deportes Individuales y de Ruedas"
+  }
+,
+  {
+    "id": "deportes_golf_deportes_individuales_y_de_precision",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Golf",
+    "imagen_url": "assets/Imagenes/DEPORTES/GOLF.png",
+    "subcategoria": "Deportes Individuales y de Precisión"
+  }
+,
+  {
+    "id": "deportes_rugby_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rugby",
+    "imagen_url": "assets/Imagenes/DEPORTES/RUGBY.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_hockey_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hockey",
+    "imagen_url": "assets/Imagenes/DEPORTES/HOCKEY.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_surf_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Surf",
+    "imagen_url": "assets/Imagenes/DEPORTES/SURF.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_esgrima_artes_marciales_y_combate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Esgrima",
+    "imagen_url": "assets/Imagenes/DEPORTES/ESGRIMA.png",
+    "subcategoria": "Artes Marciales y Combate"
+  }
+,
+  {
+    "id": "deportes_patinaje_deportes_individuales_y_de_ruedas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Patinaje",
+    "imagen_url": "assets/Imagenes/DEPORTES/PATINAJE.png",
+    "subcategoria": "Deportes Individuales y de Ruedas"
+  }
+,
+  {
+    "id": "deportes_escalada_deportes_extremos_y_de_montana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Escalada",
+    "imagen_url": "assets/Imagenes/DEPORTES/ESCALADA.png",
+    "subcategoria": "Deportes Extremos y de Montaña"
+  }
+,
+  {
+    "id": "deportes_remo_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Remo",
+    "imagen_url": "assets/Imagenes/DEPORTES/REMO.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_karate_artes_marciales_y_combate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Karate",
+    "imagen_url": "assets/Imagenes/DEPORTES/KARATE.png",
+    "subcategoria": "Artes Marciales y Combate"
+  }
+,
+  {
+    "id": "deportes_judo_artes_marciales_y_combate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Judo",
+    "imagen_url": "assets/Imagenes/DEPORTES/JUDO.png",
+    "subcategoria": "Artes Marciales y Combate"
+  }
+,
+  {
+    "id": "deportes_taekwondo_artes_marciales_y_combate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Taekwondo",
+    "imagen_url": "assets/Imagenes/DEPORTES/TAEKWONDO_ROBOT_VARIANT_A.png",
+    "subcategoria": "Artes Marciales y Combate"
+  }
+,
+  {
+    "id": "deportes_yoga_fitness_y_bienestar",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Yoga",
+    "imagen_url": "assets/Imagenes/DEPORTES/YOGA.png",
+    "subcategoria": "Fitness y Bienestar"
+  }
+,
+  {
+    "id": "deportes_pilates_fitness_y_bienestar",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pilates",
+    "imagen_url": "assets/Imagenes/DEPORTES/PILATES.png",
+    "subcategoria": "Fitness y Bienestar"
+  }
+,
+  {
+    "id": "deportes_senderismo_deportes_extremos_y_de_montana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Senderismo",
+    "imagen_url": "assets/Imagenes/DEPORTES/SENDERISMO.png",
+    "subcategoria": "Deportes Extremos y de Montaña"
+  }
+,
+  {
+    "id": "deportes_skate_deportes_individuales_y_de_ruedas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Skate",
+    "imagen_url": "assets/Imagenes/DEPORTES/SKATE.png",
+    "subcategoria": "Deportes Individuales y de Ruedas"
+  }
+,
+  {
+    "id": "deportes_snowboard_deportes_extremos_y_de_montana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Snowboard",
+    "imagen_url": "assets/Imagenes/DEPORTES/SNOWBOARD.png",
+    "subcategoria": "Deportes Extremos y de Montaña"
+  }
+,
+  {
+    "id": "deportes_esqui_deportes_extremos_y_de_montana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Esquí",
+    "imagen_url": "assets/Imagenes/DEPORTES/ESQUI.png",
+    "subcategoria": "Deportes Extremos y de Montaña"
+  }
+,
+  {
+    "id": "deportes_buceo_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Buceo",
+    "imagen_url": "assets/Imagenes/DEPORTES/BUCEO.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_pesca_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pesca",
+    "imagen_url": "assets/Imagenes/DEPORTES/PESCA-DEPORTIVA.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_arqueria_deportes_individuales_y_de_precision",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Arquería",
+    "imagen_url": "assets/Imagenes/DEPORTES/ARQUERIA.png",
+    "subcategoria": "Deportes Individuales y de Precisión"
+  }
+,
+  {
+    "id": "deportes_balonmano_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Balonmano",
+    "imagen_url": "assets/Imagenes/DEPORTES/BALONMANO.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_softbol_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Softbol",
+    "imagen_url": "assets/Imagenes/DEPORTES/SOFTBALL.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_triatlon_atletismo_y_resistencia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Triatlón",
+    "imagen_url": "assets/Imagenes/DEPORTES/TRIATLON.png",
+    "subcategoria": "Atletismo y Resistencia"
+  }
+,
+  {
+    "id": "deportes_maraton_atletismo_y_resistencia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maratón",
+    "imagen_url": "assets/Imagenes/DEPORTES/MARATON.png",
+    "subcategoria": "Atletismo y Resistencia"
+  }
+,
+  {
+    "id": "deportes_correr_atletismo_y_resistencia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Correr",
+    "imagen_url": "assets/Imagenes/DEPORTES/CORRER.png",
+    "subcategoria": "Atletismo y Resistencia"
+  }
+,
+  {
+    "id": "deportes_caminata_atletismo_y_resistencia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Caminata",
+    "imagen_url": "assets/Imagenes/DEPORTES/CAMINATA.png",
+    "subcategoria": "Atletismo y Resistencia"
+  }
+,
+  {
+    "id": "deportes_danza_gimnasia_y_expresion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Danza",
+    "imagen_url": "assets/Imagenes/DEPORTES/DANZA.png",
+    "subcategoria": "Gimnasia y Expresión"
+  }
+,
+  {
+    "id": "deportes_cheerleading_gimnasia_y_expresion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cheerleading",
+    "imagen_url": "NO ESTA",
+    "subcategoria": "Gimnasia y Expresión"
+  }
+,
+  {
+    "id": "deportes_polo_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Polo",
+    "imagen_url": "assets/Imagenes/DEPORTES/POLO.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_cricket_deportes_de_equipo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cricket",
+    "imagen_url": "assets/Imagenes/DEPORTES/CRICKET.png",
+    "subcategoria": "Deportes de Equipo"
+  }
+,
+  {
+    "id": "deportes_badminton_deportes_de_raqueta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Badminton",
+    "imagen_url": "assets/Imagenes/DEPORTES/BADMINTON.png",
+    "subcategoria": "Deportes de Raqueta"
+  }
+,
+  {
+    "id": "deportes_pingpong_deportes_de_raqueta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pingpong",
+    "imagen_url": "assets/Imagenes/DEPORTES/PINGPONG.png",
+    "subcategoria": "Deportes de Raqueta"
+  }
+,
+  {
+    "id": "deportes_parkour_deportes_extremos_y_de_montana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Parkour",
+    "imagen_url": "assets/Imagenes/DEPORTES/PARKOUR.png",
+    "subcategoria": "Deportes Extremos y de Montaña"
+  }
+,
+  {
+    "id": "deportes_crossfit_fitness_y_bienestar",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Crossfit",
+    "imagen_url": "assets/Imagenes/DEPORTES/CROSSFIT.png",
+    "subcategoria": "Fitness y Bienestar"
+  }
+,
+  {
+    "id": "deportes_navegacion_deportes_acuaticos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Navegación",
+    "imagen_url": "assets/Imagenes/DEPORTES/NAVEGACION.png",
+    "subcategoria": "Deportes Acuáticos"
+  }
+,
+  {
+    "id": "deportes_equitacion_deportes_individuales_y_de_precision",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Equitación",
+    "imagen_url": "assets/Imagenes/DEPORTES/EQUITACION.png",
+    "subcategoria": "Deportes Individuales y de Precisión"
+  }
+]

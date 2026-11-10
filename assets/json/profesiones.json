@@ -1,0 +1,346 @@
+[
+  {
+    "id": "profesiones_actor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Actor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ACTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_agricultor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Agricultor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/AGRICULTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_arquitecto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Arquitecto",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ARQUITECTO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_bailarin",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bailarín",
+    "imagen_url": "assets/Imagenes/PROFESIONES/BAILARIN.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_bombero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bombero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/BOMBERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_cajero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cajero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CAJERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_camarero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camarero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CAMARERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_cientifico",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Científico",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CIENTIFICO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_conductor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Conductor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CONDUCTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_disenador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Diseñador",
+    "imagen_url": "assets/Imagenes/PROFESIONES/DISENADOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_doctor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Doctor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/DOCTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_electricista",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Electricista",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ELECTRICISTA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_estilista",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Estilista",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ESTILISTA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_fotografo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Fotógrafo",
+    "imagen_url": "assets/Imagenes/PROFESIONES/FOTOGRAFO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_ingeniero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ingeniero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/INGENIERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_mecanico",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mecánico",
+    "imagen_url": "assets/Imagenes/PROFESIONES/MECANICO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_programador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Programador",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PROGRAMADOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_sastre",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sastre",
+    "imagen_url": "assets/Imagenes/PROFESIONES/SASTRE.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_soldador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Soldador",
+    "imagen_url": "assets/Imagenes/PROFESIONES/SOLDADOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_traductor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Traductor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/TRADUCTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_veterinario",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Veterinario",
+    "imagen_url": "assets/Imagenes/PROFESIONES/VETERINARIO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_abogado",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Abogado",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ABOGADO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_carpintero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Carpintero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CARPINTERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_cocinero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cocinero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/COCINERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_enfermero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Enfermero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ENFERMERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_maestro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maestro",
+    "imagen_url": "assets/Imagenes/PROFESIONES/MAESTRO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_plomero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Plomero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PLOMERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_policia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Policía",
+    "imagen_url": "assets/Imagenes/PROFESIONES/POLICIA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_albañil",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Albañil",
+    "imagen_url": "assets/Imagenes/PROFESIONES/ALBAÑIL.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_azafata",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Azafata",
+    "imagen_url": "assets/Imagenes/PROFESIONES/AZAFATA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_barbero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Barbero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/BARBERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_cantante",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cantante",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CANTANTE.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_chef",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chef",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CHEF.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_contador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Contador",
+    "imagen_url": "assets/Imagenes/PROFESIONES/CONTADOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_jardinero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jardinero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/JARDINERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_modista",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Modista",
+    "imagen_url": "assets/Imagenes/PROFESIONES/MODISTA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_musico",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Músico",
+    "imagen_url": "assets/Imagenes/PROFESIONES/MUSICO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_panadero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Panadero",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PANADERO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_periodista",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Periodista",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PERIODISTA.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_piloto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Piloto",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PILOTO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_pintor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pintor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PINTOR.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_psicologo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Psicólogo",
+    "imagen_url": "assets/Imagenes/PROFESIONES/PSICOLOGO.png",
+    "subcategoria": "Profesiones"
+  }
+,
+  {
+    "id": "profesiones_vendedor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Vendedor",
+    "imagen_url": "assets/Imagenes/PROFESIONES/VENDEDOR.png",
+    "subcategoria": "Profesiones"
+  }
+]
+

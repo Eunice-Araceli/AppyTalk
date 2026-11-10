@@ -1,0 +1,812 @@
+[
+  {
+    "_id": "verbo_aburrir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Aburrir",
+    "imagen_url": "assets/Imagenes/VERBOS/ABURRIR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "aburro",
+        "tu": "aburres",
+        "el_ella_usted": "aburre",
+        "nosotros": "aburrimos",
+        "ellos_ellas_ustedes": "aburren"
+      },
+      "pasado": {
+        "yo": "aburrí",
+        "tu": "aburriste",
+        "el_ella_usted": "aburrió",
+        "nosotros": "aburrimos",
+        "ellos_ellas_ustedes": "aburrieron"
+      },
+      "futuro": {
+        "yo": "aburriré",
+        "tu": "aburrirás",
+        "el_ella_usted": "aburrirá",
+        "nosotros": "aburriremos",
+        "ellos_ellas_ustedes": "aburrirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_abrazar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Abrazar",
+    "imagen_url": "assets/Imagenes/VERBOS/ABRAZAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "abrazo",
+        "tu": "abrazas",
+        "el_ella_usted": "abraza",
+        "nosotros": "abrazamos",
+        "ellos_ellas_ustedes": "abrazan"
+      },
+      "pasado": {
+        "yo": "abracé",
+        "tu": "abrazaste",
+        "el_ella_usted": "abrazó",
+        "nosotros": "abrazamos",
+        "ellos_ellas_ustedes": "abrazaron"
+      },
+      "futuro": {
+        "yo": "abrazaré",
+        "tu": "abrazarás",
+        "el_ella_usted": "abrazará",
+        "nosotros": "abrazaremos",
+        "ellos_ellas_ustedes": "abrazarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_abrir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Abrir",
+    "imagen_url": "assets/Imagenes/VERBOS/ABRIR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "abro",
+        "tu": "abres",
+        "el_ella_usted": "abre",
+        "nosotros": "abrimos",
+        "ellos_ellas_ustedes": "abren"
+      },
+      "pasado": {
+        "yo": "abrí",
+        "tu": "abriste",
+        "el_ella_usted": "abrió",
+        "nosotros": "abrimos",
+        "ellos_ellas_ustedes": "abrieron"
+      },
+      "futuro": {
+        "yo": "abriré",
+        "tu": "abrirás",
+        "el_ella_usted": "abrirá",
+        "nosotros": "abriremos",
+        "ellos_ellas_ustedes": "abrirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_acabar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Acabar",
+    "imagen_url": "assets/Imagenes/VERBOS/ACABAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "acabo",
+        "tu": "acabas",
+        "el_ella_usted": "acaba",
+        "nosotros": "acabamos",
+        "ellos_ellas_ustedes": "acaban"
+      },
+      "pasado": {
+        "yo": "acabé",
+        "tu": "acabaste",
+        "el_ella_usted": "acabó",
+        "nosotros": "acabamos",
+        "ellos_ellas_ustedes": "acabaron"
+      },
+      "futuro": {
+        "yo": "acabaré",
+        "tu": "acabarás",
+        "el_ella_usted": "acabará",
+        "nosotros": "acabaremos",
+        "ellos_ellas_ustedes": "acabarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_acompanar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Acompañar",
+    "imagen_url": "assets/Imagenes/VERBOS/ACOMPAÑAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "acompaño",
+        "tu": "acompañas",
+        "el_ella_usted": "acompaña",
+        "nosotros": "acompañamos",
+        "ellos_ellas_ustedes": "acompañan"
+      },
+      "pasado": {
+        "yo": "acompañé",
+        "tu": "acompañaste",
+        "el_ella_usted": "acompañó",
+        "nosotros": "acompañamos",
+        "ellos_ellas_ustedes": "acompañaron"
+      },
+      "futuro": {
+        "yo": "acompañaré",
+        "tu": "acompañarás",
+        "el_ella_usted": "acompañará",
+        "nosotros": "acompañaremos",
+        "ellos_ellas_ustedes": "acompañarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_acostar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Acostar",
+    "imagen_url": "assets/Imagenes/VERBOS/ACOSTAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "acuesto",
+        "tu": "acuestas",
+        "el_ella_usted": "acuesta",
+        "nosotros": "acostamos",
+        "ellos_ellas_ustedes": "acuestan"
+      },
+      "pasado": {
+        "yo": "acosté",
+        "tu": "acostaste",
+        "el_ella_usted": "acostó",
+        "nosotros": "acostamos",
+        "ellos_ellas_ustedes": "acostaron"
+      },
+      "futuro": {
+        "yo": "acostaré",
+        "tu": "acostarás",
+        "el_ella_usted": "acostará",
+        "nosotros": "acostaremos",
+        "ellos_ellas_ustedes": "acostarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_adivinar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Adivinar",
+    "imagen_url": "assets/Imagenes/VERBOS/ADIVINAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "adivino",
+        "tu": "adivinas",
+        "el_ella_usted": "adivina",
+        "nosotros": "adivinamos",
+        "ellos_ellas_ustedes": "adivinan"
+      },
+      "pasado": {
+        "yo": "adiviné",
+        "tu": "adivinaste",
+        "el_ella_usted": "adivinó",
+        "nosotros": "adivinamos",
+        "ellos_ellas_ustedes": "adivinaron"
+      },
+      "futuro": {
+        "yo": "adivinaré",
+        "tu": "adivinarás",
+        "el_ella_usted": "adivinará",
+        "nosotros": "adivinaremos",
+        "ellos_ellas_ustedes": "adivinarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_agarrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Agarrar",
+    "imagen_url": "assets/Imagenes/VERBOS/AGARRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "agarro",
+        "tu": "agarras",
+        "el_ella_usted": "agarra",
+        "nosotros": "agarramos",
+        "ellos_ellas_ustedes": "agarran"
+      },
+      "pasado": {
+        "yo": "agarré",
+        "tu": "agarraste",
+        "el_ella_usted": "agarró",
+        "nosotros": "agarramos",
+        "ellos_ellas_ustedes": "agarraron"
+      },
+      "futuro": {
+        "yo": "agarraré",
+        "tu": "agarrarás",
+        "el_ella_usted": "agarrará",
+        "nosotros": "agarraremos",
+        "ellos_ellas_ustedes": "agarrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_agitar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Agitar",
+    "imagen_url": "assets/Imagenes/VERBOS/AGITAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "agito",
+        "tu": "agitas",
+        "el_ella_usted": "agita",
+        "nosotros": "agitamos",
+        "ellos_ellas_ustedes": "agitan"
+      },
+      "pasado": {
+        "yo": "agité",
+        "tu": "agitaste",
+        "el_ella_usted": "agitó",
+        "nosotros": "agitamos",
+        "ellos_ellas_ustedes": "agitaron"
+      },
+      "futuro": {
+        "yo": "agitaré",
+        "tu": "agitarás",
+        "el_ella_usted": "agitará",
+        "nosotros": "agitaremos",
+        "ellos_ellas_ustedes": "agitarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ahorrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ahorrar",
+    "imagen_url": "assets/Imagenes/VERBOS/AHORRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "ahorro",
+        "tu": "ahorras",
+        "el_ella_usted": "ahorra",
+        "nosotros": "ahorramos",
+        "ellos_ellas_ustedes": "ahorran"
+      },
+      "pasado": {
+        "yo": "ahorré",
+        "tu": "ahorraste",
+        "el_ella_usted": "ahorró",
+        "nosotros": "ahorramos",
+        "ellos_ellas_ustedes": "ahorraron"
+      },
+      "futuro": {
+        "yo": "ahorraré",
+        "tu": "ahorrarás",
+        "el_ella_usted": "ahorrará",
+        "nosotros": "ahorraremos",
+        "ellos_ellas_ustedes": "ahorrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_alcanzar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Alcanzar",
+    "imagen_url": "assets/Imagenes/VERBOS/ALCANZAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "alcanzo",
+        "tu": "alcanzas",
+        "el_ella_usted": "alcanza",
+        "nosotros": "alcanzamos",
+        "ellos_ellas_ustedes": "alcanzan"
+      },
+      "pasado": {
+        "yo": "alcancé",
+        "tu": "alcanzaste",
+        "el_ella_usted": "alcanzó",
+        "nosotros": "alcanzamos",
+        "ellos_ellas_ustedes": "alcanzaron"
+      },
+      "futuro": {
+        "yo": "alcanzaré",
+        "tu": "alcanzarás",
+        "el_ella_usted": "alcanzará",
+        "nosotros": "alcanzaremos",
+        "ellos_ellas_ustedes": "alcanzarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_almorzar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Almorzar",
+    "imagen_url": "assets/Imagenes/VERBOS/ALMORZAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "almuerzo",
+        "tu": "almuerzas",
+        "el_ella_usted": "almuerza",
+        "nosotros": "almorzamos",
+        "ellos_ellas_ustedes": "almuerzan"
+      },
+      "pasado": {
+        "yo": "almorcé",
+        "tu": "almorzaste",
+        "el_ella_usted": "almorzó",
+        "nosotros": "almorzamos",
+        "ellos_ellas_ustedes": "almorzaron"
+      },
+      "futuro": {
+        "yo": "almorzaré",
+        "tu": "almorzarás",
+        "el_ella_usted": "almorzará",
+        "nosotros": "almorzaremos",
+        "ellos_ellas_ustedes": "almorzarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_alumbrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Alumbrar",
+    "imagen_url": "assets/Imagenes/VERBOS/ALUMBRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "alumbro",
+        "tu": "alumbras",
+        "el_ella_usted": "alumbra",
+        "nosotros": "alumbramos",
+        "ellos_ellas_ustedes": "alumbran"
+      },
+      "pasado": {
+        "yo": "alumbré",
+        "tu": "alumbraste",
+        "el_ella_usted": "alumbró",
+        "nosotros": "alumbramos",
+        "ellos_ellas_ustedes": "alumbraron"
+      },
+      "futuro": {
+        "yo": "alumbraré",
+        "tu": "alumbrarás",
+        "el_ella_usted": "alumbrará",
+        "nosotros": "alumbraremos",
+        "ellos_ellas_ustedes": "alumbrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_amarrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Amarrar",
+    "imagen_url": "assets/Imagenes/VERBOS/AMARRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "amarro",
+        "tu": "amarras",
+        "el_ella_usted": "amarra",
+        "nosotros": "amarramos",
+        "ellos_ellas_ustedes": "amarran"
+      },
+      "pasado": {
+        "yo": "amarré",
+        "tu": "amarraste",
+        "el_ella_usted": "amarró",
+        "nosotros": "amarramos",
+        "ellos_ellas_ustedes": "amarraron"
+      },
+      "futuro": {
+        "yo": "amarraré",
+        "tu": "amarrarás",
+        "el_ella_usted": "amarrará",
+        "nosotros": "amarraremos",
+        "ellos_ellas_ustedes": "amarrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_apagar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Apagar",
+    "imagen_url": "assets/Imagenes/VERBOS/APAGAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "apago",
+        "tu": "apagas",
+        "el_ella_usted": "apaga",
+        "nosotros": "apagamos",
+        "ellos_ellas_ustedes": "apagan"
+      },
+      "pasado": {
+        "yo": "apagué",
+        "tu": "apagaste",
+        "el_ella_usted": "apagó",
+        "nosotros": "apagamos",
+        "ellos_ellas_ustedes": "apagaron"
+      },
+      "futuro": {
+        "yo": "apagaré",
+        "tu": "apagarás",
+        "el_ella_usted": "apagará",
+        "nosotros": "apagaremos",
+        "ellos_ellas_ustedes": "apagarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_aparecer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Aparecer",
+    "imagen_url": "assets/Imagenes/VERBOS/APARECER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "aparezco",
+        "tu": "apareces",
+        "el_ella_usted": "aparece",
+        "nosotros": "aparecemos",
+        "ellos_ellas_ustedes": "aparecen"
+      },
+      "pasado": {
+        "yo": "aparecí",
+        "tu": "apareciste",
+        "el_ella_usted": "apareció",
+        "nosotros": "aparecimos",
+        "ellos_ellas_ustedes": "aparecieron"
+      },
+      "futuro": {
+        "yo": "apareceré",
+        "tu": "aparecerás",
+        "el_ella_usted": "aparecerá",
+        "nosotros": "apareceremos",
+        "ellos_ellas_ustedes": "aparecerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_aprender",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Aprender",
+    "imagen_url": "assets/Imagenes/VERBOS/APRENDER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "aprendo",
+        "tu": "aprendes",
+        "el_ella_usted": "aprende",
+        "nosotros": "aprendemos",
+        "ellos_ellas_ustedes": "aprenden"
+      },
+      "pasado": {
+        "yo": "aprendí",
+        "tu": "aprendiste",
+        "el_ella_usted": "aprendió",
+        "nosotros": "aprendimos",
+        "ellos_ellas_ustedes": "aprendieron"
+      },
+      "futuro": {
+        "yo": "aprenderé",
+        "tu": "aprenderás",
+        "el_ella_usted": "aprenderá",
+        "nosotros": "aprenderemos",
+        "ellos_ellas_ustedes": "aprenderán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_apuntar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Apuntar",
+    "imagen_url": "assets/Imagenes/VERBOS/APUNTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "apunto",
+        "tu": "apuntas",
+        "el_ella_usted": "apunta",
+        "nosotros": "apuntamos",
+        "ellos_ellas_ustedes": "apuntan"
+      },
+      "pasado": {
+        "yo": "apunté",
+        "tu": "apuntaste",
+        "el_ella_usted": "apuntó",
+        "nosotros": "apuntamos",
+        "ellos_ellas_ustedes": "apuntaron"
+      },
+      "futuro": {
+        "yo": "apuntaré",
+        "tu": "apuntarás",
+        "el_ella_usted": "apuntará",
+        "nosotros": "apuntaremos",
+        "ellos_ellas_ustedes": "apuntarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_apurar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Apurar",
+    "imagen_url": "assets/Imagenes/VERBOS/APURAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "apuro",
+        "tu": "apuras",
+        "el_ella_usted": "apura",
+        "nosotros": "apuramos",
+        "ellos_ellas_ustedes": "apuran"
+      },
+      "pasado": {
+        "yo": "apuré",
+        "tu": "apuraste",
+        "el_ella_usted": "apuró",
+        "nosotros": "apuramos",
+        "ellos_ellas_ustedes": "apuraron"
+      },
+      "futuro": {
+        "yo": "apuraré",
+        "tu": "apurarás",
+        "el_ella_usted": "apurará",
+        "nosotros": "apuraremos",
+        "ellos_ellas_ustedes": "apurarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_armar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Armar",
+    "imagen_url": "assets/Imagenes/VERBOS/ARMAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "armo",
+        "tu": "armas",
+        "el_ella_usted": "arma",
+        "nosotros": "armamos",
+        "ellos_ellas_ustedes": "arman"
+      },
+      "pasado": {
+        "yo": "armé",
+        "tu": "armaste",
+        "el_ella_usted": "armó",
+        "nosotros": "armamos",
+        "ellos_ellas_ustedes": "armaron"
+      },
+      "futuro": {
+        "yo": "armaré",
+        "tu": "armarás",
+        "el_ella_usted": "armará",
+        "nosotros": "armaremos",
+        "ellos_ellas_ustedes": "armarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_arrancar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Arrancar",
+    "imagen_url": "assets/Imagenes/VERBOS/ARRANCAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "arranco",
+        "tu": "arrancas",
+        "el_ella_usted": "arranca",
+        "nosotros": "arrancamos",
+        "ellos_ellas_ustedes": "arrancan"
+      },
+      "pasado": {
+        "yo": "arranqué",
+        "tu": "arrancaste",
+        "el_ella_usted": "arrancó",
+        "nosotros": "arrancamos",
+        "ellos_ellas_ustedes": "arrancaron"
+      },
+      "futuro": {
+        "yo": "arrancaré",
+        "tu": "arrancarás",
+        "el_ella_usted": "arrancará",
+        "nosotros": "arrancaremos",
+        "ellos_ellas_ustedes": "arrancarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_arreglar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Arreglar",
+    "imagen_url": "assets/Imagenes/VERBOS/ARREGLAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "arreglo",
+        "tu": "arreglas",
+        "el_ella_usted": "arregla",
+        "nosotros": "arreglamos",
+        "ellos_ellas_ustedes": "arreglan"
+      },
+      "pasado": {
+        "yo": "arreglé",
+        "tu": "arreglaste",
+        "el_ella_usted": "arregló",
+        "nosotros": "arreglamos",
+        "ellos_ellas_ustedes": "arreglaron"
+      },
+      "futuro": {
+        "yo": "arreglaré",
+        "tu": "arreglarás",
+        "el_ella_usted": "arreglará",
+        "nosotros": "arreglaremos",
+        "ellos_ellas_ustedes": "arreglarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_arrojar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Arrojar",
+    "imagen_url": "assets/Imagenes/VERBOS/ARROJAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "arrojo",
+        "tu": "arrojas",
+        "el_ella_usted": "arroja",
+        "nosotros": "arrojamos",
+        "ellos_ellas_ustedes": "arrojan"
+      },
+      "pasado": {
+        "yo": "arrojé",
+        "tu": "arrojaste",
+        "el_ella_usted": "arrojó",
+        "nosotros": "arrojamos",
+        "ellos_ellas_ustedes": "arrojaron"
+      },
+      "futuro": {
+        "yo": "arrojaré",
+        "tu": "arrojarás",
+        "el_ella_usted": "arrojará",
+        "nosotros": "arrojaremos",
+        "ellos_ellas_ustedes": "arrojarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_asustar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Asustar",
+    "imagen_url": "assets/Imagenes/VERBOS/ASUSTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "asusto",
+        "tu": "asustas",
+        "el_ella_usted": "asusta",
+        "nosotros": "asustamos",
+        "ellos_ellas_ustedes": "asustan"
+      },
+      "pasado": {
+        "yo": "asusté",
+        "tu": "asustaste",
+        "el_ella_usted": "asustó",
+        "nosotros": "asustamos",
+        "ellos_ellas_ustedes": "asustaron"
+      },
+      "futuro": {
+        "yo": "asustaré",
+        "tu": "asustarás",
+        "el_ella_usted": "asustará",
+        "nosotros": "asustaremos",
+        "ellos_ellas_ustedes": "asustarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_atrapar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Atrapar",
+    "imagen_url": "assets/Imagenes/VERBOS/ATRAPAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "atrapo",
+        "tu": "atrapas",
+        "el_ella_usted": "atrapa",
+        "nosotros": "atrapamos",
+        "ellos_ellas_ustedes": "atrapan"
+      },
+      "pasado": {
+        "yo": "atrapé",
+        "tu": "atrapaste",
+        "el_ella_usted": "atrapó",
+        "nosotros": "atrapamos",
+        "ellos_ellas_ustedes": "atraparon"
+      },
+      "futuro": {
+        "yo": "atraparé",
+        "tu": "atraparás",
+        "el_ella_usted": "atrapará",
+        "nosotros": "atraparemos",
+        "ellos_ellas_ustedes": "atraparán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_avisar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Avisar",
+    "imagen_url": "assets/Imagenes/VERBOS/AVISAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "aviso",
+        "tu": "avisas",
+        "el_ella_usted": "avisa",
+        "nosotros": "avisamos",
+        "ellos_ellas_ustedes": "avisan"
+      },
+      "pasado": {
+        "yo": "avisé",
+        "tu": "avisaste",
+        "el_ella_usted": "avisó",
+        "nosotros": "avisamos",
+        "ellos_ellas_ustedes": "avisaron"
+      },
+      "futuro": {
+        "yo": "avisaré",
+        "tu": "avisarás",
+        "el_ella_usted": "avisará",
+        "nosotros": "avisaremos",
+        "ellos_ellas_ustedes": "avisarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ayudar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ayudar",
+    "imagen_url": "assets/Imagenes/VERBOS/AYUDAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "ayudo",
+        "tu": "ayudas",
+        "el_ella_usted": "ayuda",
+        "nosotros": "ayudamos",
+        "ellos_ellas_ustedes": "ayudan"
+      },
+      "pasado": {
+        "yo": "ayudé",
+        "tu": "ayudaste",
+        "el_ella_usted": "ayudó",
+        "nosotros": "ayudamos",
+        "ellos_ellas_ustedes": "ayudaron"
+      },
+      "futuro": {
+        "yo": "ayudaré",
+        "tu": "ayudarás",
+        "el_ella_usted": "ayudará",
+        "nosotros": "ayudaremos",
+        "ellos_ellas_ustedes": "ayudarán"
+      }
+    }
+  }
+]

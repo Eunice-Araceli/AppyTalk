@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "verbo_regalar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Regalar",
+    "imagen_url": "assets/Imagenes/VERBOS/REGALAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "regalo",
+        "tu": "regalas",
+        "el_ella_usted": "regala",
+        "nosotros": "regalamos",
+        "ellos_ellas_ustedes": "regalan"
+      },
+      "pasado": {
+        "yo": "regalé",
+        "tu": "regalaste",
+        "el_ella_usted": "regaló",
+        "nosotros": "regalamos",
+        "ellos_ellas_ustedes": "regalaron"
+      },
+      "futuro": {
+        "yo": "regalaré",
+        "tu": "regalarás",
+        "el_ella_usted": "regalará",
+        "nosotros": "regalaremos",
+        "ellos_ellas_ustedes": "regalarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_regresar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Regresar",
+    "imagen_url": "assets/Imagenes/VERBOS/REGRESAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "regreso",
+        "tu": "regresas",
+        "el_ella_usted": "regresa",
+        "nosotros": "regresamos",
+        "ellos_ellas_ustedes": "regresan"
+      },
+      "pasado": {
+        "yo": "regresé",
+        "tu": "regresaste",
+        "el_ella_usted": "regresó",
+        "nosotros": "regresamos",
+        "ellos_ellas_ustedes": "regresaron"
+      },
+      "futuro": {
+        "yo": "regresaré",
+        "tu": "regresarás",
+        "el_ella_usted": "regresará",
+        "nosotros": "regresaremos",
+        "ellos_ellas_ustedes": "regresarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_reir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Reír",
+    "imagen_url": "assets/Imagenes/VERBOS/REIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "río",
+        "tu": "ríes",
+        "el_ella_usted": "ríe",
+        "nosotros": "reímos",
+        "ellos_ellas_ustedes": "ríen"
+      },
+      "pasado": {
+        "yo": "reí",
+        "tu": "reíste",
+        "el_ella_usted": "rió",
+        "nosotros": "reímos",
+        "ellos_ellas_ustedes": "rieron"
+      },
+      "futuro": {
+        "yo": "reiré",
+        "tu": "reirás",
+        "el_ella_usted": "reirá",
+        "nosotros": "reiremos",
+        "ellos_ellas_ustedes": "reirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_rodar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Rodar",
+    "imagen_url": "assets/Imagenes/VERBOS/RODAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "rodo",
+        "tu": "rodas",
+        "el_ella_usted": "roda",
+        "nosotros": "rodamos",
+        "ellos_ellas_ustedes": "rodan"
+      },
+      "pasado": {
+        "yo": "rodé",
+        "tu": "rodaste",
+        "el_ella_usted": "rodó",
+        "nosotros": "rodamos",
+        "ellos_ellas_ustedes": "rodaron"
+      },
+      "futuro": {
+        "yo": "rodaré",
+        "tu": "rodarás",
+        "el_ella_usted": "rodará",
+        "nosotros": "rodaremos",
+        "ellos_ellas_ustedes": "rodarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_romper",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Romper",
+    "imagen_url": "assets/Imagenes/VERBOS/ROMPER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "rompo",
+        "tu": "rompes",
+        "el_ella_usted": "rompe",
+        "nosotros": "rompemos",
+        "ellos_ellas_ustedes": "rompen"
+      },
+      "pasado": {
+        "yo": "rompí",
+        "tu": "rompiste",
+        "el_ella_usted": "rompió",
+        "nosotros": "rompimos",
+        "ellos_ellas_ustedes": "rompieron"
+      },
+      "futuro": {
+        "yo": "romperé",
+        "tu": "romperás",
+        "el_ella_usted": "romperá",
+        "nosotros": "romperemos",
+        "ellos_ellas_ustedes": "romperán"
+      }
+    }
+  }
+]

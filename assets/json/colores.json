@@ -1,0 +1,161 @@
+[
+  {
+    "id": "colores_amarillo",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Amarillo",
+    "imagen_url": "assets/Imagenes/COLORES/AMARILLO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_azul",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Azul",
+    "imagen_url": "assets/Imagenes/COLORES/AZUL.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_beige",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Beige",
+    "imagen_url": "assets/Imagenes/COLORES/BEIGE.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_blanco",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Blanco",
+    "imagen_url": "assets/Imagenes/COLORES/BLANCO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_celeste",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Celeste",
+    "imagen_url": "assets/Imagenes/COLORES/CELESTE.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_coral",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Coral",
+    "imagen_url": "assets/Imagenes/COLORES/CORAL.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_dorado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Dorado",
+    "imagen_url": "assets/Imagenes/COLORES/DORADO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_fucsia",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Fucsia",
+    "imagen_url": "assets/Imagenes/COLORES/FUCSIA.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_gris",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Gris",
+    "imagen_url": "assets/Imagenes/COLORES/GRIS.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_lila",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Lila",
+    "imagen_url": "assets/Imagenes/COLORES/LILA.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_marron",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Marrón",
+    "imagen_url": "assets/Imagenes/COLORES/MARRON.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_morado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Morado",
+    "imagen_url": "assets/Imagenes/COLORES/MORADO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_naranja",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Naranja",
+    "imagen_url": "assets/Imagenes/COLORES/NARANJA.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_negro",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Negro",
+    "imagen_url": "assets/Imagenes/COLORES/NEGRO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_plateado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Plateado",
+    "imagen_url": "assets/Imagenes/COLORES/PLATEADO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_rojo",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Rojo",
+    "imagen_url": "assets/Imagenes/COLORES/ROJO.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_rosa",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Rosa",
+    "imagen_url": "assets/Imagenes/COLORES/ROSA.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_turquesa",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Turquesa",
+    "imagen_url": "assets/Imagenes/COLORES/TURQUESA.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_verde",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Verde",
+    "imagen_url": "assets/Imagenes/COLORES/VERDE.png",
+    "subcategoria": "Colores"
+  }
+,
+  {
+    "id": "colores_violeta",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Violeta",
+    "imagen_url": "assets/Imagenes/COLORES/VIOLETA.png",
+    "subcategoria": "Colores"
+  }
+]

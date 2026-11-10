@@ -1,0 +1,360 @@
+[
+  {
+    "id": "plantas_girasol_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Girasol",
+    "imagen_url": "assets/Imagenes/PLANTAS/GIRASOL.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_lavanda_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lavanda",
+    "imagen_url": "assets/Imagenes/PLANTAS/LAVANDA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_romero_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Romero",
+    "imagen_url": "assets/Imagenes/PLANTAS/ROMERO.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_albahaca_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Albahaca",
+    "imagen_url": "assets/Imagenes/PLANTAS/ALBAHACA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_tomillo_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tomillo",
+    "imagen_url": "assets/Imagenes/PLANTAS/TOMILLO.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_menta_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Menta",
+    "imagen_url": "assets/Imagenes/PLANTAS/MENTA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_geranio_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Geranio",
+    "imagen_url": "assets/Imagenes/PLANTAS/GERANIO.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_bugambilia_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bugambilia",
+    "imagen_url": "assets/Imagenes/PLANTAS/BUGAMBILIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_cactus_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cactus",
+    "imagen_url": "assets/Imagenes/PLANTAS/CACTUS.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_sabila_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sábila",
+    "imagen_url": "assets/Imagenes/PLANTAS/SABILA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_margarita_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Margarita",
+    "imagen_url": "assets/Imagenes/PLANTAS/MARGARITA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_petunia_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Petunia",
+    "imagen_url": "assets/Imagenes/PLANTAS/PETUNIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_verbena_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Verbena",
+    "imagen_url": "assets/Imagenes/PLANTAS/VERBENA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_dalia_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dalia",
+    "imagen_url": "assets/Imagenes/PLANTAS/DALIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_gazania_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gazania",
+    "imagen_url": "assets/Imagenes/PLANTAS/GAZANIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_zinnia_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zinnia",
+    "imagen_url": "assets/Imagenes/PLANTAS/ZINNIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_salvia_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Salvia",
+    "imagen_url": "assets/Imagenes/PLANTAS/SALVIA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_lantana_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lantana",
+    "imagen_url": "assets/Imagenes/PLANTAS/LANTANA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_portulaca_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Portulaca",
+    "imagen_url": "assets/Imagenes/PLANTAS/PORTULACA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_cosmos_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cosmos",
+    "imagen_url": "assets/Imagenes/PLANTAS/COSMOS.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_clavel_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Clavel",
+    "imagen_url": "assets/Imagenes/PLANTAS/CLAVEL.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_crisantemo_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Crisantemo",
+    "imagen_url": "assets/Imagenes/PLANTAS/CRISANTEMO.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_pensamiento_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pensamiento",
+    "imagen_url": "assets/Imagenes/PLANTAS/PENSAMIENTO.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_rosa_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rosa",
+    "imagen_url": "assets/Imagenes/PLANTAS/ROSA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_helecho_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Helecho",
+    "imagen_url": "assets/Imagenes/PLANTAS/HELECHO.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_lirio_de_paz_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lirio de paz",
+    "imagen_url": "assets/Imagenes/PLANTAS/LIRIO_DE_PAZ.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_calatea_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calatea",
+    "imagen_url": "assets/Imagenes/PLANTAS/CALATEA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_potos_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Potos",
+    "imagen_url": "assets/Imagenes/PLANTAS/POTOS.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_sansevieria_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sansevieria",
+    "imagen_url": "assets/Imagenes/PLANTAS/SANSEVIERIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_ficus_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ficus",
+    "imagen_url": "assets/Imagenes/PLANTAS/FICUS.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_cinta_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cinta",
+    "imagen_url": "assets/Imagenes/PLANTAS/CINTA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_begonia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Begonia",
+    "imagen_url": "assets/Imagenes/PLANTAS/BEGONIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_anturio_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Anturio",
+    "imagen_url": "assets/Imagenes/PLANTAS/ANTURIO.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_orquidea_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Orquídea",
+    "imagen_url": "assets/Imagenes/PLANTAS/ORQUIDEA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_hiedra_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hiedra",
+    "imagen_url": "assets/Imagenes/PLANTAS/HIEDRA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_bromelia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bromelia",
+    "imagen_url": "assets/Imagenes/PLANTAS/BROMELIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_maranta_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maranta",
+    "imagen_url": "assets/Imagenes/PLANTAS/MARANTA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_dieffenbachia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dieffenbachia",
+    "imagen_url": "assets/Imagenes/PLANTAS/DIEFFENBACHIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_filodendro_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Filodendro",
+    "imagen_url": "assets/Imagenes/PLANTAS/FILODENDRO.jpg" ,
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_aglaonema_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Aglaonema",
+    "imagen_url": "assets/Imagenes/PLANTAS/AGLAONEMA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_espatifilo_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Espatifilo",
+    "imagen_url": "assets/Imagenes/PLANTAS/ESPATIFILO.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_dracena_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Drácena",
+    "imagen_url": "assets/Imagenes/PLANTAS/DRACENA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_peperomia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Peperomia",
+    "imagen_url": "assets/Imagenes/PLANTAS/PEPEROMIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_alocasia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Alocasia",
+    "imagen_url": "assets/Imagenes/PLANTAS/ALOCASIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_monstera_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Monstera",
+    "imagen_url": "assets/Imagenes/PLANTAS/MONSTERA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_zamioculca_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zamioculca",
+    "imagen_url": "assets/Imagenes/PLANTAS/ZAMIOCULCA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_fitonia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Fitonia",
+    "imagen_url": "assets/Imagenes/PLANTAS/FITONIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_clivia_sombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Clivia",
+    "imagen_url": "assets/Imagenes/PLANTAS/CLIVIA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_calendora_sol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calendora",
+    "imagen_url": "assets/Imagenes/PLANTAS/CALENDORA.jpg",
+    "subcategoria": "Sol"
+  },
+  {
+    "id": "plantas_dracena_interior",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dracena",
+    "imagen_url": "assets/Imagenes/PLANTAS/DRACENA.jpg",
+    "subcategoria": "Sombra"
+  },
+  {
+    "id": "plantas_tradescantia_semisombra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tradescantia",
+    "imagen_url": "assets/Imagenes/PLANTAS/TRADESCANTIA.jpg",
+    "subcategoria": "Sol"
+  }
+]
+

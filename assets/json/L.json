@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "verbo_lanzar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Lanzar",
+    "imagen_url": "assets/Imagenes/VERBOS/LANZAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "lanzo",
+        "tu": "lanzas",
+        "el_ella_usted": "lanza",
+        "nosotros": "lanzamos",
+        "ellos_ellas_ustedes": "lanzan"
+      },
+      "pasado": {
+        "yo": "lancé",
+        "tu": "lanzaste",
+        "el_ella_usted": "lanzó",
+        "nosotros": "lanzamos",
+        "ellos_ellas_ustedes": "lanzaron"
+      },
+      "futuro": {
+        "yo": "lanzaré",
+        "tu": "lanzarás",
+        "el_ella_usted": "lanzará",
+        "nosotros": "lanzaremos",
+        "ellos_ellas_ustedes": "lanzarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_lavar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Lavar",
+    "imagen_url": "assets/Imagenes/VERBOS/LAVAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "lavo",
+        "tu": "lavas",
+        "el_ella_usted": "lava",
+        "nosotros": "lavamos",
+        "ellos_ellas_ustedes": "lavan"
+      },
+      "pasado": {
+        "yo": "lavé",
+        "tu": "lavaste",
+        "el_ella_usted": "lavó",
+        "nosotros": "lavamos",
+        "ellos_ellas_ustedes": "lavaron"
+      },
+      "futuro": {
+        "yo": "lavaré",
+        "tu": "lavarás",
+        "el_ella_usted": "lavará",
+        "nosotros": "lavaremos",
+        "ellos_ellas_ustedes": "lavarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_leer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Leer",
+    "imagen_url": "assets/Imagenes/VERBOS/LEER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "leo",
+        "tu": "lees",
+        "el_ella_usted": "lee",
+        "nosotros": "leemos",
+        "ellos_ellas_ustedes": "leen"
+      },
+      "pasado": {
+        "yo": "leí",
+        "tu": "leiste",
+        "el_ella_usted": "leió",
+        "nosotros": "leimos",
+        "ellos_ellas_ustedes": "leieron"
+      },
+      "futuro": {
+        "yo": "leeré",
+        "tu": "leerás",
+        "el_ella_usted": "leerá",
+        "nosotros": "leeremos",
+        "ellos_ellas_ustedes": "leerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_levantar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Levantar",
+    "imagen_url": "assets/Imagenes/VERBOS/LEVANTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "levanto",
+        "tu": "levantas",
+        "el_ella_usted": "levanta",
+        "nosotros": "levantamos",
+        "ellos_ellas_ustedes": "levantan"
+      },
+      "pasado": {
+        "yo": "levanté",
+        "tu": "levantaste",
+        "el_ella_usted": "levantó",
+        "nosotros": "levantamos",
+        "ellos_ellas_ustedes": "levantaron"
+      },
+      "futuro": {
+        "yo": "levantaré",
+        "tu": "levantarás",
+        "el_ella_usted": "levantará",
+        "nosotros": "levantaremos",
+        "ellos_ellas_ustedes": "levantarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_limpiar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Limpiar",
+    "imagen_url": "assets/Imagenes/VERBOS/LIMPIAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "limpio",
+        "tu": "limpias",
+        "el_ella_usted": "limpia",
+        "nosotros": "limpiamos",
+        "ellos_ellas_ustedes": "limpian"
+      },
+      "pasado": {
+        "yo": "limpié",
+        "tu": "limpiaste",
+        "el_ella_usted": "limpió",
+        "nosotros": "limpiamos",
+        "ellos_ellas_ustedes": "limpiaron"
+      },
+      "futuro": {
+        "yo": "limpiaré",
+        "tu": "limpiarás",
+        "el_ella_usted": "limpiará",
+        "nosotros": "limpiaremos",
+        "ellos_ellas_ustedes": "limpiarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_llamar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Llamar",
+    "imagen_url": "assets/Imagenes/VERBOS/LLAMAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "llamo",
+        "tu": "llamas",
+        "el_ella_usted": "llama",
+        "nosotros": "llamamos",
+        "ellos_ellas_ustedes": "llaman"
+      },
+      "pasado": {
+        "yo": "llamé",
+        "tu": "llamaste",
+        "el_ella_usted": "llamó",
+        "nosotros": "llamamos",
+        "ellos_ellas_ustedes": "llamaron"
+      },
+      "futuro": {
+        "yo": "llamaré",
+        "tu": "llamarás",
+        "el_ella_usted": "llamará",
+        "nosotros": "llamaremos",
+        "ellos_ellas_ustedes": "llamarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_llenar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Llenar",
+    "imagen_url": "assets/Imagenes/VERBOS/LLENAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "lleno",
+        "tu": "llenas",
+        "el_ella_usted": "llena",
+        "nosotros": "llenamos",
+        "ellos_ellas_ustedes": "llenan"
+      },
+      "pasado": {
+        "yo": "llené",
+        "tu": "llenaste",
+        "el_ella_usted": "llenó",
+        "nosotros": "llenamos",
+        "ellos_ellas_ustedes": "llenaron"
+      },
+      "futuro": {
+        "yo": "llenaré",
+        "tu": "llenarás",
+        "el_ella_usted": "llenará",
+        "nosotros": "llenaremos",
+        "ellos_ellas_ustedes": "llenarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_llevar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Llevar",
+    "imagen_url": "assets/Imagenes/VERBOS/LLEVAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "llevo",
+        "tu": "llevas",
+        "el_ella_usted": "lleva",
+        "nosotros": "llevamos",
+        "ellos_ellas_ustedes": "llevan"
+      },
+      "pasado": {
+        "yo": "llevé",
+        "tu": "llevaste",
+        "el_ella_usted": "llevó",
+        "nosotros": "llevamos",
+        "ellos_ellas_ustedes": "llevaron"
+      },
+      "futuro": {
+        "yo": "llevaré",
+        "tu": "llevarás",
+        "el_ella_usted": "llevará",
+        "nosotros": "llevaremos",
+        "ellos_ellas_ustedes": "llevarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_llorar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Llorar",
+    "imagen_url": "assets/Imagenes/VERBOS/LLORAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "lloro",
+        "tu": "lloras",
+        "el_ella_usted": "llora",
+        "nosotros": "lloramos",
+        "ellos_ellas_ustedes": "lloran"
+      },
+      "pasado": {
+        "yo": "lloré",
+        "tu": "lloraste",
+        "el_ella_usted": "lloró",
+        "nosotros": "lloramos",
+        "ellos_ellas_ustedes": "lloraron"
+      },
+      "futuro": {
+        "yo": "lloraré",
+        "tu": "llorarás",
+        "el_ella_usted": "llorará",
+        "nosotros": "lloraremos",
+        "ellos_ellas_ustedes": "llorarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_llover",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Llover",
+    "imagen_url": "assets/Imagenes/VERBOS/LLOVER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "llueve",
+        "tu": "llueve",
+        "el_ella_usted": "llueve",
+        "nosotros": "llueve",
+        "ellos_ellas_ustedes": "llueve"
+      },
+      "pasado": {
+        "yo": "llovió",
+        "tu": "lloviste",
+        "el_ella_usted": "llovió",
+        "nosotros": "llovimos",
+        "ellos_ellas_ustedes": "llovieron"
+      },
+      "futuro": {
+        "yo": "lloverá",
+        "tu": "lloverás",
+        "el_ella_usted": "lloverá",
+        "nosotros": "lloveremos",
+        "ellos_ellas_ustedes": "lloverán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_luchar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Luchar",
+    "imagen_url": "assets/Imagenes/VERBOS/LUCHAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "lucho",
+        "tu": "luchas",
+        "el_ella_usted": "lucha",
+        "nosotros": "luchamos",
+        "ellos_ellas_ustedes": "luchan"
+      },
+      "pasado": {
+        "yo": "luché",
+        "tu": "luchaste",
+        "el_ella_usted": "luchó",
+        "nosotros": "luchamos",
+        "ellos_ellas_ustedes": "lucharon"
+      },
+      "futuro": {
+        "yo": "lucharé",
+        "tu": "lucharás",
+        "el_ella_usted": "luchará",
+        "nosotros": "lucharemos",
+        "ellos_ellas_ustedes": "lucharán"
+      }
+    }
+  }
+]

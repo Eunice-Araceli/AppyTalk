@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "transporte_terrestre_carro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Carro",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/CARRO.JPG",
+    "subcategoria": "Terrestre"
+  },
+  {
+    "_id": "transporte_terrestre_moto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Moto",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/MOTO.JPG",
+    "subcategoria": "Terrestre"
+  },
+  {
+    "_id": "transporte_publico_autobus",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Autobús",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/AUTOBUS.JPG",
+    "subcategoria": "Público"
+  },
+  {
+    "_id": "transporte_terrestre_camion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camión",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/CAMION.JPG",
+    "subcategoria": "Terrestre"
+  },
+  {
+    "_id": "transporte_terrestre_trailer",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tráiler",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/TRAILER.JPG",
+    "subcategoria": "Terrestre"
+  },
+  {
+    "_id": "transporte_terrestre_bicicleta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bicicleta",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/BICICLETA.JPG",
+    "subcategoria": "Terrestre"
+  },
+  {
+    "_id": "transporte_publico_taxi",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Taxi",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/TAXI.JPG",
+    "subcategoria": "Público"
+  },
+  {
+    "_id": "transporte_aereo_avion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Avión",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/AVION.JPG",
+    "subcategoria": "Aéreo"
+  },
+  {
+    "_id": "transporte_maritimo_barco",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Barco",
+    "imagen_url": "assets/Imagenes/TRANSPORTES/BARCO.JPG",
+    "subcategoria": "Marítimo"
+  }
+]

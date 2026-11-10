@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "verbo_usar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Usar",
+    "imagen_url": "assets/Imagenes/VERBOS/USAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "uso",
+        "tu": "usas",
+        "el_ella_usted": "usa",
+        "nosotros": "usamos",
+        "ellos_ellas_ustedes": "usan"
+      },
+      "pasado": {
+        "yo": "usé",
+        "tu": "usaste",
+        "el_ella_usted": "usó",
+        "nosotros": "usamos",
+        "ellos_ellas_ustedes": "usaron"
+      },
+      "futuro": {
+        "yo": "usaré",
+        "tu": "usarás",
+        "el_ella_usted": "usará",
+        "nosotros": "usaremos",
+        "ellos_ellas_ustedes": "usarán"
+      }
+    }
+  }
+]
+

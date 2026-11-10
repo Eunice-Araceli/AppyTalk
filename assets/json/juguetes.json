@@ -1,0 +1,305 @@
+[
+  {
+    "id": "juguetes_ajedrez",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ajedrez",
+    "imagen_url": "assets/Imagenes/JUGUETES/AJEDREZ.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_alas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Alas",
+    "imagen_url": "assets/Imagenes/JUGUETES/ALAS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_aro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Aro",
+    "imagen_url": "assets/Imagenes/JUGUETES/ARO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_avion",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Avión",
+    "imagen_url": "assets/Imagenes/JUGUETES/AVION.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_barco",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Barco",
+    "imagen_url": "assets/Imagenes/JUGUETES/BARCO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_bicicleta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bicicleta",
+    "imagen_url": "assets/Imagenes/JUGUETES/BICICLETA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_bingo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bingo",
+    "imagen_url": "assets/Imagenes/JUGUETES/BINGO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_bloques",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bloques",
+    "imagen_url": "assets/Imagenes/JUGUETES/BLOQUES.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_capa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Capa",
+    "imagen_url": "assets/Imagenes/JUGUETES/CAPA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_carro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Carro",
+    "imagen_url": "assets/Imagenes/JUGUETES/CARRO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_cartas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cartas",
+    "imagen_url": "assets/Imagenes/JUGUETES/CARTAS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_cohete",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cohete",
+    "imagen_url": "assets/Imagenes/JUGUETES/COHETE.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_corona",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Corona",
+    "imagen_url": "assets/Imagenes/JUGUETES/CORONA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_cubo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cubo",
+    "imagen_url": "assets/Imagenes/JUGUETES/CUBO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_cuerda",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cuerda",
+    "imagen_url": "assets/Imagenes/JUGUETES/CUERDA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_dados",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dados",
+    "imagen_url": "assets/Imagenes/JUGUETES/DADOS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_damas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Damas",
+    "imagen_url": "assets/Imagenes/JUGUETES/DAMAS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_dinosaurio",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dinosaurio",
+    "imagen_url": "assets/Imagenes/JUGUETES/DINOSAURIO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_domino",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dominó",
+    "imagen_url": "assets/Imagenes/JUGUETES/DOMINO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_espada",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Espada",
+    "imagen_url": "assets/Imagenes/JUGUETES/ESPADA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_excavadora",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Excavadora",
+    "imagen_url": "assets/Imagenes/JUGUETES/EXCAVADORA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_frisbee",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Frisbee",
+    "imagen_url": "assets/Imagenes/JUGUETES/FRISBEE.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_globo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Globo",
+    "imagen_url": "assets/Imagenes/JUGUETES/GLOBO.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_grua",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Grúa",
+    "imagen_url": "assets/Imagenes/JUGUETES/GRUA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_herramientas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Herramientas",
+    "imagen_url": "assets/Imagenes/JUGUETES/HERRAMIENTAS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_loteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lotería",
+    "imagen_url": "assets/Imagenes/JUGUETES/LOTERIA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_mascara",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Máscara",
+    "imagen_url": "assets/Imagenes/JUGUETES/MASCARA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_muñeca",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Muñeca",
+    "imagen_url": "assets/Imagenes/JUGUETES/MUÑECA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_patines",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Patines",
+    "imagen_url": "assets/Imagenes/JUGUETES/PATINES.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_patineta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Patineta",
+    "imagen_url": "assets/Imagenes/JUGUETES/PATINETA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_pelota",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pelota",
+    "imagen_url": "assets/Imagenes/JUGUETES/PELOTA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_peluche",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Peluche",
+    "imagen_url": "assets/Imagenes/JUGUETES/PELUCHE.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_plastilina",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Plastilina",
+    "imagen_url": "assets/Imagenes/JUGUETES/PLASTILINA.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_robot",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Robot",
+    "imagen_url": "assets/Imagenes/JUGUETES/ROBOT.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_rompecabezas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rompecabezas",
+    "imagen_url": "assets/Imagenes/JUGUETES/ROMPECABEZAS.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_slime",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Slime",
+    "imagen_url": "assets/Imagenes/JUGUETES/SLIME.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_tren",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tren",
+    "imagen_url": "assets/Imagenes/JUGUETES/TREN.png",
+    "subcategoria": "Juguetes"
+  }
+,
+  {
+    "id": "juguetes_varita",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Varita",
+    "imagen_url": "assets/Imagenes/JUGUETES/VARITA.png",
+    "subcategoria": "Juguetes"
+  }
+]

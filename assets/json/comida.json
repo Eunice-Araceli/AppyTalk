@@ -1,0 +1,977 @@
+[
+  {
+    "id": "alimentos_manzana_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Manzana",
+    "imagen_url": "assets/Imagenes/FRUTAS/MANZANA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_platano_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Plátano",
+    "imagen_url": "assets/Imagenes/FRUTAS/PLATANO.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_naranja_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Naranja",
+    "imagen_url": "assets/Imagenes/FRUTAS/NARANJA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_limon_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Limón",
+    "imagen_url": "assets/Imagenes/FRUTAS/LIMON.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_fresa_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Fresa",
+    "imagen_url": "assets/Imagenes/FRUTAS/FRESA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_mango_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mango",
+    "imagen_url": "assets/Imagenes/FRUTAS/MANGO.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_pina_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Piña",
+    "imagen_url": "assets/Imagenes/FRUTAS/PINA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_sandia_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sandía",
+    "imagen_url": "assets/Imagenes/FRUTAS/SANDIA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_melon_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Melón",
+    "imagen_url": "assets/Imagenes/FRUTAS/MELON.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_uva_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Uva",
+    "imagen_url": "assets/Imagenes/FRUTAS/UVA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_pera_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pera",
+    "imagen_url": "assets/Imagenes/FRUTAS/PERA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_durazno_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Durazno",
+    "imagen_url": "assets/Imagenes/FRUTAS/DURAZNO.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_papaya_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Papaya",
+    "imagen_url": "assets/Imagenes/FRUTAS/PAPAYA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_guayaba_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Guayaba",
+    "imagen_url": "assets/Imagenes/FRUTAS/GUAYABA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_mandarina_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mandarina",
+    "imagen_url": "assets/Imagenes/FRUTAS/MANDARINA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_coco_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Coco",
+    "imagen_url": "assets/Imagenes/FRUTAS/COCO.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_kiwi_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Kiwi",
+    "imagen_url": "assets/Imagenes/FRUTAS/KIWI.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_cereza_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cereza",
+    "imagen_url": "assets/Imagenes/FRUTAS/CEREZA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_granada_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Granada",
+    "imagen_url": "assets/Imagenes/FRUTAS/GRANADA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_higo_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Higo",
+    "imagen_url": "assets/Imagenes/FRUTAS/HIGO.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_ciruela_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ciruela",
+    "imagen_url": "assets/Imagenes/FRUTAS/CIRUELA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_maracuya_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maracuyá",
+    "imagen_url": "assets/Imagenes/FRUTAS/MARACUYA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_frambuesa_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Frambuesa",
+    "imagen_url": "assets/Imagenes/FRUTAS/FRAMBUESA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_mora_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mora",
+    "imagen_url": "assets/Imagenes/FRUTAS/MORA.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_aguacate_frutas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Aguacate",
+    "imagen_url": "assets/Imagenes/FRUTAS/AGUACATE.jpg",
+    "subcategoria": "Frutas"
+  },
+  {
+    "id": "alimentos_acelga_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Acelga",
+    "imagen_url": "assets/Imagenes/VERDURAS/ACELGA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_ajo_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ajo",
+    "imagen_url": "assets/Imagenes/VERDURAS/AJO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_apio_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Apio",
+    "imagen_url": "assets/Imagenes/VERDURAS/APIO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_betabel_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Betabel",
+    "imagen_url": "assets/Imagenes/VERDURAS/BETABEL.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_cebolla_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cebolla",
+    "imagen_url": "assets/Imagenes/VERDURAS/CEBOLLA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_champinon_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Champiñón",
+    "imagen_url": "assets/Imagenes/VERDURAS/CHAMPIÑON.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_papa_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Papa",
+    "imagen_url": "assets/Imagenes/VERDURAS/PAPA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_brocoli_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Brócoli",
+    "imagen_url": "assets/Imagenes/VERDURAS/BROCOLI.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_espinaca_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Espinaca",
+    "imagen_url": "assets/Imagenes/VERDURAS/ESPINACA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_lechuga_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lechuga",
+    "imagen_url": "assets/Imagenes/VERDURAS/LECHUGA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_calabacita_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calabacita",
+    "imagen_url": "assets/Imagenes/VERDURAS/CALABACITA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_chayote_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chayote",
+    "imagen_url": "assets/Imagenes/VERDURAS/CHAYOTE.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_coliflor_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Coliflor",
+    "imagen_url": "assets/Imagenes/VERDURAS/COLIFLOR.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_chile_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chile",
+    "imagen_url": "assets/Imagenes/VERDURAS/CHILE.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_cilantro_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cilantro",
+    "imagen_url": "assets/Imagenes/VERDURAS/CILANTRO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_ejote_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ejote",
+    "imagen_url": "assets/Imagenes/VERDURAS/EJOTE.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_pepino_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pepino",
+    "imagen_url": "assets/Imagenes/VERDURAS/PEPINO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_maiz_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maíz",
+    "imagen_url": "assets/Imagenes/VERDURAS/MAIZ.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_nopal_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Nopal",
+    "imagen_url": "assets/Imagenes/VERDURAS/NOPAL.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_perejil_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Perejil",
+    "imagen_url": "assets/Imagenes/VERDURAS/PEREJIL.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_pimiento_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pimiento",
+    "imagen_url": "assets/Imagenes/VERDURAS/PIMIENTO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_rabano_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rábano",
+    "imagen_url": "assets/Imagenes/VERDURAS/RABANO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_repollo_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Repollo",
+    "imagen_url": "assets/Imagenes/VERDURAS/REPOLLO.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_tomate_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tomate",
+    "imagen_url": "assets/Imagenes/VERDURAS/TOMATE.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_zanahoria_verduras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zanahoria",
+    "imagen_url": "assets/Imagenes/VERDURAS/ZANAHORIA.JPG",
+    "subcategoria": "Verduras"
+  },
+  {
+    "id": "alimentos_agua_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Agua",
+    "imagen_url": "assets/Imagenes/BEBIDAS/AGUA.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_atole_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Atole",
+    "imagen_url": "assets/Imagenes/BEBIDAS/ATOLE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_bebida_energetica_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bebida energética",
+    "imagen_url": "assets/Imagenes/BEBIDAS/BEBIDA_ENERGETICA.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_cafe_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Café",
+    "imagen_url": "assets/Imagenes/BEBIDAS/CAFE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_champurrado_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Champurrado",
+    "imagen_url": "assets/Imagenes/BEBIDAS/CHAMPURRADO.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_chocolate_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chocolate",
+    "imagen_url": "assets/Imagenes/BEBIDAS/CHOCOLATE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_jugo_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jugo",
+    "imagen_url": "assets/Imagenes/BEBIDAS/JUGO.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_leche_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Leche",
+    "imagen_url": "assets/Imagenes/BEBIDAS/LECHE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_refresco_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Refresco",
+    "imagen_url": "assets/Imagenes/BEBIDAS/REFRESCO.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_smoothie_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Smoothie",
+    "imagen_url": "assets/Imagenes/BEBIDAS/SMOTHIE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_suero_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Suero",
+    "imagen_url": "assets/Imagenes/BEBIDAS/SUERO.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_te_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Té",
+    "imagen_url": "assets/Imagenes/BEBIDAS/TE.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_yogur_bebible_bebidas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Yogur bebible",
+    "imagen_url": "assets/Imagenes/BEBIDAS/YOGURT.JPG",
+    "subcategoria": "Bebidas"
+  },
+  {
+    "id": "alimentos_arroz_con_leche_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Arroz con leche",
+    "imagen_url": "assets/Imagenes/POSTRES/ARROZ_CON_LECHE.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_bizcocho_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bizcocho",
+    "imagen_url": "assets/Imagenes/POSTRES/BIZCOCHO.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_brownie_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Brownie",
+    "imagen_url": "assets/Imagenes/POSTRES/BROWNIE.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_churro_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Churro",
+    "imagen_url": "assets/Imagenes/POSTRES/CHURRO.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_crepa_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Crepa",
+    "imagen_url": "assets/Imagenes/POSTRES/CREPA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_cupcake_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cupcake",
+    "imagen_url": "assets/Imagenes/POSTRES/CUPCAKE.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_dona_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Dona",
+    "imagen_url": "assets/Imagenes/POSTRES/DONA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_empanada_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Empanada",
+    "imagen_url": "assets/Imagenes/POSTRES/EMPANADA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_flan_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Flan",
+    "imagen_url": "assets/Imagenes/POSTRES/FLAN.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_galletas_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Galleta",
+    "imagen_url": "assets/Imagenes/POSTRES/GALLETA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_gelatina_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gelatina",
+    "imagen_url": "assets/Imagenes/POSTRES/GELATINA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_helado_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Helado",
+    "imagen_url": "assets/Imagenes/POSTRES/HELADO.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_hotcakes_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hotcakes",
+    "imagen_url": "assets/Imagenes/POSTRES/HOTCAKES.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_muffin_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Muffin",
+    "imagen_url": "assets/Imagenes/POSTRES/MUFFIN.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_nieve_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Nieve",
+    "imagen_url": "assets/Imagenes/POSTRES/NIEVE.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_pan_dulce_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pan dulce",
+    "imagen_url": "assets/Imagenes/POSTRES/PAN_DULCE.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_pastel_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pastel",
+    "imagen_url": "assets/Imagenes/POSTRES/PASTEL.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_pay_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pay",
+    "imagen_url": "assets/Imagenes/POSTRES/PAY.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_tartaleta_postres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tartaleta",
+    "imagen_url": "assets/Imagenes/POSTRES/TARTALETA.JPG",
+    "subcategoria": "Postres"
+  },
+  {
+    "id": "alimentos_atun_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Atún",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/ATUN.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_calamar_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calamar",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CALAMAR.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_camaron_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camarón",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CAMARON.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_cangrejo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cangrejo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CANGREJO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_carne_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Carne",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CARNE.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_chorizo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chorizo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CHORIZO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_costilla_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Costilla",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/COSTILLA.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_crema_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Crema",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/CREMA.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_filete_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Filete",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/FILETE.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_huevo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Huevo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/HUEVO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_jamon_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jamón",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/JAMON.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_leche_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Leche",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/LECHE.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_lomo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lomo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/LOMO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_mantequilla_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mantequilla",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/MANTEQUILLA.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_pechuga_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pechuga",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/PECHUGA.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_pescado_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pescado",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/PESCADO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_pollo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pollo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/POLLO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_pulpo_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pulpo",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/PULPO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_queso_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Queso",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/QUESO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_salchicha_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Salchicha",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/SALCHICHA.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_sardina_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sardina",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/SARDINAS.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_tocino_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tocino",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/TOCINO.JPG",
+    "subcategoria": "Origen Animal"
+  },
+  {
+    "id": "alimentos_yogur_origen_animal",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Yogur",
+    "imagen_url": "assets/Imagenes/ORIGEN_ANIMAL/YOGUR.JPG",
+    "subcategoria": "Origen Animal"
+  },
+
+  {
+    "id": "alimentos_comida_china_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Comida china",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/COMIDA_CHINA.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_hamburguesa_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hamburguesa",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/HAMBURGUESA.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_hot_dog_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hot dog",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/HOTDOG.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_nuggets_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Nuggets",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/NUGGETS.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_papas_fritas_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Papas fritas",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/PAPAS_FRITAS.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_pizza_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pizza",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/PIZZA.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_pollo_frito_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pollo frito",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/POLLO_FRITO.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_sushi_comida_rapida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sushi",
+    "imagen_url": "assets/Imagenes/COMIDA_RAPIDA/SUSHI.JPG",
+    "subcategoria": "Comida Rápida"
+  },
+  {
+    "id": "alimentos_arroz_rojo_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Arroz rojo",
+    "imagen_url": "assets/Imagenes/PLATILLOS/ARROZ_ROJO.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_barbacoa_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Barbacoa",
+    "imagen_url": "assets/Imagenes/PLATILLOS/BARBACOA.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_birria_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Birria",
+    "imagen_url": "assets/Imagenes/PLATILLOS/BIRRIA.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_caldo_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Caldo",
+    "imagen_url": "assets/Imagenes/PLATILLOS/CALDO.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_carnitas_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Carnitas",
+    "imagen_url": "assets/Imagenes/PLATILLOS/CARNITAS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_ceviche_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ceviche",
+    "imagen_url": "assets/Imagenes/PLATILLOS/CEVICHE.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_chilaquiles_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chilaquiles",
+    "imagen_url": "assets/Imagenes/PLATILLOS/CHILAQUILES.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_chiles_rellenos_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chiles rellenos",
+    "imagen_url": "assets/Imagenes/PLATILLOS/CHILES_RELLENOS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_cochinita_pibil_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cochinita pibil",
+    "imagen_url": "assets/Imagenes/PLATILLOS/COCHINITA_PIBIL.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_empanada_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Empanada",
+    "imagen_url": "assets/Imagenes/PLATILLOS/EMPANADA.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_enchiladas_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Enchiladas",
+    "imagen_url": "assets/Imagenes/PLATILLOS/ENCHILLADAS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_ensalada_de_nopales_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ensalada de nopales",
+    "imagen_url": "assets/Imagenes/PLATILLOS/ENSALADA_DE_NOPALES.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_fajitas_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Fajitas",
+    "imagen_url": "assets/Imagenes/PLATILLOS/FAJITAS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_flautas_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Flautas",
+    "imagen_url": "assets/Imagenes/PLATILLOS/FLAUTAS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_frijoles_refritos_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Frijoles refritos",
+    "imagen_url": "assets/Imagenes/PLATILLOS/FRIJOLES_REFRITOS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_gordita_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gordita",
+    "imagen_url": "assets/Imagenes/PLATILLOS/GORDITA.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_huevos_rancheros_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Huevos rancheros",
+    "imagen_url": "assets/Imagenes/PLATILLOS/HUEVO_RANCHEROS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_menudo_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Menudo",
+    "imagen_url": "assets/Imagenes/PLATILLOS/MENUDO.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_mole_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mole",
+    "imagen_url": "assets/Imagenes/PLATILLOS/MOLE.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_pozole_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pozole",
+    "imagen_url": "assets/Imagenes/PLATILLOS/POZOLE.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_quesadilla_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Quesadilla",
+    "imagen_url": "assets/Imagenes/PLATILLOS/QUESADILLA.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_sopes_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sopes",
+    "imagen_url": "assets/Imagenes/PLATILLOS/SOPES.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_taco_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Taco",
+    "imagen_url": "assets/Imagenes/PLATILLOS/TACO.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_tamal_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tamal",
+    "imagen_url": "assets/Imagenes/PLATILLOS/TAMAL.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_tortas_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tortas",
+    "imagen_url": "assets/Imagenes/PLATILLOS/TORTAS.JPG",
+    "subcategoria": "Platillos"
+  },
+  {
+    "id": "alimentos_tostada_platillos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tostada",
+    "imagen_url": "assets/Imagenes/PLATILLOS/TOSTADA.JPG",
+    "subcategoria": "Platillos"
+  }
+]
+

@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "verbo_bailar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Bailar",
+    "imagen_url": "assets/Imagenes/VERBOS/BAILAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "bailo",
+        "tu": "bailas",
+        "el_ella_usted": "baila",
+        "nosotros": "bailamos",
+        "ellos_ellas_ustedes": "bailan"
+      },
+      "pasado": {
+        "yo": "bailé",
+        "tu": "bailaste",
+        "el_ella_usted": "bailó",
+        "nosotros": "bailamos",
+        "ellos_ellas_ustedes": "bailaron"
+      },
+      "futuro": {
+        "yo": "bailaré",
+        "tu": "bailarás",
+        "el_ella_usted": "bailará",
+        "nosotros": "bailaremos",
+        "ellos_ellas_ustedes": "bailarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_bajar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Bajar",
+    "imagen_url": "assets/Imagenes/VERBOS/BAJAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "bajo",
+        "tu": "bajas",
+        "el_ella_usted": "baja",
+        "nosotros": "bajamos",
+        "ellos_ellas_ustedes": "bajan"
+      },
+      "pasado": {
+        "yo": "bajé",
+        "tu": "bajaste",
+        "el_ella_usted": "bajó",
+        "nosotros": "bajamos",
+        "ellos_ellas_ustedes": "bajaran"
+      },
+      "futuro": {
+        "yo": "bajaré",
+        "tu": "bajarás",
+        "el_ella_usted": "bajará",
+        "nosotros": "bajaremos",
+        "ellos_ellas_ustedes": "bajarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_banar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Bañar",
+    "imagen_url": "assets/Imagenes/VERBOS/BAÑAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "baño",
+        "tu": "bañas",
+        "el_ella_usted": "baña",
+        "nosotros": "bañamos",
+        "ellos_ellas_ustedes": "bañan"
+      },
+      "pasado": {
+        "yo": "bañé",
+        "tu": "bañaste",
+        "el_ella_usted": "bañó",
+        "nosotros": "bañamos",
+        "ellos_ellas_ustedes": "bañaron"
+      },
+      "futuro": {
+        "yo": "bañaré",
+        "tu": "bañarás",
+        "el_ella_usted": "bañará",
+        "nosotros": "bañaremos",
+        "ellos_ellas_ustedes": "bañarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_batir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Batir",
+    "imagen_url": "assets/Imagenes/VERBOS/BATIR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "bato",
+        "tu": "bates",
+        "el_ella_usted": "bate",
+        "nosotros": "batimos",
+        "ellos_ellas_ustedes": "baten"
+      },
+      "pasado": {
+        "yo": "batí",
+        "tu": "batiste",
+        "el_ella_usted": "batió",
+        "nosotros": "batimos",
+        "ellos_ellas_ustedes": "batieron"
+      },
+      "futuro": {
+        "yo": "batiré",
+        "tu": "batirás",
+        "el_ella_usted": "batirá",
+        "nosotros": "batiremos",
+        "ellos_ellas_ustedes": "batirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_beber",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Beber",
+    "imagen_url": "assets/Imagenes/VERBOS/BEBER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "bebo",
+        "tu": "bebes",
+        "el_ella_usted": "bebe",
+        "nosotros": "bebemos",
+        "ellos_ellas_ustedes": "beben"
+      },
+      "pasado": {
+        "yo": "bebí",
+        "tu": "bebiste",
+        "el_ella_usted": "bebió",
+        "nosotros": "bebimos",
+        "ellos_ellas_ustedes": "bebieron"
+      },
+      "futuro": {
+        "yo": "beberé",
+        "tu": "beberás",
+        "el_ella_usted": "beberá",
+        "nosotros": "beberemos",
+        "ellos_ellas_ustedes": "beberán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_borrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Borrar",
+    "imagen_url": "assets/Imagenes/VERBOS/BORRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "borro",
+        "tu": "borras",
+        "el_ella_usted": "borra",
+        "nosotros": "borramos",
+        "ellos_ellas_ustedes": "borran"
+      },
+      "pasado": {
+        "yo": "borré",
+        "tu": "borraste",
+        "el_ella_usted": "borró",
+        "nosotros": "borramos",
+        "ellos_ellas_ustedes": "borraron"
+      },
+      "futuro": {
+        "yo": "borraré",
+        "tu": "borrarás",
+        "el_ella_usted": "borrará",
+        "nosotros": "borraremos",
+        "ellos_ellas_ustedes": "borrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_botar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Botar",
+    "imagen_url": "assets/Imagenes/VERBOS/BOTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "boto",
+        "tu": "botas",
+        "el_ella_usted": "bota",
+        "nosotros": "botamos",
+        "ellos_ellas_ustedes": "botan"
+      },
+      "pasado": {
+        "yo": "boté",
+        "tu": "botaste",
+        "el_ella_usted": "botó",
+        "nosotros": "botamos",
+        "ellos_ellas_ustedes": "botaron"
+      },
+      "futuro": {
+        "yo": "botaré",
+        "tu": "botarás",
+        "el_ella_usted": "botará",
+        "nosotros": "botaremos",
+        "ellos_ellas_ustedes": "botarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_brincar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Brincar",
+    "imagen_url": "assets/Imagenes/VERBOS/BRINCAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "brinco",
+        "tu": "brincas",
+        "el_ella_usted": "brinca",
+        "nosotros": "brincamos",
+        "ellos_ellas_ustedes": "brincan"
+      },
+      "pasado": {
+        "yo": "brinqué",
+        "tu": "brincaste",
+        "el_ella_usted": "brincó",
+        "nosotros": "brincamos",
+        "ellos_ellas_ustedes": "brincaron"
+      },
+      "futuro": {
+        "yo": "brincaré",
+        "tu": "brincarás",
+        "el_ella_usted": "brincará",
+        "nosotros": "brincaremos",
+        "ellos_ellas_ustedes": "brincarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_buscar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Buscar",
+    "imagen_url": "assets/Imagenes/VERBOS/BUSCAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "busco",
+        "tu": "buscas",
+        "el_ella_usted": "busca",
+        "nosotros": "buscamos",
+        "ellos_ellas_ustedes": "buscan"
+      },
+      "pasado": {
+        "yo": "busqué",
+        "tu": "buscaste",
+        "el_ella_usted": "buscó",
+        "nosotros": "buscamos",
+        "ellos_ellas_ustedes": "buscaron"
+      },
+      "futuro": {
+        "yo": "buscaré",
+        "tu": "buscarás",
+        "el_ella_usted": "buscará",
+        "nosotros": "buscaremos",
+        "ellos_ellas_ustedes": "buscarán"
+      }
+    }
+  }
+]

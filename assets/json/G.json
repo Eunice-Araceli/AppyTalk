@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "verbo_ganar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ganar",
+    "imagen_url": "assets/Imagenes/VERBOS/GANAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "gano",
+        "tu": "ganas",
+        "el_ella_usted": "gana",
+        "nosotros": "ganamos",
+        "ellos_ellas_ustedes": "ganan"
+      },
+      "pasado": {
+        "yo": "gané",
+        "tu": "ganaste",
+        "el_ella_usted": "ganó",
+        "nosotros": "ganamos",
+        "ellos_ellas_ustedes": "ganaron"
+      },
+      "futuro": {
+        "yo": "ganaré",
+        "tu": "ganarás",
+        "el_ella_usted": "ganará",
+        "nosotros": "ganaremos",
+        "ellos_ellas_ustedes": "ganarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_gastar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Gastar",
+    "imagen_url": "assets/Imagenes/VERBOS/GASTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "gasto",
+        "tu": "gastas",
+        "el_ella_usted": "gasta",
+        "nosotros": "gastamos",
+        "ellos_ellas_ustedes": "gastan"
+      },
+      "pasado": {
+        "yo": "gasté",
+        "tu": "gastaste",
+        "el_ella_usted": "gastó",
+        "nosotros": "gastamos",
+        "ellos_ellas_ustedes": "gastaron"
+      },
+      "futuro": {
+        "yo": "gastaré",
+        "tu": "gastarás",
+        "el_ella_usted": "gastará",
+        "nosotros": "gastaremos",
+        "ellos_ellas_ustedes": "gastarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_girar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Girar",
+    "imagen_url": "assets/Imagenes/VERBOS/GIRAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "giro",
+        "tu": "giras",
+        "el_ella_usted": "gira",
+        "nosotros": "giramos",
+        "ellos_ellas_ustedes": "giran"
+      },
+      "pasado": {
+        "yo": "giré",
+        "tu": "giraste",
+        "el_ella_usted": "giró",
+        "nosotros": "giramos",
+        "ellos_ellas_ustedes": "giraron"
+      },
+      "futuro": {
+        "yo": "giraré",
+        "tu": "girarás",
+        "el_ella_usted": "girará",
+        "nosotros": "giraremos",
+        "ellos_ellas_ustedes": "girarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_gritar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Gritar",
+    "imagen_url": "assets/Imagenes/VERBOS/GRITAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "grito",
+        "tu": "gritas",
+        "el_ella_usted": "grita",
+        "nosotros": "gritamos",
+        "ellos_ellas_ustedes": "gritan"
+      },
+      "pasado": {
+        "yo": "grité",
+        "tu": "gritaste",
+        "el_ella_usted": "gritó",
+        "nosotros": "gritamos",
+        "ellos_ellas_ustedes": "gritaron"
+      },
+      "futuro": {
+        "yo": "gritaré",
+        "tu": "gritarás",
+        "el_ella_usted": "gritará",
+        "nosotros": "gritaremos",
+        "ellos_ellas_ustedes": "gritarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_guardar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Guardar",
+    "imagen_url": "assets/Imagenes/VERBOS/GUARDAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "guardo",
+        "tu": "guardas",
+        "el_ella_usted": "guarda",
+        "nosotros": "guardamos",
+        "ellos_ellas_ustedes": "guardan"
+      },
+      "pasado": {
+        "yo": "guardé",
+        "tu": "guardaste",
+        "el_ella_usted": "guardó",
+        "nosotros": "guardamos",
+        "ellos_ellas_ustedes": "guardaron"
+      },
+      "futuro": {
+        "yo": "guardaré",
+        "tu": "guardarás",
+        "el_ella_usted": "guardará",
+        "nosotros": "guardaremos",
+        "ellos_ellas_ustedes": "guardarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_gustar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Gustar",
+    "imagen_url": "assets/Imagenes/VERBOS/GUSTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "gusto",
+        "tu": "gustas",
+        "el_ella_usted": "gusta",
+        "nosotros": "gustamos",
+        "ellos_ellas_ustedes": "gustan"
+      },
+      "pasado": {
+        "yo": "gusté",
+        "tu": "gustaste",
+        "el_ella_usted": "gustó",
+        "nosotros": "gustamos",
+        "ellos_ellas_ustedes": "gustaron"
+      },
+      "futuro": {
+        "yo": "gustaré",
+        "tu": "gustarás",
+        "el_ella_usted": "gustará",
+        "nosotros": "gustaremos",
+        "ellos_ellas_ustedes": "gustarán"
+      }
+    }
+  }
+]

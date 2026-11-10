@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "verbo_marcar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Marcar",
+    "imagen_url": "assets/Imagenes/VERBOS/MARCAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "marco",
+        "tu": "marcas",
+        "el_ella_usted": "marca",
+        "nosotros": "marcamos",
+        "ellos_ellas_ustedes": "marcan"
+      },
+      "pasado": {
+        "yo": "marcé",
+        "tu": "marcaste",
+        "el_ella_usted": "marcó",
+        "nosotros": "marcamos",
+        "ellos_ellas_ustedes": "marcaron"
+      },
+      "futuro": {
+        "yo": "marcaré",
+        "tu": "marcarás",
+        "el_ella_usted": "marcará",
+        "nosotros": "marcaremos",
+        "ellos_ellas_ustedes": "marcarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mecer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mecer",
+    "imagen_url": "assets/Imagenes/VERBOS/MECER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "meco",
+        "tu": "meces",
+        "el_ella_usted": "mece",
+        "nosotros": "mecemos",
+        "ellos_ellas_ustedes": "mecen"
+      },
+      "pasado": {
+        "yo": "mecí",
+        "tu": "meciste",
+        "el_ella_usted": "meció",
+        "nosotros": "mecimos",
+        "ellos_ellas_ustedes": "mecieron"
+      },
+      "futuro": {
+        "yo": "meceré",
+        "tu": "mecerás",
+        "el_ella_usted": "mecerá",
+        "nosotros": "meceremos",
+        "ellos_ellas_ustedes": "mecerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mezclar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mezclar",
+    "imagen_url": "assets/Imagenes/VERBOS/MEZCLAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "mezclo",
+        "tu": "mezclas",
+        "el_ella_usted": "mezcla",
+        "nosotros": "mezclamos",
+        "ellos_ellas_ustedes": "mezclan"
+      },
+      "pasado": {
+        "yo": "mezclé",
+        "tu": "mezclaste",
+        "el_ella_usted": "mezcló",
+        "nosotros": "mezclamos",
+        "ellos_ellas_ustedes": "mezclaron"
+      },
+      "futuro": {
+        "yo": "mezclaré",
+        "tu": "mezclarás",
+        "el_ella_usted": "mezclará",
+        "nosotros": "mezclaremos",
+        "ellos_ellas_ustedes": "mezclarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mimar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mimar",
+    "imagen_url": "assets/Imagenes/VERBOS/MIMAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "mimo",
+        "tu": "mimas",
+        "el_ella_usted": "mima",
+        "nosotros": "mimamos",
+        "ellos_ellas_ustedes": "miman"
+      },
+      "pasado": {
+        "yo": "mimé",
+        "tu": "mimaste",
+        "el_ella_usted": "mimó",
+        "nosotros": "mimamos",
+        "ellos_ellas_ustedes": "mimaron"
+      },
+      "futuro": {
+        "yo": "mimaré",
+        "tu": "mimarás",
+        "el_ella_usted": "mimará",
+        "nosotros": "mimaremos",
+        "ellos_ellas_ustedes": "mimarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mirar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mirar",
+    "imagen_url": "assets/Imagenes/VERBOS/MIRAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "miro",
+        "tu": "miras",
+        "el_ella_usted": "mira",
+        "nosotros": "miramos",
+        "ellos_ellas_ustedes": "miran"
+      },
+      "pasado": {
+        "yo": "miré",
+        "tu": "miraste",
+        "el_ella_usted": "miró",
+        "nosotros": "miramos",
+        "ellos_ellas_ustedes": "miraron"
+      },
+      "futuro": {
+        "yo": "miraré",
+        "tu": "mirarás",
+        "el_ella_usted": "mirará",
+        "nosotros": "miraremos",
+        "ellos_ellas_ustedes": "mirarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_molestar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Molestar",
+    "imagen_url": "assets/Imagenes/VERBOS/MOLESTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "molesto",
+        "tu": "molestas",
+        "el_ella_usted": "molesta",
+        "nosotros": "molestamos",
+        "ellos_ellas_ustedes": "molestan"
+      },
+      "pasado": {
+        "yo": "molesté",
+        "tu": "molestaste",
+        "el_ella_usted": "molestó",
+        "nosotros": "molestamos",
+        "ellos_ellas_ustedes": "molestaron"
+      },
+      "futuro": {
+        "yo": "molestaré",
+        "tu": "molestarás",
+        "el_ella_usted": "molestará",
+        "nosotros": "molestaremos",
+        "ellos_ellas_ustedes": "molestarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mostrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mostrar",
+    "imagen_url": "assets/Imagenes/VERBOS/MOSTRAR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "muestro",
+        "tu": "muestras",
+        "el_ella_usted": "muestra",
+        "nosotros": "mostramos",
+        "ellos_ellas_ustedes": "muestran"
+      },
+      "pasado": {
+        "yo": "mostré",
+        "tu": "mostraste",
+        "el_ella_usted": "mostró",
+        "nosotros": "mostramos",
+        "ellos_ellas_ustedes": "mostraron"
+      },
+      "futuro": {
+        "yo": "mostraré",
+        "tu": "mostrarás",
+        "el_ella_usted": "mostrará",
+        "nosotros": "mostraremos",
+        "ellos_ellas_ustedes": "mostrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_mover",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Mover",
+    "imagen_url": "assets/Imagenes/VERBOS/MOVER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "muevo",
+        "tu": "mueves",
+        "el_ella_usted": "mueve",
+        "nosotros": "movemos",
+        "ellos_ellas_ustedes": "mueven"
+      },
+      "pasado": {
+        "yo": "moví",
+        "tu": "moviste",
+        "el_ella_usted": "movió",
+        "nosotros": "movimos",
+        "ellos_ellas_ustedes": "movieron"
+      },
+      "futuro": {
+        "yo": "moveré",
+        "tu": "moverás",
+        "el_ella_usted": "moverá",
+        "nosotros": "moveremos",
+        "ellos_ellas_ustedes": "moverán"
+      }
+    }
+  }
+]

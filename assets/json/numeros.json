@@ -1,0 +1,212 @@
+[
+  {
+    "id": "numeros_1_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "1",
+    "imagen_url": "assets/Imagenes/NUMEROS/1.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_2_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "2",
+    "imagen_url": "assets/Imagenes/NUMEROS/2.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_3_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "3",
+    "imagen_url": "assets/Imagenes/NUMEROS/3.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_4_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "4",
+    "imagen_url": "assets/Imagenes/NUMEROS/4.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_5_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "5",
+    "imagen_url": "assets/Imagenes/NUMEROS/5.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_6_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "6",
+    "imagen_url": "assets/Imagenes/NUMEROS/6.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_7_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "7",
+    "imagen_url": "assets/Imagenes/NUMEROS/7.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_8_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "8",
+    "imagen_url": "assets/Imagenes/NUMEROS/8.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_9_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "9",
+    "imagen_url": "assets/Imagenes/NUMEROS/9.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_10_naturales",
+    "tipo_palabra": "número",
+    "etiqueta": "10",
+    "imagen_url": "assets/Imagenes/NUMEROS/10.jpg",
+    "subcategoria": "naturales"
+  },
+  {
+    "id": "numeros_10_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "10",
+    "imagen_url": "assets/Imagenes/DECENAS/10.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_20_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "20",
+    "imagen_url": "assets/Imagenes/DECENAS/20.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_30_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "30",
+    "imagen_url": "assets/Imagenes/DECENAS/30.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_40_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "40",
+    "imagen_url": "assets/Imagenes/DECENAS/40.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_50_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "50",
+    "imagen_url": "assets/Imagenes/DECENAS/50.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_60_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "60",
+    "imagen_url": "assets/Imagenes/DECENAS/60.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_70_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "70",
+    "imagen_url": "assets/Imagenes/DECENAS/70.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_80_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "80",
+    "imagen_url": "assets/Imagenes/DECENAS/80.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_90_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "90",
+    "imagen_url": "assets/Imagenes/DECENAS/90.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_100_DECENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "100",
+    "imagen_url": "assets/Imagenes/DECENAS/100.jpg",
+    "subcategoria": "DECENAS"
+  },
+  {
+    "id": "numeros_100_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "100",
+    "imagen_url": "assets/Imagenes/CENTENAS/100.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_200_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "200",
+    "imagen_url": "assets/Imagenes/CENTENAS/200.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_300_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "300",
+    "imagen_url": "assets/Imagenes/CENTENAS/300.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_400_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "400",
+    "imagen_url": "assets/Imagenes/CENTENAS/400.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_500_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "500",
+    "imagen_url": "assets/Imagenes/CENTENAS/500.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_600_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "600",
+    "imagen_url": "assets/Imagenes/CENTENAS/600.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_700_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "700",
+    "imagen_url": "assets/Imagenes/CENTENAS/700.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_800_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "800",
+    "imagen_url": "assets/Imagenes/CENTENAS/800.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_900_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "900",
+    "imagen_url": "assets/Imagenes/CENTENAS/900.jpg",
+    "subcategoria": "CENTENAS"
+  },
+  {
+    "id": "numeros_1000_CENTENAS",
+    "tipo_palabra": "número",
+    "etiqueta": "1000",
+    "imagen_url": "assets/Imagenes/CENTENAS/1000.jpg",
+    "subcategoria": "CENTENAS"
+  }
+]

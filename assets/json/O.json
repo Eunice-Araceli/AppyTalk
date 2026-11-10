@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "verbo_oir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Oír",
+    "imagen_url": "assets/Imagenes/VERBOS/OÍR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "oigo",
+        "tu": "oyes",
+        "el_ella_usted": "oye",
+        "nosotros": "oímos",
+        "ellos_ellas_ustedes": "oyen"
+      },
+      "pasado": {
+        "yo": "oí",
+        "tu": "oíste",
+        "el_ella_usted": "oyó",
+        "nosotros": "oímos",
+        "ellos_ellas_ustedes": "oyeron"
+      },
+      "futuro": {
+        "yo": "oiré",
+        "tu": "oirás",
+        "el_ella_usted": "oirá",
+        "nosotros": "oiremos",
+        "ellos_ellas_ustedes": "oirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_oler",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Oler",
+    "imagen_url": "assets/Imagenes/VERBOS/OLER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "olo",
+        "tu": "oles",
+        "el_ella_usted": "ole",
+        "nosotros": "olemos",
+        "ellos_ellas_ustedes": "olen"
+      },
+      "pasado": {
+        "yo": "olí",
+        "tu": "oliste",
+        "el_ella_usted": "olió",
+        "nosotros": "olimos",
+        "ellos_ellas_ustedes": "olieron"
+      },
+      "futuro": {
+        "yo": "oleré",
+        "tu": "olerás",
+        "el_ella_usted": "olerá",
+        "nosotros": "oleremos",
+        "ellos_ellas_ustedes": "olerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_olvidar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Olvidar",
+    "imagen_url": "assets/Imagenes/VERBOS/OLVIDAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "olvido",
+        "tu": "olvidas",
+        "el_ella_usted": "olvida",
+        "nosotros": "olvidamos",
+        "ellos_ellas_ustedes": "olvidan"
+      },
+      "pasado": {
+        "yo": "olvidé",
+        "tu": "olvidaste",
+        "el_ella_usted": "olvidó",
+        "nosotros": "olvidamos",
+        "ellos_ellas_ustedes": "olvidaron"
+      },
+      "futuro": {
+        "yo": "olvidaré",
+        "tu": "olvidarás",
+        "el_ella_usted": "olvidará",
+        "nosotros": "olvidaremos",
+        "ellos_ellas_ustedes": "olvidarán"
+      }
+    }
+  }
+]

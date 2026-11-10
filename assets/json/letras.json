@@ -1,0 +1,380 @@
+[
+  {
+    "id": "letras_aa_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "A",
+    "imagen_url": "assets/Imagenes/LETRAS/AA.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_bb_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "B",
+    "imagen_url": "assets/Imagenes/LETRAS/BB.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_cc_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "C",
+    "imagen_url": "assets/Imagenes/LETRAS/CC.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_dd_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "D",
+    "imagen_url": "assets/Imagenes/LETRAS/DD.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ee_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "E",
+    "imagen_url": "assets/Imagenes/LETRAS/EE.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ff_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "F",
+    "imagen_url": "assets/Imagenes/LETRAS/FF.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_gg_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "G",
+    "imagen_url": "assets/Imagenes/LETRAS/GG.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_hh_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "H",
+    "imagen_url": "assets/Imagenes/LETRAS/HH.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ii_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "I",
+    "imagen_url": "assets/Imagenes/LETRAS/II.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_jj_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "J",
+    "imagen_url": "assets/Imagenes/LETRAS/JJ.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_kk_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "K",
+    "imagen_url": "assets/Imagenes/LETRAS/KK.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ll_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "L",
+    "imagen_url": "assets/Imagenes/LETRAS/LL.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_mm_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "M",
+    "imagen_url": "assets/Imagenes/LETRAS/MM.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_nn_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "N",
+    "imagen_url": "assets/Imagenes/LETRAS/NN.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_nn_tilde_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "Ñ",
+    "imagen_url": "assets/Imagenes/LETRAS/ÑÑ.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_oo_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "O",
+    "imagen_url": "assets/Imagenes/LETRAS/OO.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_pp_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "P",
+    "imagen_url": "assets/Imagenes/LETRAS/PP.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_qq_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "Q",
+    "imagen_url": "assets/Imagenes/LETRAS/QQ.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_rr_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "R",
+    "imagen_url": "assets/Imagenes/LETRAS/RR.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ss_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "S",
+    "imagen_url": "assets/Imagenes/LETRAS/SS.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_tt_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "T",
+    "imagen_url": "assets/Imagenes/LETRAS/TT.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_uu_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "U",
+    "imagen_url": "assets/Imagenes/LETRAS/UU.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_vv_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "V",
+    "imagen_url": "assets/Imagenes/LETRAS/VV.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_ww_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "W",
+    "imagen_url": "assets/Imagenes/LETRAS/WW.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_xx_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "X",
+    "imagen_url": "assets/Imagenes/LETRAS/XX.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_yy_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "Y",
+    "imagen_url": "assets/Imagenes/LETRAS/YY.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_zz_abecedario",
+    "tipo_palabra": "letra",
+    "etiqueta": "Z",
+    "imagen_url": "assets/Imagenes/LETRAS/ZZ.jpg",
+    "subcategoria": "Abecedario"
+  },
+  {
+    "id": "letras_aa_vocales",
+    "tipo_palabra": "letra",
+    "etiqueta": "A",
+    "imagen_url": "assets/Imagenes/LETRAS/AA.jpg",
+    "subcategoria": "Vocales"
+  },
+  {
+    "id": "letras_ee_vocales",
+    "tipo_palabra": "letra",
+    "etiqueta": "E",
+    "imagen_url": "assets/Imagenes/LETRAS/EE.jpg",
+    "subcategoria": "Vocales"
+  },
+  {
+    "id": "letras_ii_vocales",
+    "tipo_palabra": "letra",
+    "etiqueta": "I",
+    "imagen_url": "assets/Imagenes/LETRAS/II.jpg",
+    "subcategoria": "Vocales"
+  },
+  {
+    "id": "letras_oo_vocales",
+    "tipo_palabra": "letra",
+    "etiqueta": "O",
+    "imagen_url": "assets/Imagenes/LETRAS/OO.jpg",
+    "subcategoria": "Vocales"
+  },
+  {
+    "id": "letras_uu_vocales",
+    "tipo_palabra": "letra",
+    "etiqueta": "U",
+    "imagen_url": "assets/Imagenes/LETRAS/UU.jpg",
+    "subcategoria": "Vocales"
+  },
+  {
+    "id": "letras_bb_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "B",
+    "imagen_url": "assets/Imagenes/LETRAS/BB.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_cc_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "C",
+    "imagen_url": "assets/Imagenes/LETRAS/CC.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_dd_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "D",
+    "imagen_url": "assets/Imagenes/LETRAS/DD.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_ff_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "F",
+    "imagen_url": "assets/Imagenes/LETRAS/FF.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_gg_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "G",
+    "imagen_url": "assets/Imagenes/LETRAS/GG.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_hh_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "H",
+    "imagen_url": "assets/Imagenes/LETRAS/HH.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_jj_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "J",
+    "imagen_url": "assets/Imagenes/LETRAS/JJ.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_kk_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "K",
+    "imagen_url": "assets/Imagenes/LETRAS/KK.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_ll_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "L",
+    "imagen_url": "assets/Imagenes/LETRAS/LL.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_mm_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "M",
+    "imagen_url": "assets/Imagenes/LETRAS/MM.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_nn_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "N",
+    "imagen_url": "assets/Imagenes/LETRAS/NN.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_nn_tilde_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "Ñ",
+    "imagen_url": "assets/Imagenes/LETRAS/ÑÑ.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_pp_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "P",
+    "imagen_url": "assets/Imagenes/LETRAS/PP.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_qq_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "Q",
+    "imagen_url": "assets/Imagenes/LETRAS/QQ.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_rr_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "R",
+    "imagen_url": "assets/Imagenes/LETRAS/RR.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_ss_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "S",
+    "imagen_url": "assets/Imagenes/LETRAS/SS.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_tt_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "T",
+    "imagen_url": "assets/Imagenes/LETRAS/TT.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_vv_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "V",
+    "imagen_url": "assets/Imagenes/LETRAS/VV.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_ww_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "W",
+    "imagen_url": "assets/Imagenes/LETRAS/WW.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_xx_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "X",
+    "imagen_url": "assets/Imagenes/LETRAS/XX.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_yy_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "Y",
+    "imagen_url": "assets/Imagenes/LETRAS/YY.jpg",
+    "subcategoria": "Consonantes"
+  },
+  {
+    "id": "letras_zz_consonantes",
+    "tipo_palabra": "letra",
+    "etiqueta": "Z",
+    "imagen_url": "assets/Imagenes/LETRAS/ZZ.jpg",
+    "subcategoria": "Consonantes"
+  }
+]

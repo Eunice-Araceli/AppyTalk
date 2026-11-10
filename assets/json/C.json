@@ -1,0 +1,992 @@
+[
+  {
+    "_id": "verbo_caer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Caer",
+    "imagen_url": "assets/Imagenes/VERBOS/CAER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "caigo",
+        "tu": "caes",
+        "el_ella_usted": "cae",
+        "nosotros": "caemos",
+        "ellos_ellas_ustedes": "caen"
+      },
+      "pasado": {
+        "yo": "caí",
+        "tu": "caíste",
+        "el_ella_usted": "cayó",
+        "nosotros": "caímos",
+        "ellos_ellas_ustedes": "cayeron"
+      },
+      "futuro": {
+        "yo": "caeré",
+        "tu": "caerás",
+        "el_ella_usted": "caerá",
+        "nosotros": "caeremos",
+        "ellos_ellas_ustedes": "caerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_calentar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Calentar",
+    "imagen_url": "assets/Imagenes/VERBOS/CALENTAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "caliento",
+        "tu": "calientas",
+        "el_ella_usted": "calienta",
+        "nosotros": "calentamos",
+        "ellos_ellas_ustedes": "calientan"
+      },
+      "pasado": {
+        "yo": "calenté",
+        "tu": "calentaste",
+        "el_ella_usted": "calentó",
+        "nosotros": "calentamos",
+        "ellos_ellas_ustedes": "calentaron"
+      },
+      "futuro": {
+        "yo": "calentaré",
+        "tu": "calentarás",
+        "el_ella_usted": "calentará",
+        "nosotros": "calentaremos",
+        "ellos_ellas_ustedes": "calentarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_callar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Callar",
+    "imagen_url": "assets/Imagenes/VERBOS/CALLAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "callo",
+        "tu": "callas",
+        "el_ella_usted": "calla",
+        "nosotros": "callamos",
+        "ellos_ellas_ustedes": "callan"
+      },
+      "pasado": {
+        "yo": "callé",
+        "tu": "callaste",
+        "el_ella_usted": "calló",
+        "nosotros": "callamos",
+        "ellos_ellas_ustedes": "callaron"
+      },
+      "futuro": {
+        "yo": "callaré",
+        "tu": "callarás",
+        "el_ella_usted": "callará",
+        "nosotros": "callaremos",
+        "ellos_ellas_ustedes": "callarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_calmar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Calmar",
+    "imagen_url": "assets/Imagenes/VERBOS/CALMAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "calmo",
+        "tu": "calmas",
+        "el_ella_usted": "calma",
+        "nosotros": "calmamos",
+        "ellos_ellas_ustedes": "calman"
+      },
+      "pasado": {
+        "yo": "calmé",
+        "tu": "calmaste",
+        "el_ella_usted": "calmó",
+        "nosotros": "calmamos",
+        "ellos_ellas_ustedes": "calmaron"
+      },
+      "futuro": {
+        "yo": "calmaré",
+        "tu": "calmarás",
+        "el_ella_usted": "calmará",
+        "nosotros": "calmaremos",
+        "ellos_ellas_ustedes": "calmarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cambiar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cambiar",
+    "imagen_url": "assets/Imagenes/VERBOS/CAMBIAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cambio",
+        "tu": "cambias",
+        "el_ella_usted": "cambia",
+        "nosotros": "cambiamos",
+        "ellos_ellas_ustedes": "cambian"
+      },
+      "pasado": {
+        "yo": "cambié",
+        "tu": "cambiaste",
+        "el_ella_usted": "cambió",
+        "nosotros": "cambiamos",
+        "ellos_ellas_ustedes": "cambiaron"
+      },
+      "futuro": {
+        "yo": "cambiaré",
+        "tu": "cambiarás",
+        "el_ella_usted": "cambiará",
+        "nosotros": "cambiaremos",
+        "ellos_ellas_ustedes": "cambiarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_caminar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Caminar",
+    "imagen_url": "assets/Imagenes/VERBOS/CAMINAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "camino",
+        "tu": "caminas",
+        "el_ella_usted": "camina",
+        "nosotros": "caminamos",
+        "ellos_ellas_ustedes": "caminan"
+      },
+      "pasado": {
+        "yo": "caminé",
+        "tu": "caminaste",
+        "el_ella_usted": "caminó",
+        "nosotros": "caminamos",
+        "ellos_ellas_ustedes": "caminaron"
+      },
+      "futuro": {
+        "yo": "caminaré",
+        "tu": "caminarás",
+        "el_ella_usted": "caminará",
+        "nosotros": "caminaremos",
+        "ellos_ellas_ustedes": "caminarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cansar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cansar",
+    "imagen_url": "assets/Imagenes/VERBOS/CANSAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "canso",
+        "tu": "cansas",
+        "el_ella_usted": "cansa",
+        "nosotros": "cansamos",
+        "ellos_ellas_ustedes": "cansan"
+      },
+      "pasado": {
+        "yo": "cansé",
+        "tu": "cansaste",
+        "el_ella_usted": "cansó",
+        "nosotros": "cansamos",
+        "ellos_ellas_ustedes": "cansaron"
+      },
+      "futuro": {
+        "yo": "cansaré",
+        "tu": "cansarás",
+        "el_ella_usted": "cansará",
+        "nosotros": "cansaremos",
+        "ellos_ellas_ustedes": "cansarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cantar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cantar",
+    "imagen_url": "assets/Imagenes/VERBOS/CANTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "canto",
+        "tu": "cantas",
+        "el_ella_usted": "canta",
+        "nosotros": "cantamos",
+        "ellos_ellas_ustedes": "cantan"
+      },
+      "pasado": {
+        "yo": "canté",
+        "tu": "cantaste",
+        "el_ella_usted": "cantó",
+        "nosotros": "cantamos",
+        "ellos_ellas_ustedes": "cantaron"
+      },
+      "futuro": {
+        "yo": "cantaré",
+        "tu": "cantarás",
+        "el_ella_usted": "cantará",
+        "nosotros": "cantaremos",
+        "ellos_ellas_ustedes": "cantarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cargar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cargar",
+    "imagen_url": "assets/Imagenes/VERBOS/CARGAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cargo",
+        "tu": "cargas",
+        "el_ella_usted": "carga",
+        "nosotros": "cargamos",
+        "ellos_ellas_ustedes": "cargan"
+      },
+      "pasado": {
+        "yo": "cargué",
+        "tu": "cargaste",
+        "el_ella_usted": "cargó",
+        "nosotros": "cargamos",
+        "ellos_ellas_ustedes": "cargaron"
+      },
+      "futuro": {
+        "yo": "cargaré",
+        "tu": "cargarás",
+        "el_ella_usted": "cargará",
+        "nosotros": "cargaremos",
+        "ellos_ellas_ustedes": "cargarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_castigar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Castigar",
+    "imagen_url": "assets/Imagenes/VERBOS/CASTIGAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "castigo",
+        "tu": "castigas",
+        "el_ella_usted": "castiga",
+        "nosotros": "castigamos",
+        "ellos_ellas_ustedes": "castigan"
+      },
+      "pasado": {
+        "yo": "castigué",
+        "tu": "castigaste",
+        "el_ella_usted": "castigó",
+        "nosotros": "castigamos",
+        "ellos_ellas_ustedes": "castigaron"
+      },
+      "futuro": {
+        "yo": "castigaré",
+        "tu": "castigarás",
+        "el_ella_usted": "castigará",
+        "nosotros": "castigaremos",
+        "ellos_ellas_ustedes": "castigarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cenar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cenar",
+    "imagen_url": "assets/Imagenes/VERBOS/CENAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "ceno",
+        "tu": "cenas",
+        "el_ella_usted": "cena",
+        "nosotros": "cenamos",
+        "ellos_ellas_ustedes": "cenan"
+      },
+      "pasado": {
+        "yo": "cené",
+        "tu": "cenaste",
+        "el_ella_usted": "cenó",
+        "nosotros": "cenamos",
+        "ellos_ellas_ustedes": "cenaron"
+      },
+      "futuro": {
+        "yo": "cenaré",
+        "tu": "cenarás",
+        "el_ella_usted": "cenará",
+        "nosotros": "cenaremos",
+        "ellos_ellas_ustedes": "cenarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cerrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cerrar",
+    "imagen_url": "assets/Imagenes/VERBOS/CERRAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cierro",
+        "tu": "cierras",
+        "el_ella_usted": "cierra",
+        "nosotros": "cerramos",
+        "ellos_ellas_ustedes": "cierran"
+      },
+      "pasado": {
+        "yo": "cerré",
+        "tu": "cerraste",
+        "el_ella_usted": "cerró",
+        "nosotros": "cerramos",
+        "ellos_ellas_ustedes": "cerraron"
+      },
+      "futuro": {
+        "yo": "cerraré",
+        "tu": "cerrarás",
+        "el_ella_usted": "cerrará",
+        "nosotros": "cerraremos",
+        "ellos_ellas_ustedes": "cerrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_chocar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Chocar",
+    "imagen_url": "assets/Imagenes/VERBOS/CHOCAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "choco",
+        "tu": "chocas",
+        "el_ella_usted": "choca",
+        "nosotros": "chocamos",
+        "ellos_ellas_ustedes": "chocan"
+      },
+      "pasado": {
+        "yo": "choqué",
+        "tu": "chocaste",
+        "el_ella_usted": "chocó",
+        "nosotros": "chocamos",
+        "ellos_ellas_ustedes": "chocaron"
+      },
+      "futuro": {
+        "yo": "chocaré",
+        "tu": "chocarás",
+        "el_ella_usted": "chocará",
+        "nosotros": "chocaremos",
+        "ellos_ellas_ustedes": "chocarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cocinar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cocinar",
+    "imagen_url": "assets/Imagenes/VERBOS/COCINAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cocino",
+        "tu": "cocinas",
+        "el_ella_usted": "cocina",
+        "nosotros": "cocinamos",
+        "ellos_ellas_ustedes": "cocinan"
+      },
+      "pasado": {
+        "yo": "cociné",
+        "tu": "cocinaste",
+        "el_ella_usted": "cocinó",
+        "nosotros": "cocinamos",
+        "ellos_ellas_ustedes": "cocinaron"
+      },
+      "futuro": {
+        "yo": "cocinaré",
+        "tu": "cocinarás",
+        "el_ella_usted": "cocinará",
+        "nosotros": "cocinaremos",
+        "ellos_ellas_ustedes": "cocinarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_colgar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Colgar",
+    "imagen_url": "assets/Imagenes/VERBOS/COLGAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cuelgo",
+        "tu": "cuelgas",
+        "el_ella_usted": "cuelga",
+        "nosotros": "colgamos",
+        "ellos_ellas_ustedes": "cuelgan"
+      },
+      "pasado": {
+        "yo": "colgué",
+        "tu": "colgaste",
+        "el_ella_usted": "colgó",
+        "nosotros": "colgamos",
+        "ellos_ellas_ustedes": "colgaron"
+      },
+      "futuro": {
+        "yo": "colgaré",
+        "tu": "colgarás",
+        "el_ella_usted": "colgará",
+        "nosotros": "colgaremos",
+        "ellos_ellas_ustedes": "colgarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_colocar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Colocar",
+    "imagen_url": "assets/Imagenes/VERBOS/COLOCAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "coloco",
+        "tu": "colocas",
+        "el_ella_usted": "coloca",
+        "nosotros": "colocamos",
+        "ellos_ellas_ustedes": "colocan"
+      },
+      "pasado": {
+        "yo": "coloqué",
+        "tu": "colocaste",
+        "el_ella_usted": "colocó",
+        "nosotros": "colocamos",
+        "ellos_ellas_ustedes": "colocaron"
+      },
+      "futuro": {
+        "yo": "colocaré",
+        "tu": "colocarás",
+        "el_ella_usted": "colocará",
+        "nosotros": "colocaremos",
+        "ellos_ellas_ustedes": "colocarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_colorear",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Colorear",
+    "imagen_url": "assets/Imagenes/VERBOS/COLOREAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "coloreo",
+        "tu": "coloreas",
+        "el_ella_usted": "colorea",
+        "nosotros": "coloreamos",
+        "ellos_ellas_ustedes": "colorean"
+      },
+      "pasado": {
+        "yo": "coloreé",
+        "tu": "coloreaste",
+        "el_ella_usted": "coloreó",
+        "nosotros": "coloreamos",
+        "ellos_ellas_ustedes": "colorearon"
+      },
+      "futuro": {
+        "yo": "colorearé",
+        "tu": "colorearás",
+        "el_ella_usted": "coloreará",
+        "nosotros": "colorearemos",
+        "ellos_ellas_ustedes": "colorearán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_comer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Comer",
+    "imagen_url": "assets/Imagenes/VERBOS/COMER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "como",
+        "tu": "comes",
+        "el_ella_usted": "come",
+        "nosotros": "comemos",
+        "ellos_ellas_ustedes": "comen"
+      },
+      "pasado": {
+        "yo": "comí",
+        "tu": "comiste",
+        "el_ella_usted": "comió",
+        "nosotros": "comimos",
+        "ellos_ellas_ustedes": "comieron"
+      },
+      "futuro": {
+        "yo": "comeré",
+        "tu": "comerás",
+        "el_ella_usted": "comerá",
+        "nosotros": "comeremos",
+        "ellos_ellas_ustedes": "comerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_compartir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Compartir",
+    "imagen_url": "assets/Imagenes/VERBOS/COMPARTIR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "comparto",
+        "tu": "compartes",
+        "el_ella_usted": "comparte",
+        "nosotros": "compartimos",
+        "ellos_ellas_ustedes": "comparten"
+      },
+      "pasado": {
+        "yo": "compartí",
+        "tu": "compartiste",
+        "el_ella_usted": "compartió",
+        "nosotros": "compartimos",
+        "ellos_ellas_ustedes": "compartieron"
+      },
+      "futuro": {
+        "yo": "compartiré",
+        "tu": "compartirás",
+        "el_ella_usted": "compartirá",
+        "nosotros": "compartiremos",
+        "ellos_ellas_ustedes": "compartirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_comprar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Comprar",
+    "imagen_url": "assets/Imagenes/VERBOS/COMPRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "compro",
+        "tu": "compras",
+        "el_ella_usted": "compra",
+        "nosotros": "compramos",
+        "ellos_ellas_ustedes": "compran"
+      },
+      "pasado": {
+        "yo": "compré",
+        "tu": "compraste",
+        "el_ella_usted": "compró",
+        "nosotros": "compramos",
+        "ellos_ellas_ustedes": "compraron"
+      },
+      "futuro": {
+        "yo": "compraré",
+        "tu": "comprarás",
+        "el_ella_usted": "comprará",
+        "nosotros": "compraremos",
+        "ellos_ellas_ustedes": "comprarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_conectar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Conectar",
+    "imagen_url": "assets/Imagenes/VERBOS/CONECTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "conecto",
+        "tu": "conectas",
+        "el_ella_usted": "conecta",
+        "nosotros": "conectamos",
+        "ellos_ellas_ustedes": "conectan"
+      },
+      "pasado": {
+        "yo": "conecté",
+        "tu": "conectaste",
+        "el_ella_usted": "conectó",
+        "nosotros": "conectamos",
+        "ellos_ellas_ustedes": "conectaron"
+      },
+      "futuro": {
+        "yo": "conectaré",
+        "tu": "conectarás",
+        "el_ella_usted": "conectará",
+        "nosotros": "conectaremos",
+        "ellos_ellas_ustedes": "conectarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_conocer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Conocer",
+    "imagen_url": "assets/Imagenes/VERBOS/CONOCER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "conozco",
+        "tu": "conoces",
+        "el_ella_usted": "conoce",
+        "nosotros": "conocemos",
+        "ellos_ellas_ustedes": "conocen"
+      },
+      "pasado": {
+        "yo": "conocí",
+        "tu": "conociste",
+        "el_ella_usted": "conoció",
+        "nosotros": "conocimos",
+        "ellos_ellas_ustedes": "conocieron"
+      },
+      "futuro": {
+        "yo": "conoceré",
+        "tu": "conocerás",
+        "el_ella_usted": "conocerá",
+        "nosotros": "conoceremos",
+        "ellos_ellas_ustedes": "conocerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_construir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Construir",
+    "imagen_url": "assets/Imagenes/VERBOS/CONSTRUIR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "construyo",
+        "tu": "construyes",
+        "el_ella_usted": "construye",
+        "nosotros": "construimos",
+        "ellos_ellas_ustedes": "construyen"
+      },
+      "pasado": {
+        "yo": "construí",
+        "tu": "construiste",
+        "el_ella_usted": "construyó",
+        "nosotros": "construimos",
+        "ellos_ellas_ustedes": "construyeron"
+      },
+      "futuro": {
+        "yo": "construiré",
+        "tu": "construirás",
+        "el_ella_usted": "construirá",
+        "nosotros": "construiremos",
+        "ellos_ellas_ustedes": "construirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_contar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Contar",
+    "imagen_url": "assets/Imagenes/VERBOS/CONTAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cuento",
+        "tu": "cuentas",
+        "el_ella_usted": "cuenta",
+        "nosotros": "contamos",
+        "ellos_ellas_ustedes": "cuentan"
+      },
+      "pasado": {
+        "yo": "conté",
+        "tu": "contaste",
+        "el_ella_usted": "contó",
+        "nosotros": "contamos",
+        "ellos_ellas_ustedes": "contaron"
+      },
+      "futuro": {
+        "yo": "contaré",
+        "tu": "contarás",
+        "el_ella_usted": "contará",
+        "nosotros": "contaremos",
+        "ellos_ellas_ustedes": "contarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_contestar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Contestar",
+    "imagen_url": "assets/Imagenes/VERBOS/CONTESTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "contesto",
+        "tu": "contestas",
+        "el_ella_usted": "contesta",
+        "nosotros": "contestamos",
+        "ellos_ellas_ustedes": "contestan"
+      },
+      "pasado": {
+        "yo": "contesté",
+        "tu": "contestaste",
+        "el_ella_usted": "contestó",
+        "nosotros": "contestamos",
+        "ellos_ellas_ustedes": "contestaron"
+      },
+      "futuro": {
+        "yo": "contestaré",
+        "tu": "contestarás",
+        "el_ella_usted": "contestará",
+        "nosotros": "contestaremos",
+        "ellos_ellas_ustedes": "contestarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_copiar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Copiar",
+    "imagen_url": "assets/Imagenes/VERBOS/COPIAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "copio",
+        "tu": "copias",
+        "el_ella_usted": "copia",
+        "nosotros": "copiamos",
+        "ellos_ellas_ustedes": "copian"
+      },
+      "pasado": {
+        "yo": "copié",
+        "tu": "copiaste",
+        "el_ella_usted": "copió",
+        "nosotros": "copiamos",
+        "ellos_ellas_ustedes": "copiaron"
+      },
+      "futuro": {
+        "yo": "copiaré",
+        "tu": "copiarás",
+        "el_ella_usted": "copiará",
+        "nosotros": "copiaremos",
+        "ellos_ellas_ustedes": "copiarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_correr",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Correr",
+    "imagen_url": "assets/Imagenes/VERBOS/CORRER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "corro",
+        "tu": "corres",
+        "el_ella_usted": "corre",
+        "nosotros": "corremos",
+        "ellos_ellas_ustedes": "corren"
+      },
+      "pasado": {
+        "yo": "corrí",
+        "tu": "corriste",
+        "el_ella_usted": "corrió",
+        "nosotros": "corrimos",
+        "ellos_ellas_ustedes": "corrieron"
+      },
+      "futuro": {
+        "yo": "correré",
+        "tu": "correrás",
+        "el_ella_usted": "correrá",
+        "nosotros": "correremos",
+        "ellos_ellas_ustedes": "correrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cortar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cortar",
+    "imagen_url": "assets/Imagenes/VERBOS/CORTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "corto",
+        "tu": "cortas",
+        "el_ella_usted": "corta",
+        "nosotros": "cortamos",
+        "ellos_ellas_ustedes": "cortan"
+      },
+      "pasado": {
+        "yo": "corté",
+        "tu": "cortaste",
+        "el_ella_usted": "cortó",
+        "nosotros": "cortamos",
+        "ellos_ellas_ustedes": "cortaron"
+      },
+      "futuro": {
+        "yo": "cortaré",
+        "tu": "cortarás",
+        "el_ella_usted": "cortará",
+        "nosotros": "cortaremos",
+        "ellos_ellas_ustedes": "cortarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_crecer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Crecer",
+    "imagen_url": "assets/Imagenes/VERBOS/CRECER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "crezco",
+        "tu": "creces",
+        "el_ella_usted": "crece",
+        "nosotros": "crecemos",
+        "ellos_ellas_ustedes": "crecen"
+      },
+      "pasado": {
+        "yo": "crecí",
+        "tu": "creciste",
+        "el_ella_usted": "creció",
+        "nosotros": "crecimos",
+        "ellos_ellas_ustedes": "crecieron"
+      },
+      "futuro": {
+        "yo": "creceré",
+        "tu": "crecerás",
+        "el_ella_usted": "crecerá",
+        "nosotros": "creceremos",
+        "ellos_ellas_ustedes": "crecerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_criar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Criar",
+    "imagen_url": "assets/Imagenes/VERBOS/CRIAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "crio",
+        "tu": "crias",
+        "el_ella_usted": "cria",
+        "nosotros": "criamos",
+        "ellos_ellas_ustedes": "crian"
+      },
+      "pasado": {
+        "yo": "crie",
+        "tu": "criaste",
+        "el_ella_usted": "crió",
+        "nosotros": "criamos",
+        "ellos_ellas_ustedes": "criaron"
+      },
+      "futuro": {
+        "yo": "criaré",
+        "tu": "criarás",
+        "el_ella_usted": "criará",
+        "nosotros": "criaremos",
+        "ellos_ellas_ustedes": "criarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cruzar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cruzar",
+    "imagen_url": "assets/Imagenes/VERBOS/CRUZAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cruzo",
+        "tu": "cruzas",
+        "el_ella_usted": "cruza",
+        "nosotros": "cruzamos",
+        "ellos_ellas_ustedes": "cruzan"
+      },
+      "pasado": {
+        "yo": "crucé",
+        "tu": "cruzaste",
+        "el_ella_usted": "cruzó",
+        "nosotros": "cruzamos",
+        "ellos_ellas_ustedes": "cruzaron"
+      },
+      "futuro": {
+        "yo": "cruzaré",
+        "tu": "cruzarás",
+        "el_ella_usted": "cruzará",
+        "nosotros": "cruzaremos",
+        "ellos_ellas_ustedes": "cruzarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_cuidar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Cuidar",
+    "imagen_url": "assets/Imagenes/VERBOS/CUIDAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "cuido",
+        "tu": "cuidas",
+        "el_ella_usted": "cuida",
+        "nosotros": "cuidamos",
+        "ellos_ellas_ustedes": "cuidan"
+      },
+      "pasado": {
+        "yo": "cuidé",
+        "tu": "cuidaste",
+        "el_ella_usted": "cuidó",
+        "nosotros": "cuidamos",
+        "ellos_ellas_ustedes": "cuidaron"
+      },
+      "futuro": {
+        "yo": "cuidaré",
+        "tu": "cuidarás",
+        "el_ella_usted": "cuidará",
+        "nosotros": "cuidaremos",
+        "ellos_ellas_ustedes": "cuidarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_curar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Curar",
+    "imagen_url": "assets/Imagenes/VERBOS/CURAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "curo",
+        "tu": "curas",
+        "el_ella_usted": "cura",
+        "nosotros": "curamos",
+        "ellos_ellas_ustedes": "curan"
+      },
+      "pasado": {
+        "yo": "curé",
+        "tu": "curaste",
+        "el_ella_usted": "curó",
+        "nosotros": "curamos",
+        "ellos_ellas_ustedes": "curaron"
+      },
+      "futuro": {
+        "yo": "curaré",
+        "tu": "curarás",
+        "el_ella_usted": "curará",
+        "nosotros": "curaremos",
+        "ellos_ellas_ustedes": "curarán"
+      }
+    }
+  }
+]

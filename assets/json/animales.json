@@ -1,0 +1,716 @@
+[
+  {
+    "id": "animal_delfin_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Delfín",
+    "imagen_url": "assets/Imagenes/ANIMALES/DELFIN.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_ballena_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ballena",
+    "imagen_url": "assets/Imagenes/ANIMALES/BALLENA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_tiburon_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tiburón",
+    "imagen_url": "assets/Imagenes/ANIMALES/TIBURON.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_pez_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pez",
+    "imagen_url": "assets/Imagenes/ANIMALES/PEZ.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_pulpo_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pulpo",
+    "imagen_url": "assets/Imagenes/ANIMALES/PULPO.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_calamar_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calamar",
+    "imagen_url": "assets/Imagenes/ANIMALES/CALAMAR.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_foca_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Foca",
+    "imagen_url": "assets/Imagenes/ANIMALES/FOCA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_morsa_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Morsa",
+    "imagen_url": "assets/Imagenes/ANIMALES/MORSA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_estrella_de_mar_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Estrella de mar",
+    "imagen_url": "assets/Imagenes/ANIMALES/ESTRELLA_DE_MAR.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_caballito_de_mar_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Caballito de mar",
+    "imagen_url": "assets/Imagenes/ANIMALES/CABALLITO_DE_MAR.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_cangrejo_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cangrejo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CANGREJO.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_langosta_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Langosta",
+    "imagen_url": "assets/Imagenes/ANIMALES/LANGOSTA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_camaron_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camarón",
+    "imagen_url": "assets/Imagenes/ANIMALES/CAMARON.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_medusa_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Medusa",
+    "imagen_url": "assets/Imagenes/ANIMALES/MEDUSA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_tortuga_marina_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tortuga marina",
+    "imagen_url": "assets/Imagenes/ANIMALES/TORTUGA_MARINA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_pinguino_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pingüino",
+    "imagen_url": "assets/Imagenes/ANIMALES/PINGUINO.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_mero_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mero",
+    "imagen_url": "assets/Imagenes/ANIMALES/MERO.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_atun_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Atún",
+    "imagen_url": "assets/Imagenes/ANIMALES/ATUN.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_sardina_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sardina",
+    "imagen_url": "assets/Imagenes/ANIMALES/SARDINA.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_salmon_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Salmón",
+    "imagen_url": "assets/Imagenes/ANIMALES/SALMON.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_coral_marinos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Coral",
+    "imagen_url": "assets/Imagenes/ANIMALES/CORAL.jpg",
+    "subcategoria": "Marinos"
+  },
+  {
+    "id": "animal_perro_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Perro",
+    "imagen_url": "assets/Imagenes/ANIMALES/PERRO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_gato_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gato",
+    "imagen_url": "assets/Imagenes/ANIMALES/GATO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_conejo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Conejo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CONEJO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_caballo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Caballo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CABALLO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_vaca_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Vaca",
+    "imagen_url": "assets/Imagenes/ANIMALES/VACA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_oveja_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Oveja",
+    "imagen_url": "assets/Imagenes/ANIMALES/OVEJA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_cabra_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cabra",
+    "imagen_url": "assets/Imagenes/ANIMALES/CABRA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_cerdo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cerdo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CERDO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_leon_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "León",
+    "imagen_url": "assets/Imagenes/ANIMALES/LEON.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_tigre_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tigre",
+    "imagen_url": "assets/Imagenes/ANIMALES/TIGRE.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_elefante_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Elefante",
+    "imagen_url": "assets/Imagenes/ANIMALES/ELEFANTE.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_oso_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Oso",
+    "imagen_url": "assets/Imagenes/ANIMALES/OSO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_zorro_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zorro",
+    "imagen_url": "assets/Imagenes/ANIMALES/ZORRO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_lobo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lobo",
+    "imagen_url": "assets/Imagenes/ANIMALES/LOBO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_jirafa_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jirafa",
+    "imagen_url": "assets/Imagenes/ANIMALES/JIRAFA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_rinoceronte_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rinoceronte",
+    "imagen_url": "assets/Imagenes/ANIMALES/RINOCERONTE.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_hipopotamo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hipopótamo",
+    "imagen_url": "assets/Imagenes/ANIMALES/HIPOPOTAMO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_cebra_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cebra",
+    "imagen_url": "assets/Imagenes/ANIMALES/CEBRA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_mono_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mono",
+    "imagen_url": "assets/Imagenes/ANIMALES/MONO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_gorila_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gorila",
+    "imagen_url": "assets/Imagenes/ANIMALES/GORILA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_chimpance_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chimpancé",
+    "imagen_url": "assets/Imagenes/ANIMALES/CHIMPANCE.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_raton_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ratón",
+    "imagen_url": "assets/Imagenes/ANIMALES/RATON.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_rata_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Rata",
+    "imagen_url": "assets/Imagenes/ANIMALES/RATA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_ardilla_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ardilla",
+    "imagen_url": "assets/Imagenes/ANIMALES/ARDILLA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_ciervo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ciervo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CIERVO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_canguro_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Canguro",
+    "imagen_url": "assets/Imagenes/ANIMALES/CANGURO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_koala_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Koala",
+    "imagen_url": "assets/Imagenes/ANIMALES/KOALA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_puma_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Puma",
+    "imagen_url": "assets/Imagenes/ANIMALES/PUMA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_pantera_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pantera",
+    "imagen_url": "assets/Imagenes/ANIMALES/PANTERA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_leopardo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Leopardo",
+    "imagen_url": "assets/Imagenes/ANIMALES/LEOPARDO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_camello_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camello",
+    "imagen_url": "assets/Imagenes/ANIMALES/CAMELLO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_burro_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Burro",
+    "imagen_url": "assets/Imagenes/ANIMALES/BURRO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_llama_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Llama",
+    "imagen_url": "assets/Imagenes/ANIMALES/LLAMA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_alpaca_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Alpaca",
+    "imagen_url": "assets/Imagenes/ANIMALES/ALPACA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_hiena_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hiena",
+    "imagen_url": "assets/Imagenes/ANIMALES/HIENA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_mapache_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mapache",
+    "imagen_url": "assets/Imagenes/ANIMALES/MAPACHE.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_tejon_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tejón",
+    "imagen_url": "assets/Imagenes/ANIMALES/TEJON.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_erizo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Erizo",
+    "imagen_url": "assets/Imagenes/ANIMALES/ERIZO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_armadillo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Armadillo",
+    "imagen_url": "assets/Imagenes/ANIMALES/ARMADILLO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_topo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Topo",
+    "imagen_url": "assets/Imagenes/ANIMALES/TOPO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_jabali_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jabalí",
+    "imagen_url": "assets/Imagenes/ANIMALES/JABALI.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_bufalo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Búfalo",
+    "imagen_url": "assets/Imagenes/ANIMALES/BUFALO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_castor_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Castor",
+    "imagen_url": "assets/Imagenes/ANIMALES/CASTOR.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_nutria_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Nutria",
+    "imagen_url": "assets/Imagenes/ANIMALES/NUTRIA.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_zorrillo_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zorrillo",
+    "imagen_url": "assets/Imagenes/ANIMALES/ZORRILLO.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_huron_terrestres",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hurón",
+    "imagen_url": "assets/Imagenes/ANIMALES/HURON.jpg",
+    "subcategoria": "Terrestres"
+  },
+  {
+    "id": "animal_aguila_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Águila",
+    "imagen_url": "assets/Imagenes/ANIMALES/AGUILA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_halcon_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Halcón",
+    "imagen_url": "assets/Imagenes/ANIMALES/HALCON.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_buho_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Búho",
+    "imagen_url": "assets/Imagenes/ANIMALES/BUHO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_lechuza_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lechuza",
+    "imagen_url": "assets/Imagenes/ANIMALES/LECHUZA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_cuervo_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cuervo",
+    "imagen_url": "assets/Imagenes/ANIMALES/CUERVO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_paloma_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Paloma",
+    "imagen_url": "assets/Imagenes/ANIMALES/PALOMA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_canario_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Canario",
+    "imagen_url": "assets/Imagenes/ANIMALES/CANARIO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_periquito_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Periquito",
+    "imagen_url": "assets/Imagenes/ANIMALES/PERIQUITO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_golondrina_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Golondrina",
+    "imagen_url": "assets/Imagenes/ANIMALES/GOLONDRINA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_colibri_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Colibrí",
+    "imagen_url": "assets/Imagenes/ANIMALES/COLIBRI.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_gaviota_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gaviota",
+    "imagen_url": "assets/Imagenes/ANIMALES/GAVIOTA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_pato_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pato",
+    "imagen_url": "assets/Imagenes/ANIMALES/PATO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animal_cisne_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cisne",
+    "imagen_url": "assets/Imagenes/ANIMALES/CISNE.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_flamenco_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Flamenco",
+    "imagen_url": "assets/Imagenes/ANIMALES/FLAMENCO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_loro_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Loro",
+    "imagen_url": "assets/Imagenes/ANIMALES/LORO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_guacamayo_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Guacamayo",
+    "imagen_url": "assets/Imagenes/ANIMALES/GUACAMAYO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_tucan_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tucán",
+    "imagen_url": "assets/Imagenes/ANIMALES/TUCAN.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_cardenal_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cardenal",
+    "imagen_url": "assets/Imagenes/ANIMALES/CARDENAL.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_gorrion_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gorrión",
+    "imagen_url": "assets/Imagenes/ANIMALES/GORRION.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_mirlo_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mirlo",
+    "imagen_url": "assets/Imagenes/ANIMALES/MIRLO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_carpintero_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pajaro carpintero",
+    "imagen_url": "assets/Imagenes/ANIMALES/PAJARO_CARPINTERO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_faisan_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Faisán",
+    "imagen_url": "assets/Imagenes/ANIMALES/FAISAN.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_pavo_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pavo",
+    "imagen_url": "assets/Imagenes/ANIMALES/PAVO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_gallina_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gallina",
+    "imagen_url": "assets/Imagenes/ANIMALES/GALLINA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_avestruz_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Avestruz",
+    "imagen_url": "assets/Imagenes/ANIMALES/AVESTRUZ.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_condor_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cóndor",
+    "imagen_url": "assets/Imagenes/ANIMALES/CONDOR.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_anade_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ánade",
+    "imagen_url": "assets/Imagenes/ANIMALES/ANADE.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_garza_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Garza",
+    "imagen_url": "assets/Imagenes/ANIMALES/GARZA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_pelicano_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pelícano",
+    "imagen_url": "assets/Imagenes/ANIMALES/PELICANO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_albatros_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Albatros",
+    "imagen_url": "assets/Imagenes/ANIMALES/ALBATROS.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_grulla_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Grulla",
+    "imagen_url": "assets/Imagenes/ANIMALES/GRULLA.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_gallo_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gallo",
+    "imagen_url": "assets/Imagenes/ANIMALES/GALLO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_pavo_real_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pavo real",
+    "imagen_url": "assets/Imagenes/ANIMALES/PAVO_REAL.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_chorlito_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chorlito",
+    "imagen_url": "assets/Imagenes/ANIMALES/CHORLITO.jpg",
+    "subcategoria": "Aéreos"
+  },
+  {
+    "id": "animales_pingüino_aereos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pingüino",
+    "imagen_url": "assets/Imagenes/ANIMALES/PINGUINO.jpg",
+    "subcategoria": "Aéreos"
+  }
+]

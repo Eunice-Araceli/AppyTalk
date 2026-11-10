@@ -1,0 +1,225 @@
+[
+  {
+    "id": "ropa_abrigo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Abrigo",
+    "imagen_url": "assets/Imagenes/ROPA/ABRIGO.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_bata",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bata",
+    "imagen_url": "assets/Imagenes/ROPA/BATA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_bikini",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bikini",
+    "imagen_url": "assets/Imagenes/ROPA/BIKINI.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_blazer",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Blazer",
+    "imagen_url": "assets/Imagenes/ROPA/BLAZER.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_blusa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Blusa",
+    "imagen_url": "assets/Imagenes/ROPA/BLUSA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_botin",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Botín",
+    "imagen_url": "assets/Imagenes/ROPA/BOTIN.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_calcetines",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calcetines",
+    "imagen_url": "assets/Imagenes/ROPA/CALCETINES.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_camisa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Camisa",
+    "imagen_url": "assets/Imagenes/ROPA/CAMISA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_capa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Capa",
+    "imagen_url": "assets/Imagenes/ROPA/CAPA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_chaleco",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chaleco",
+    "imagen_url": "assets/Imagenes/ROPA/CHALECO.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_falda",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Falda",
+    "imagen_url": "assets/Imagenes/ROPA/FALDA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_gorro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gorro",
+    "imagen_url": "assets/Imagenes/ROPA/GORRO.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_impermeable",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Impermeable",
+    "imagen_url": "assets/Imagenes/ROPA/IMPERMEABLE.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_leggings",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Leggings",
+    "imagen_url": "assets/Imagenes/ROPA/LEGGINGS.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_malla",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Malla",
+    "imagen_url": "assets/Imagenes/ROPA/MALLA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_medias",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Medias",
+    "imagen_url": "assets/Imagenes/ROPA/MEDIAS.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_overol",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Overol",
+    "imagen_url": "assets/Imagenes/ROPA/OVEROL.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_pantalon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pantalón",
+    "imagen_url": "assets/Imagenes/ROPA/PANTALON.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_pantuflas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pantuflas",
+    "imagen_url": "assets/Imagenes/ROPA/PANTUFLAS.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_pijama",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pijama",
+    "imagen_url": "assets/Imagenes/ROPA/PIJAMA.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_sandalias",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sandalias",
+    "imagen_url": "assets/Imagenes/ROPA/SANDALIAS.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_short",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Short",
+    "imagen_url": "assets/Imagenes/ROPA/SHORT.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_sueter",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Suéter",
+    "imagen_url": "assets/Imagenes/ROPA/SUETER.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_top",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Top",
+    "imagen_url": "assets/Imagenes/ROPA/TOP.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_traje",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Traje",
+    "imagen_url": "assets/Imagenes/ROPA/TRAJE.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_uniforme",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Uniforme",
+    "imagen_url": "assets/Imagenes/ROPA/UNIFORME.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_vestido",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Vestido",
+    "imagen_url": "assets/Imagenes/ROPA/VESTIDO.png",
+    "subcategoria": "Ropa"
+  }
+,
+  {
+    "id": "ropa_zapatos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zapatos",
+    "imagen_url": "assets/Imagenes/ROPA/ZAPATOS.png",
+    "subcategoria": "Ropa"
+  }
+]

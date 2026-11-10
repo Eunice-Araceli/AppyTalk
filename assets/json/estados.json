@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "estados_sensaciones_termicas_calor",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Calor",
+    "imagen_url": "assets/Imagenes/ESTADOS/CALOR.JPG",
+    "subcategoria": "Sensaciones Térmicas"
+  },
+  {
+    "_id": "estados_sensaciones_termicas_frio",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Frío",
+    "imagen_url": "assets/Imagenes/ESTADOS/FRIO.JPG",
+    "subcategoria": "Sensaciones Térmicas"
+  },
+  {
+    "_id": "estados_fisiologicos_lleno",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Lleno",
+    "imagen_url": "assets/Imagenes/ESTADOS/LLENO.JPG",
+    "subcategoria": "Fisiológicos"
+  },
+  {
+    "_id": "estados_fisiologicos_hambre",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Hambre",
+    "imagen_url": "assets/Imagenes/ESTADOS/HAMBRE.JPG",
+    "subcategoria": "Fisiológicos"
+  },
+  {
+    "_id": "estados_fisiologicos_sueno",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Sueño",
+    "imagen_url": "assets/Imagenes/ESTADOS/SUENO.JPG",
+    "subcategoria": "Fisiológicos"
+  },
+  {
+    "_id": "estados_fisiologicos_comezon",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Comezón",
+    "imagen_url": "assets/Imagenes/ESTADOS/COMEZON.JPG",
+
+    "subcategoria": "Fisiológicos"
+  },
+  {
+    "_id": "estados_fisicos_sucio",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Sucio",
+    "imagen_url": "assets/Imagenes/ESTADOS/SUCIO.JPG",
+    "subcategoria": "Físicos"
+  },
+  {
+    "_id": "estados_fisicos_limpio",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Limpio",
+    "imagen_url": "assets/Imagenes/ESTADOS/LIMPIO.JPG",
+    "subcategoria": "Físicos"
+  }
+]
+

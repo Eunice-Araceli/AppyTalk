@@ -1,0 +1,249 @@
+[
+  {
+    "id": "herramientas_alicate",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Alicate",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/ALICATE.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_calibrador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Calibrador",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/CALIBRADOR.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_cincel",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cincel",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/CINCEL.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_clavo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Clavo",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/CLAVO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_compas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Compás",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/COMPAS.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_cutter",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cutter",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/CUTTER.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_destornillador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Destornillador",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/DESTORNILLADOR.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_escuadra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Escuadra",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/ESCUADRA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_espatula",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Espátula",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/ESPATULA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_lijadora",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lijadora",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/LIJADORA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_lima",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lima",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/LIMA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_llave",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Llave",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/LLAVE.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_llave_allen",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Llave Allen",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/LLAVE_ALLEN.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_llave_inglesa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Llave Inglesa",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/LLAVE_INGLESA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_martillo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Martillo",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/MARTILLO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_nivel",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Nivel",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/NIVEL.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_pala",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pala",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/PALA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_pico",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pico",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/PICO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_pinza",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pinza",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/PINZA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_regla",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Regla",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/REGLA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_serrucho",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Serrucho",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/SERRUCHO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_sierra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sierra",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/SIERRA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_taladro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Taladro",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/TALADRO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_tijera",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tijera",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/TIJERA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_tornillo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tornillo",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/TORNILLO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_tuerca",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tuerca",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/TUERCA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_cepillo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cepillo",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/CEPILLO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_grapadora",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Grapadora",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/GRAPADORA.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_mazo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mazo",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/MAZO.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_soldador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Soldador",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/SOLDADOR.png",
+    "subcategoria": "Herramientas"
+  }
+,
+  {
+    "id": "herramientas_soplete",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Soplete",
+    "imagen_url": "assets/Imagenes/HERRAMIENTAS/SOPLETE.png",
+    "subcategoria": "Herramientas"
+  }
+]

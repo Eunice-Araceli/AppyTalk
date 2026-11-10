@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "familia_integrantes_mama",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mamá",
+    "imagen_url": "assets/Imagenes/FAMILIA/MAMA.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_papa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Papá",
+    "imagen_url": "assets/Imagenes/FAMILIA/PAPA.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_abuelo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Abuelo",
+    "imagen_url": "assets/Imagenes/FAMILIA/ABUELO.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_abuela",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Abuela",
+    "imagen_url": "assets/Imagenes/FAMILIA/ABUELA.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_hermano",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hermano",
+    "imagen_url": "assets/Imagenes/FAMILIA/HERMANO.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_hermana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hermana",
+    "imagen_url": "assets/Imagenes/FAMILIA/HERMANA.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_primo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Primo",
+    "imagen_url": "assets/Imagenes/FAMILIA/PRIMO.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_prima",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Prima",
+    "imagen_url": "assets/Imagenes/FAMILIA/PRIMA.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_tio",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tío",
+    "imagen_url": "assets/Imagenes/FAMILIA/TIO.JPG",
+    "subcategoria": "Integrantes"
+  },
+  {
+    "_id": "familia_integrantes_tia",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tía",
+    "imagen_url": "assets/Imagenes/FAMILIA/TIA.JPG",
+    "subcategoria": "Integrantes"
+  }
+]

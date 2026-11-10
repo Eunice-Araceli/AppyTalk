@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "emociones_positivas_feliz",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Feliz",
+    "imagen_url": "assets/Imagenes/EMOCIONES/FELIZ.JPG",
+    "subcategoria": "Positivas"
+  },
+  {
+    "_id": "emociones_negativas_triste",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Triste",
+    "imagen_url": "assets/Imagenes/EMOCIONES/TRISTE.JPG",
+    "subcategoria": "Negativas"
+  },
+  {
+    "_id": "emociones_negativas_enojado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Enojado",
+    "imagen_url": "assets/Imagenes/EMOCIONES/ENOJADO.JPG",
+    "subcategoria": "Negativas"
+  },
+  {
+    "_id": "emociones_neutras_sorprendido",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Sorprendido",
+    "imagen_url": "assets/Imagenes/EMOCIONES/SORPRENDIDO.JPG",
+    "subcategoria": "Neutras"
+  },
+  {
+    "_id": "emociones_negativas_asustado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Asustado",
+    "imagen_url": "assets/Imagenes/EMOCIONES/ASUSTADO.JPG",
+    "subcategoria": "Negativas"
+  },
+  {
+    "_id": "emociones_positivas_tranquilo",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Tranquilo",
+    "imagen_url": "assets/Imagenes/EMOCIONES/ABURRIDO.JPG",
+    "subcategoria": "Positivas"
+  },
+  {
+    "_id": "emociones_negativas_frustrado",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Frustrado",
+    "imagen_url": "assets/Imagenes/EMOCIONES/FRUSTRADO.JPG",
+    "subcategoria": "Negativas"
+  },
+  {
+    "_id": "emociones_negativas_aburrido",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Aburrido",
+    "imagen_url": "assets/Imagenes/EMOCIONES/ABURRIDO.JPG",
+    "subcategoria": "Negativas"
+  }
+]
+

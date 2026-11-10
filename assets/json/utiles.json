@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "utiles_escritura_lapiz",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lápiz",
+    "imagen_url": "assets/Imagenes/UTILES/LAPIZ.JPG",
+    "subcategoria": "Escritura"
+  },
+  {
+    "_id": "utiles_correccion_borrador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Borrador",
+    "imagen_url": "assets/Imagenes/UTILES/BORRADOR.JPG",
+    "subcategoria": "Corrección"
+  },
+  {
+    "_id": "utiles_accesorios_escolares_sacapuntas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sacapuntas",
+    "imagen_url": "assets/Imagenes/UTILES/SACAPUNTAS.JPG",
+    "subcategoria": "Accesorios Escolares"
+  },
+  {
+    "_id": "utiles_arte_colores",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Colores",
+    "imagen_url": "assets/Imagenes/UTILES/COLORES.JPG",
+    "subcategoria": "Arte"
+  },
+  {
+    "_id": "utiles_papeleria_cuaderno",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cuaderno",
+    "imagen_url": "assets/Imagenes/UTILES/CUADERNO.JPG",
+    "subcategoria": "Papelería"
+  },
+  {
+    "_id": "utiles_papeleria_libro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Libro",
+    "imagen_url": "assets/Imagenes/UTILES/LIBRO.JPG",
+    "subcategoria": "Papelería"
+  },
+  {
+    "_id": "utiles_manualidades_tijeras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tijeras",
+    "imagen_url": "assets/Imagenes/UTILES/TIJERAS.JPG",
+    "subcategoria": "Manualidades"
+  },
+  {
+    "_id": "utiles_manualidades_pegamento",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pegamento",
+    "imagen_url": "assets/Imagenes/UTILES/PEGAMENTO.JPG",
+    "subcategoria": "Manualidades"
+  },
+  {
+    "_id": "utiles_medicion_regla",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Regla",
+    "imagen_url": "assets/Imagenes/UTILES/REGLA.JPG",
+    "subcategoria": "Medición"
+  },
+  {
+    "_id": "utiles_accesorios_escolares_mochila",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mochila",
+    "imagen_url": "assets/Imagenes/UTILES/MOCHILA.JPG",
+    "subcategoria": "Accesorios Escolares"
+  },
+  {
+    "_id": "utiles_escritura_pluma",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pluma",
+    "imagen_url": "assets/Imagenes/UTILES/PLUMA.JPG",
+    "subcategoria": "Escritura"
+  },
+  {
+    "_id": "utiles_accesorios_escolares_estuche",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Estuche",
+    "imagen_url": "assets/Imagenes/UTILES/ESTUCHE.JPG",
+    "subcategoria": "Accesorios Escolares"
+  },
+  {
+    "_id": "utiles_arte_pincel",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pincel",
+    "imagen_url": "assets/Imagenes/UTILES/PINCEL.JPG",
+    "subcategoria": "Arte"
+  }
+]

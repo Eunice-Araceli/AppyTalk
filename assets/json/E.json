@@ -1,0 +1,692 @@
+[
+  {
+    "_id": "verbo_explicar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Explicar",
+    "imagen_url": "assets/Imagenes/VERBOS/EXPLICAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "explico",
+        "tu": "explicas",
+        "el_ella_usted": "explica",
+        "nosotros": "explicamos",
+        "ellos_ellas_ustedes": "explican"
+      },
+      "pasado": {
+        "yo": "expliqué",
+        "tu": "explicaste",
+        "el_ella_usted": "explicó",
+        "nosotros": "explicamos",
+        "ellos_ellas_ustedes": "explicaron"
+      },
+      "futuro": {
+        "yo": "explicaré",
+        "tu": "explicarás",
+        "el_ella_usted": "explicará",
+        "nosotros": "explicaremos",
+        "ellos_ellas_ustedes": "explicarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_extranar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Extrañar",
+    "imagen_url": "assets/Imagenes/VERBOS/EXTRAÑAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "extraño",
+        "tu": "extrañas",
+        "el_ella_usted": "extraña",
+        "nosotros": "extrañamos",
+        "ellos_ellas_ustedes": "extrañan"
+      },
+      "pasado": {
+        "yo": "extrañé",
+        "tu": "extrañaste",
+        "el_ella_usted": "extrañó",
+        "nosotros": "extrañamos",
+        "ellos_ellas_ustedes": "extrañaron"
+      },
+      "futuro": {
+        "yo": "extrañaré",
+        "tu": "extrañarás",
+        "el_ella_usted": "extrañará",
+        "nosotros": "extrañaremos",
+        "ellos_ellas_ustedes": "extrañarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_empacar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Empacar",
+    "imagen_url": "assets/Imagenes/VERBOS/EMPACAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "empaco",
+        "tu": "empacas",
+        "el_ella_usted": "empaca",
+        "nosotros": "empacamos",
+        "ellos_ellas_ustedes": "empacan"
+      },
+      "pasado": {
+        "yo": "empaqué",
+        "tu": "empacaste",
+        "el_ella_usted": "empacó",
+        "nosotros": "empacamos",
+        "ellos_ellas_ustedes": "empacaron"
+      },
+      "futuro": {
+        "yo": "empacaré",
+        "tu": "empacarás",
+        "el_ella_usted": "empacará",
+        "nosotros": "empacaremos",
+        "ellos_ellas_ustedes": "empacarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_empujar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Empujar",
+    "imagen_url": "assets/Imagenes/VERBOS/EMPUJAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "empujo",
+        "tu": "empujas",
+        "el_ella_usted": "empuja",
+        "nosotros": "empujamos",
+        "ellos_ellas_ustedes": "empujan"
+      },
+      "pasado": {
+        "yo": "empujé",
+        "tu": "empujaste",
+        "el_ella_usted": "empujó",
+        "nosotros": "empujamos",
+        "ellos_ellas_ustedes": "empujaron"
+      },
+      "futuro": {
+        "yo": "empujaré",
+        "tu": "empujarás",
+        "el_ella_usted": "empujará",
+        "nosotros": "empujaremos",
+        "ellos_ellas_ustedes": "empujarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_encontrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Encontrar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENCONTRAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "encuentro",
+        "tu": "encuentras",
+        "el_ella_usted": "encuentra",
+        "nosotros": "encontramos",
+        "ellos_ellas_ustedes": "encuentran"
+      },
+      "pasado": {
+        "yo": "encontré",
+        "tu": "encontraste",
+        "el_ella_usted": "encontró",
+        "nosotros": "encontramos",
+        "ellos_ellas_ustedes": "encontraron"
+      },
+      "futuro": {
+        "yo": "encontraré",
+        "tu": "encontrarás",
+        "el_ella_usted": "encontrará",
+        "nosotros": "encontraremos",
+        "ellos_ellas_ustedes": "encontrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_enfadar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Enfadar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENFADAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "enfado",
+        "tu": "enfadas",
+        "el_ella_usted": "enfada",
+        "nosotros": "enfadamos",
+        "ellos_ellas_ustedes": "enfadan"
+      },
+      "pasado": {
+        "yo": "enfadé",
+        "tu": "enfadaste",
+        "el_ella_usted": "enfadó",
+        "nosotros": "enfadamos",
+        "ellos_ellas_ustedes": "enfadaron"
+      },
+      "futuro": {
+        "yo": "enfadaré",
+        "tu": "enfadarás",
+        "el_ella_usted": "enfadará",
+        "nosotros": "enfadaremos",
+        "ellos_ellas_ustedes": "enfadarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_enfermar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Enfermar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENFERMAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "enfermo",
+        "tu": "enfermas",
+        "el_ella_usted": "enferma",
+        "nosotros": "enfermamos",
+        "ellos_ellas_ustedes": "enferman"
+      },
+      "pasado": {
+        "yo": "enfermé",
+        "tu": "enfermaste",
+        "el_ella_usted": "enfermó",
+        "nosotros": "enfermamos",
+        "ellos_ellas_ustedes": "enfermaron"
+      },
+      "futuro": {
+        "yo": "enfermaré",
+        "tu": "enfermarás",
+        "el_ella_usted": "enfermará",
+        "nosotros": "enfermaremos",
+        "ellos_ellas_ustedes": "enfermarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_enfriar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Enfriar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENFRIAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "enfrío",
+        "tu": "enfrías",
+        "el_ella_usted": "enfría",
+        "nosotros": "enfriamos",
+        "ellos_ellas_ustedes": "enfrían"
+      },
+      "pasado": {
+        "yo": "enfrié",
+        "tu": "enfriaste",
+        "el_ella_usted": "enfrió",
+        "nosotros": "enfriamos",
+        "ellos_ellas_ustedes": "enfriaron"
+      },
+      "futuro": {
+        "yo": "enfriaré",
+        "tu": "enfriarás",
+        "el_ella_usted": "enfriará",
+        "nosotros": "enfriaremos",
+        "ellos_ellas_ustedes": "enfriarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_enganar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Engañar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENGAÑAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "engaño",
+        "tu": "engañas",
+        "el_ella_usted": "engaña",
+        "nosotros": "engañamos",
+        "ellos_ellas_ustedes": "engañan"
+      },
+      "pasado": {
+        "yo": "engañé",
+        "tu": "engañaste",
+        "el_ella_usted": "engañó",
+        "nosotros": "engañamos",
+        "ellos_ellas_ustedes": "engañaron"
+      },
+      "futuro": {
+        "yo": "engañaré",
+        "tu": "engañarás",
+        "el_ella_usted": "engañará",
+        "nosotros": "engañaremos",
+        "ellos_ellas_ustedes": "engañarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ensayar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ensayar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENSAYAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "ensayo",
+        "tu": "ensayas",
+        "el_ella_usted": "ensaya",
+        "nosotros": "ensayamos",
+        "ellos_ellas_ustedes": "ensayan"
+      },
+      "pasado": {
+        "yo": "ensayé",
+        "tu": "ensayaste",
+        "el_ella_usted": "ensayó",
+        "nosotros": "ensayamos",
+        "ellos_ellas_ustedes": "ensayaron"
+      },
+      "futuro": {
+        "yo": "ensayaré",
+        "tu": "ensayarás",
+        "el_ella_usted": "ensayará",
+        "nosotros": "ensayaremos",
+        "ellos_ellas_ustedes": "ensayarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ensenar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Enseñar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENSEÑAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "enseño",
+        "tu": "enseñas",
+        "el_ella_usted": "enseña",
+        "nosotros": "enseñamos",
+        "ellos_ellas_ustedes": "enseñan"
+      },
+      "pasado": {
+        "yo": "enseñé",
+        "tu": "enseñaste",
+        "el_ella_usted": "enseñó",
+        "nosotros": "enseñamos",
+        "ellos_ellas_ustedes": "enseñaron"
+      },
+      "futuro": {
+        "yo": "enseñaré",
+        "tu": "enseñarás",
+        "el_ella_usted": "enseñará",
+        "nosotros": "enseñaremos",
+        "ellos_ellas_ustedes": "enseñarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ensuciar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ensuciar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENSUCIAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "ensucio",
+        "tu": "ensucias",
+        "el_ella_usted": "ensucia",
+        "nosotros": "ensuciamos",
+        "ellos_ellas_ustedes": "ensucian"
+      },
+      "pasado": {
+        "yo": "ensucié",
+        "tu": "ensuciaste",
+        "el_ella_usted": "ensució",
+        "nosotros": "ensuciamos",
+        "ellos_ellas_ustedes": "ensuciaron"
+      },
+      "futuro": {
+        "yo": "ensuciaré",
+        "tu": "ensuciarás",
+        "el_ella_usted": "ensuciará",
+        "nosotros": "ensuciaremos",
+        "ellos_ellas_ustedes": "ensuciarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_entender",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Entender",
+    "imagen_url": "assets/Imagenes/VERBOS/ENTENDER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "entiendo",
+        "tu": "entiendes",
+        "el_ella_usted": "entiende",
+        "nosotros": "entendemos",
+        "ellos_ellas_ustedes": "entienden"
+      },
+      "pasado": {
+        "yo": "entendí",
+        "tu": "entendiste",
+        "el_ella_usted": "entendió",
+        "nosotros": "entendimos",
+        "ellos_ellas_ustedes": "entendieron"
+      },
+      "futuro": {
+        "yo": "entenderé",
+        "tu": "entenderás",
+        "el_ella_usted": "entenderá",
+        "nosotros": "entenderemos",
+        "ellos_ellas_ustedes": "entenderán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_entrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Entrar",
+    "imagen_url": "assets/Imagenes/VERBOS/ENTRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "entro",
+        "tu": "entras",
+        "el_ella_usted": "entra",
+        "nosotros": "entramos",
+        "ellos_ellas_ustedes": "entran"
+      },
+      "pasado": {
+        "yo": "entré",
+        "tu": "entraste",
+        "el_ella_usted": "entró",
+        "nosotros": "entramos",
+        "ellos_ellas_ustedes": "entraron"
+      },
+      "futuro": {
+        "yo": "entraré",
+        "tu": "entrarás",
+        "el_ella_usted": "entrará",
+        "nosotros": "entraremos",
+        "ellos_ellas_ustedes": "entrarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_escapar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Escapar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESCAPAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "escapo",
+        "tu": "escapas",
+        "el_ella_usted": "escapa",
+        "nosotros": "escapamos",
+        "ellos_ellas_ustedes": "escapan"
+      },
+      "pasado": {
+        "yo": "escapé",
+        "tu": "escapaste",
+        "el_ella_usted": "escapó",
+        "nosotros": "escapamos",
+        "ellos_ellas_ustedes": "escaparon"
+      },
+      "futuro": {
+        "yo": "escaparé",
+        "tu": "escaparás",
+        "el_ella_usted": "escapará",
+        "nosotros": "escaparemos",
+        "ellos_ellas_ustedes": "escaparán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_esconder",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Esconder",
+    "imagen_url": "assets/Imagenes/VERBOS/ESCONDER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "escondo",
+        "tu": "escondes",
+        "el_ella_usted": "esconde",
+        "nosotros": "escondemos",
+        "ellos_ellas_ustedes": "esconden"
+      },
+      "pasado": {
+        "yo": "escondí",
+        "tu": "escondiste",
+        "el_ella_usted": "escondió",
+        "nosotros": "escondimos",
+        "ellos_ellas_ustedes": "escondieron"
+      },
+      "futuro": {
+        "yo": "esconderé",
+        "tu": "esconderás",
+        "el_ella_usted": "esconderá",
+        "nosotros": "esconderemos",
+        "ellos_ellas_ustedes": "esconderán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_escoger",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Escoger",
+    "imagen_url": "assets/Imagenes/VERBOS/ESCOGER.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "escojo",
+        "tu": "escoges",
+        "el_ella_usted": "escoge",
+        "nosotros": "escogemos",
+        "ellos_ellas_ustedes": "escogen"
+      },
+      "pasado": {
+        "yo": "escogí",
+        "tu": "escogiste",
+        "el_ella_usted": "escogió",
+        "nosotros": "escogimos",
+        "ellos_ellas_ustedes": "escogieron"
+      },
+      "futuro": {
+        "yo": "escogeré",
+        "tu": "escogerás",
+        "el_ella_usted": "escogerá",
+        "nosotros": "escogeremos",
+        "ellos_ellas_ustedes": "escogerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_escribir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Escribir",
+    "imagen_url": "assets/Imagenes/VERBOS/ESCRIBIR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "escribo",
+        "tu": "escribes",
+        "el_ella_usted": "escribe",
+        "nosotros": "escribimos",
+        "ellos_ellas_ustedes": "escriben"
+      },
+      "pasado": {
+        "yo": "escribí",
+        "tu": "escribiste",
+        "el_ella_usted": "escribió",
+        "nosotros": "escribimos",
+        "ellos_ellas_ustedes": "escribieron"
+      },
+      "futuro": {
+        "yo": "escribiré",
+        "tu": "escribirás",
+        "el_ella_usted": "escribirá",
+        "nosotros": "escribiremos",
+        "ellos_ellas_ustedes": "escribirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_escuchar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Escuchar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESCUCHAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "escucho",
+        "tu": "escuchas",
+        "el_ella_usted": "escucha",
+        "nosotros": "escuchamos",
+        "ellos_ellas_ustedes": "escuchan"
+      },
+      "pasado": {
+        "yo": "escuché",
+        "tu": "escuchaste",
+        "el_ella_usted": "escuchó",
+        "nosotros": "escuchamos",
+        "ellos_ellas_ustedes": "escucharon"
+      },
+      "futuro": {
+        "yo": "escucharé",
+        "tu": "escucharás",
+        "el_ella_usted": "escuchará",
+        "nosotros": "escucharemos",
+        "ellos_ellas_ustedes": "escucharán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_esperar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Esperar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESPERAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "espero",
+        "tu": "esperas",
+        "el_ella_usted": "espera",
+        "nosotros": "esperamos",
+        "ellos_ellas_ustedes": "esperan"
+      },
+      "pasado": {
+        "yo": "esperé",
+        "tu": "esperaste",
+        "el_ella_usted": "esperó",
+        "nosotros": "esperamos",
+        "ellos_ellas_ustedes": "esperaron"
+      },
+      "futuro": {
+        "yo": "esperaré",
+        "tu": "esperarás",
+        "el_ella_usted": "esperará",
+        "nosotros": "esperaremos",
+        "ellos_ellas_ustedes": "esperarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_estar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Estar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESTAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "estoy",
+        "tu": "estás",
+        "el_ella_usted": "está",
+        "nosotros": "estamos",
+        "ellos_ellas_ustedes": "están"
+      },
+      "pasado": {
+        "yo": "estuve",
+        "tu": "estuviste",
+        "el_ella_usted": "estuvo",
+        "nosotros": "estuvimos",
+        "ellos_ellas_ustedes": "estuvieron"
+      },
+      "futuro": {
+        "yo": "estaré",
+        "tu": "estarás",
+        "el_ella_usted": "estará",
+        "nosotros": "estaremos",
+        "ellos_ellas_ustedes": "estarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_estirar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Estirar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESTIRAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "estiro",
+        "tu": "estiras",
+        "el_ella_usted": "estira",
+        "nosotros": "estiramos",
+        "ellos_ellas_ustedes": "estiran"
+      },
+      "pasado": {
+        "yo": "estiré",
+        "tu": "estiraste",
+        "el_ella_usted": "estiró",
+        "nosotros": "estiramos",
+        "ellos_ellas_ustedes": "estiraron"
+      },
+      "futuro": {
+        "yo": "estiraré",
+        "tu": "estirarás",
+        "el_ella_usted": "estirará",
+        "nosotros": "estiraremos",
+        "ellos_ellas_ustedes": "estirarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_estudiar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Estudiar",
+    "imagen_url": "assets/Imagenes/VERBOS/ESTUDIAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "estudio",
+        "tu": "estudias",
+        "el_ella_usted": "estudia",
+        "nosotros": "estudiamos",
+        "ellos_ellas_ustedes": "estudian"
+      },
+      "pasado": {
+        "yo": "estudié",
+        "tu": "estudiaste",
+        "el_ella_usted": "estudió",
+        "nosotros": "estudiamos",
+        "ellos_ellas_ustedes": "estudiaron"
+      },
+      "futuro": {
+        "yo": "estudiaré",
+        "tu": "estudiarás",
+        "el_ella_usted": "estudiará",
+        "nosotros": "estudiaremos",
+        "ellos_ellas_ustedes": "estudiarán"
+      }
+    }
+  }
+]

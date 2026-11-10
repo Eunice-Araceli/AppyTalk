@@ -1,0 +1,602 @@
+[
+  {
+    "_id": "verbo_pagar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pagar",
+    "imagen_url": "assets/Imagenes/VERBOS/PAGAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pago",
+        "tu": "pagas",
+        "el_ella_usted": "paga",
+        "nosotros": "pagamos",
+        "ellos_ellas_ustedes": "pagan"
+      },
+      "pasado": {
+        "yo": "pagué",
+        "tu": "pagaste",
+        "el_ella_usted": "pagó",
+        "nosotros": "pagamos",
+        "ellos_ellas_ustedes": "pagaron"
+      },
+      "futuro": {
+        "yo": "pagaré",
+        "tu": "pagarás",
+        "el_ella_usted": "pagará",
+        "nosotros": "pagaremos",
+        "ellos_ellas_ustedes": "pagarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_parar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Parar",
+    "imagen_url": "assets/Imagenes/VERBOS/PARAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "paro",
+        "tu": "paras",
+        "el_ella_usted": "para",
+        "nosotros": "paramos",
+        "ellos_ellas_ustedes": "paran"
+      },
+      "pasado": {
+        "yo": "paré",
+        "tu": "paraste",
+        "el_ella_usted": "paró",
+        "nosotros": "paramos",
+        "ellos_ellas_ustedes": "pararon"
+      },
+      "futuro": {
+        "yo": "pararé",
+        "tu": "pararás",
+        "el_ella_usted": "parará",
+        "nosotros": "pararemos",
+        "ellos_ellas_ustedes": "pararán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_parecer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Parecer",
+    "imagen_url": "assets/Imagenes/VERBOS/PARECER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pareco",
+        "tu": "pareces",
+        "el_ella_usted": "parece",
+        "nosotros": "parecemos",
+        "ellos_ellas_ustedes": "parecen"
+      },
+      "pasado": {
+        "yo": "parecí",
+        "tu": "pareciste",
+        "el_ella_usted": "pareció",
+        "nosotros": "parecimos",
+        "ellos_ellas_ustedes": "parecieron"
+      },
+      "futuro": {
+        "yo": "pareceré",
+        "tu": "parecerás",
+        "el_ella_usted": "parecerá",
+        "nosotros": "pareceremos",
+        "ellos_ellas_ustedes": "parecerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pasar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pasar",
+    "imagen_url": "assets/Imagenes/VERBOS/PASAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "paso",
+        "tu": "pasas",
+        "el_ella_usted": "pasa",
+        "nosotros": "pasamos",
+        "ellos_ellas_ustedes": "pasan"
+      },
+      "pasado": {
+        "yo": "pasé",
+        "tu": "pasaste",
+        "el_ella_usted": "pasó",
+        "nosotros": "pasamos",
+        "ellos_ellas_ustedes": "pasaron"
+      },
+      "futuro": {
+        "yo": "pasaré",
+        "tu": "pasarás",
+        "el_ella_usted": "pasará",
+        "nosotros": "pasaremos",
+        "ellos_ellas_ustedes": "pasarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pasear",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pasear",
+    "imagen_url": "assets/Imagenes/VERBOS/PASEAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "paseo",
+        "tu": "paseas",
+        "el_ella_usted": "pasea",
+        "nosotros": "paseamos",
+        "ellos_ellas_ustedes": "pasean"
+      },
+      "pasado": {
+        "yo": "paseé",
+        "tu": "paseaste",
+        "el_ella_usted": "paseó",
+        "nosotros": "paseamos",
+        "ellos_ellas_ustedes": "pasearon"
+      },
+      "futuro": {
+        "yo": "pasearé",
+        "tu": "pasearás",
+        "el_ella_usted": "paseará",
+        "nosotros": "pasearemos",
+        "ellos_ellas_ustedes": "pasearán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pedir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pedir",
+    "imagen_url": "assets/Imagenes/VERBOS/PEDIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pido",
+        "tu": "pides",
+        "el_ella_usted": "pide",
+        "nosotros": "pedimos",
+        "ellos_ellas_ustedes": "piden"
+      },
+      "pasado": {
+        "yo": "pedí",
+        "tu": "pediste",
+        "el_ella_usted": "pidió",
+        "nosotros": "pedimos",
+        "ellos_ellas_ustedes": "pidieron"
+      },
+      "futuro": {
+        "yo": "pediré",
+        "tu": "pedirás",
+        "el_ella_usted": "pedirá",
+        "nosotros": "pediremos",
+        "ellos_ellas_ustedes": "pedirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pegar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pegar",
+    "imagen_url": "assets/Imagenes/VERBOS/PEGAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pego",
+        "tu": "pegas",
+        "el_ella_usted": "pega",
+        "nosotros": "pegamos",
+        "ellos_ellas_ustedes": "pegan"
+      },
+      "pasado": {
+        "yo": "pegé",
+        "tu": "pegaste",
+        "el_ella_usted": "pegó",
+        "nosotros": "pegamos",
+        "ellos_ellas_ustedes": "pegaron"
+      },
+      "futuro": {
+        "yo": "pegaré",
+        "tu": "pegarás",
+        "el_ella_usted": "pegará",
+        "nosotros": "pegaremos",
+        "ellos_ellas_ustedes": "pegarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_peinar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Peinar",
+    "imagen_url": "assets/Imagenes/VERBOS/PEINAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "peino",
+        "tu": "peinas",
+        "el_ella_usted": "peina",
+        "nosotros": "peinamos",
+        "ellos_ellas_ustedes": "peinan"
+      },
+      "pasado": {
+        "yo": "peiné",
+        "tu": "peinaste",
+        "el_ella_usted": "peinó",
+        "nosotros": "peinamos",
+        "ellos_ellas_ustedes": "peinaron"
+      },
+      "futuro": {
+        "yo": "peinaré",
+        "tu": "peinarás",
+        "el_ella_usted": "peinará",
+        "nosotros": "peinaremos",
+        "ellos_ellas_ustedes": "peinarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pellizcar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pellizcar",
+    "imagen_url": "assets/Imagenes/VERBOS/PELLIZCAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pellizco",
+        "tu": "pellizcas",
+        "el_ella_usted": "pellizca",
+        "nosotros": "pellizcamos",
+        "ellos_ellas_ustedes": "pellizcan"
+      },
+      "pasado": {
+        "yo": "pellizcé",
+        "tu": "pellizcaste",
+        "el_ella_usted": "pellizcó",
+        "nosotros": "pellizcamos",
+        "ellos_ellas_ustedes": "pellizcaron"
+      },
+      "futuro": {
+        "yo": "pellizcaré",
+        "tu": "pellizcarás",
+        "el_ella_usted": "pellizcará",
+        "nosotros": "pellizcaremos",
+        "ellos_ellas_ustedes": "pellizcarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pensar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pensar",
+    "imagen_url": "assets/Imagenes/VERBOS/PENSAR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pienso",
+        "tu": "piensas",
+        "el_ella_usted": "piensa",
+        "nosotros": "pensamos",
+        "ellos_ellas_ustedes": "piensan"
+      },
+      "pasado": {
+        "yo": "pensé",
+        "tu": "pensaste",
+        "el_ella_usted": "pensó",
+        "nosotros": "pensamos",
+        "ellos_ellas_ustedes": "pensaron"
+      },
+      "futuro": {
+        "yo": "pensaré",
+        "tu": "pensarás",
+        "el_ella_usted": "pensará",
+        "nosotros": "pensaremos",
+        "ellos_ellas_ustedes": "pensarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_perder",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Perder",
+    "imagen_url": "assets/Imagenes/VERBOS/PERDER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pierdo",
+        "tu": "pierdes",
+        "el_ella_usted": "pierde",
+        "nosotros": "perdemos",
+        "ellos_ellas_ustedes": "pierden"
+      },
+      "pasado": {
+        "yo": "perdí",
+        "tu": "perdiste",
+        "el_ella_usted": "perdió",
+        "nosotros": "perdimos",
+        "ellos_ellas_ustedes": "perdieron"
+      },
+      "futuro": {
+        "yo": "perderé",
+        "tu": "perderás",
+        "el_ella_usted": "perderá",
+        "nosotros": "perderemos",
+        "ellos_ellas_ustedes": "perderán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_perdonar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Perdonar",
+    "imagen_url": "assets/Imagenes/VERBOS/PERDONAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "perdono",
+        "tu": "perdonas",
+        "el_ella_usted": "perdona",
+        "nosotros": "perdonamos",
+        "ellos_ellas_ustedes": "perdonan"
+      },
+      "pasado": {
+        "yo": "perdoné",
+        "tu": "perdonaste",
+        "el_ella_usted": "perdonó",
+        "nosotros": "perdonamos",
+        "ellos_ellas_ustedes": "perdonaron"
+      },
+      "futuro": {
+        "yo": "perdonaré",
+        "tu": "perdonarás",
+        "el_ella_usted": "perdonará",
+        "nosotros": "perdonaremos",
+        "ellos_ellas_ustedes": "perdonarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pintar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pintar",
+    "imagen_url": "assets/Imagenes/VERBOS/PINTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pinto",
+        "tu": "pintas",
+        "el_ella_usted": "pinta",
+        "nosotros": "pintamos",
+        "ellos_ellas_ustedes": "pintan"
+      },
+      "pasado": {
+        "yo": "pinté",
+        "tu": "pintaste",
+        "el_ella_usted": "pintó",
+        "nosotros": "pintamos",
+        "ellos_ellas_ustedes": "pintaron"
+      },
+      "futuro": {
+        "yo": "pintaré",
+        "tu": "pintarás",
+        "el_ella_usted": "pintará",
+        "nosotros": "pintaremos",
+        "ellos_ellas_ustedes": "pintarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_pisar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Pisar",
+    "imagen_url": "assets/Imagenes/VERBOS/PISAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "piso",
+        "tu": "pisas",
+        "el_ella_usted": "pisa",
+        "nosotros": "pisamos",
+        "ellos_ellas_ustedes": "pisan"
+      },
+      "pasado": {
+        "yo": "pisé",
+        "tu": "pisaste",
+        "el_ella_usted": "pisó",
+        "nosotros": "pisamos",
+        "ellos_ellas_ustedes": "pisaron"
+      },
+      "futuro": {
+        "yo": "pisaré",
+        "tu": "pisarás",
+        "el_ella_usted": "pisará",
+        "nosotros": "pisaremos",
+        "ellos_ellas_ustedes": "pisarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_poder",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Poder",
+    "imagen_url": "assets/Imagenes/VERBOS/PODER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "puedo",
+        "tu": "puedes",
+        "el_ella_usted": "puede",
+        "nosotros": "podemos",
+        "ellos_ellas_ustedes": "pueden"
+      },
+      "pasado": {
+        "yo": "pude",
+        "tu": "pudiste",
+        "el_ella_usted": "pudo",
+        "nosotros": "pudimos",
+        "ellos_ellas_ustedes": "pudieron"
+      },
+      "futuro": {
+        "yo": "podré",
+        "tu": "podrás",
+        "el_ella_usted": "podrá",
+        "nosotros": "podremos",
+        "ellos_ellas_ustedes": "podrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_poner",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Poner",
+    "imagen_url": "assets/Imagenes/VERBOS/PONER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pongo",
+        "tu": "pones",
+        "el_ella_usted": "pone",
+        "nosotros": "ponemos",
+        "ellos_ellas_ustedes": "ponen"
+      },
+      "pasado": {
+        "yo": "puse",
+        "tu": "pusiste",
+        "el_ella_usted": "puso",
+        "nosotros": "pusimos",
+        "ellos_ellas_ustedes": "pusieron"
+      },
+      "futuro": {
+        "yo": "pondré",
+        "tu": "pondrás",
+        "el_ella_usted": "pondrá",
+        "nosotros": "pondremos",
+        "ellos_ellas_ustedes": "pondrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_preguntar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Preguntar",
+    "imagen_url": "assets/Imagenes/VERBOS/PREGUNTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "pregunto",
+        "tu": "preguntas",
+        "el_ella_usted": "pregunta",
+        "nosotros": "preguntamos",
+        "ellos_ellas_ustedes": "preguntan"
+      },
+      "pasado": {
+        "yo": "pregunté",
+        "tu": "preguntaste",
+        "el_ella_usted": "preguntó",
+        "nosotros": "preguntamos",
+        "ellos_ellas_ustedes": "preguntaron"
+      },
+      "futuro": {
+        "yo": "preguntaré",
+        "tu": "preguntarás",
+        "el_ella_usted": "preguntará",
+        "nosotros": "preguntaremos",
+        "ellos_ellas_ustedes": "preguntarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_prender",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Prender",
+    "imagen_url": "assets/Imagenes/VERBOS/PRENDER.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "prendo",
+        "tu": "prendes",
+        "el_ella_usted": "prende",
+        "nosotros": "prendemos",
+        "ellos_ellas_ustedes": "prenden"
+      },
+      "pasado": {
+        "yo": "prendí",
+        "tu": "prendiste",
+        "el_ella_usted": "prendió",
+        "nosotros": "prendimos",
+        "ellos_ellas_ustedes": "prendieron"
+      },
+      "futuro": {
+        "yo": "prenderé",
+        "tu": "prenderás",
+        "el_ella_usted": "prenderá",
+        "nosotros": "prenderemos",
+        "ellos_ellas_ustedes": "prenderán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_prestar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Prestar",
+    "imagen_url": "assets/Imagenes/VERBOS/PRESTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "presto",
+        "tu": "prestas",
+        "el_ella_usted": "presta",
+        "nosotros": "prestamos",
+        "ellos_ellas_ustedes": "prestan"
+      },
+      "pasado": {
+        "yo": "presté",
+        "tu": "prestaste",
+        "el_ella_usted": "prestó",
+        "nosotros": "prestamos",
+        "ellos_ellas_ustedes": "prestaron"
+      },
+      "futuro": {
+        "yo": "prestaré",
+        "tu": "prestarás",
+        "el_ella_usted": "prestará",
+        "nosotros": "prestaremos",
+        "ellos_ellas_ustedes": "prestarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_probar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Probar",
+    "imagen_url": "assets/Imagenes/VERBOS/PROBAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "probo",
+        "tu": "probas",
+        "el_ella_usted": "proba",
+        "nosotros": "probamos",
+        "ellos_ellas_ustedes": "proban"
+      },
+      "pasado": {
+        "yo": "probé",
+        "tu": "probaste",
+        "el_ella_usted": "probó",
+        "nosotros": "probamos",
+        "ellos_ellas_ustedes": "probaron"
+      },
+      "futuro": {
+        "yo": "probaré",
+        "tu": "probarás",
+        "el_ella_usted": "probará",
+        "nosotros": "probaremos",
+        "ellos_ellas_ustedes": "probarán"
+      }
+    }
+  }
+]

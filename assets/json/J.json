@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "verbo_jalar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Jalar",
+    "imagen_url": "assets/Imagenes/VERBOS/JALAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "jalo",
+        "tu": "jalas",
+        "el_ella_usted": "jala",
+        "nosotros": "jalamos",
+        "ellos_ellas_ustedes": "jalan"
+      },
+      "pasado": {
+        "yo": "jalé",
+        "tu": "jalaste",
+        "el_ella_usted": "jaló",
+        "nosotros": "jalamos",
+        "ellos_ellas_ustedes": "jalaron"
+      },
+      "futuro": {
+        "yo": "jalaré",
+        "tu": "jalarás",
+        "el_ella_usted": "jalará",
+        "nosotros": "jalaremos",
+        "ellos_ellas_ustedes": "jalarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_jugar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Jugar",
+    "imagen_url": "assets/Imagenes/VERBOS/JUGAR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "juego",
+        "tu": "juegas",
+        "el_ella_usted": "juega",
+        "nosotros": "jugamos",
+        "ellos_ellas_ustedes": "juegan"
+      },
+      "pasado": {
+        "yo": "jugué",
+        "tu": "jugaste",
+        "el_ella_usted": "jugó",
+        "nosotros": "jugamos",
+        "ellos_ellas_ustedes": "jugaron"
+      },
+      "futuro": {
+        "yo": "jugaré",
+        "tu": "jugarás",
+        "el_ella_usted": "jugará",
+        "nosotros": "jugaremos",
+        "ellos_ellas_ustedes": "jugarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_juntar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Juntar",
+    "imagen_url": "assets/Imagenes/VERBOS/JUNTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "junto",
+        "tu": "juntas",
+        "el_ella_usted": "junta",
+        "nosotros": "juntamos",
+        "ellos_ellas_ustedes": "juntan"
+      },
+      "pasado": {
+        "yo": "junté",
+        "tu": "juntaste",
+        "el_ella_usted": "juntó",
+        "nosotros": "juntamos",
+        "ellos_ellas_ustedes": "juntaron"
+      },
+      "futuro": {
+        "yo": "juntaré",
+        "tu": "juntarás",
+        "el_ella_usted": "juntará",
+        "nosotros": "juntaremos",
+        "ellos_ellas_ustedes": "juntarán"
+      }
+    }
+  }
+]

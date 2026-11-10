@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "verbo_faltar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Faltar",
+    "imagen_url": "assets/Imagenes/VERBOS/FALTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "falto",
+        "tu": "faltas",
+        "el_ella_usted": "falta",
+        "nosotros": "faltamos",
+        "ellos_ellas_ustedes": "faltan"
+      },
+      "pasado": {
+        "yo": "falté",
+        "tu": "faltaste",
+        "el_ella_usted": "faltó",
+        "nosotros": "faltamos",
+        "ellos_ellas_ustedes": "faltaron"
+      },
+      "futuro": {
+        "yo": "faltaré",
+        "tu": "faltarás",
+        "el_ella_usted": "faltará",
+        "nosotros": "faltaremos",
+        "ellos_ellas_ustedes": "faltarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_formar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Formar",
+    "imagen_url": "assets/Imagenes/VERBOS/FORMAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "formo",
+        "tu": "formas",
+        "el_ella_usted": "forma",
+        "nosotros": "formamos",
+        "ellos_ellas_ustedes": "forman"
+      },
+      "pasado": {
+        "yo": "formé",
+        "tu": "formaste",
+        "el_ella_usted": "formó",
+        "nosotros": "formamos",
+        "ellos_ellas_ustedes": "formaron"
+      },
+      "futuro": {
+        "yo": "formaré",
+        "tu": "formarás",
+        "el_ella_usted": "formará",
+        "nosotros": "formaremos",
+        "ellos_ellas_ustedes": "formarán"
+      }
+    }
+  }
+]

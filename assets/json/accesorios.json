@@ -1,0 +1,283 @@
+[
+  {
+    "id": "accesorios_sombrero_cabeza_y_rostro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sombrero",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/SOMBRERO.png",
+    "subcategoria": "Cabeza y Rostro"
+  }
+,
+  {
+    "id": "accesorios_aretes_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Aretes",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/ARETES.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_lentes_cabeza_y_rostro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lentes",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/GAFAS.png",
+    "subcategoria": "Cabeza y Rostro"
+  }
+,
+  {
+    "id": "accesorios_gorra_cabeza_y_rostro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gorra",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/GORRA.png",
+    "subcategoria": "Cabeza y Rostro"
+  }
+,
+  {
+    "id": "accesorios_bufanda_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bufanda",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/BUFANDA.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_cinturon_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cinturón",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CINTURON.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_reloj_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Reloj",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/RELOJ.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_pulsera_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pulsera",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/PULSERA.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_collar_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Collar",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/COLLAR.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_anillo_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Anillo",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/ANILLO.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_bolso_bolsos_y_transporte",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bolso",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/BOLSO.png",
+    "subcategoria": "Bolsos y Transporte"
+  }
+,
+  {
+    "id": "accesorios_mochila_bolsos_y_transporte",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mochila",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/MOCHILA.png",
+    "subcategoria": "Bolsos y Transporte"
+  }
+,
+  {
+    "id": "accesorios_cartera_bolsos_y_transporte",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cartera",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CARTERA.png",
+    "subcategoria": "Bolsos y Transporte"
+  }
+,
+  {
+    "id": "accesorios_paraguas_otros",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Paraguas",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/PARAGUAS.png",
+    "subcategoria": "Otros"
+  }
+,
+  {
+    "id": "accesorios_guantes_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Guantes",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/GUANTES.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_diadema_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Diadema",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/DIADEMA.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_lazo_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Lazo",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/LAZO.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_pasador_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pasador",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/PASADOR.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_cinta_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cinta",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CINTA.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_corbata_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Corbata",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CORBATA.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_panuelo_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pañuelo",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/PANUELO.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_brazalete_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Brazalete",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/BRAZALETE.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_tobillera_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tobillera",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/TOBILLERA.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_pin_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pin",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/PIN.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_faja_cuello_y_cuerpo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Faja",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/FAJA.png",
+    "subcategoria": "Cuello y Cuerpo"
+  }
+,
+  {
+    "id": "accesorios_sombrilla_otros",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sombrilla",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/SOMBRILLA.png",
+    "subcategoria": "Otros"
+  }
+,
+  {
+    "id": "accesorios_bandana_cabeza_y_rostro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bandana",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/BANDANA.png",
+    "subcategoria": "Cabeza y Rostro"
+  }
+,
+  {
+    "id": "accesorios_rinonera_bolsos_y_transporte",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Riñonera",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/RINONERA.png",
+    "subcategoria": "Bolsos y Transporte"
+  }
+,
+  {
+    "id": "accesorios_monedero_bolsos_y_transporte",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Monedero",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/MONEDERO.png",
+    "subcategoria": "Bolsos y Transporte"
+  }
+,
+  {
+    "id": "accesorios_llavero_otros",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Llavero",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/LLAVERO.png",
+    "subcategoria": "Otros"
+  }
+,
+  {
+    "id": "accesorios_cadenilla_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cadenilla",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CADENILLA.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+,
+  {
+    "id": "accesorios_horquilla_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Horquilla",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/HORQUILLA.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_turbante_cabeza_y_rostro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Turbante",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/TURBANTE.png",
+    "subcategoria": "Cabeza y Rostro"
+  }
+,
+  {
+    "id": "accesorios_cintillo_cabello",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cintillo",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/CINTILLO.png",
+    "subcategoria": "Cabello"
+  }
+,
+  {
+    "id": "accesorios_gemelos_joyeria_y_bisuteria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gemelos",
+    "imagen_url": "assets/Imagenes/ACCESORIOS/GEMELOS.png",
+    "subcategoria": "Joyería y Bisutería"
+  }
+]
+
+

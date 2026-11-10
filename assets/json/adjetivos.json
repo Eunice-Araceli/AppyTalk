@@ -1,0 +1,135 @@
+[
+  {
+    "id": "adjetivos_grande_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Grande",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/GRANDE.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_pequeno_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Pequeño",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/PEQUENO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_largo_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Largo",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/LARGO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_corto_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Corto",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/CORTO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_ancho_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Ancho",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/ANCHO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_estrecho_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Estrecho",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/ESTRECHO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_fuerte_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Fuerte",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/FUERTE.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_debil_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Débil",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/DEBIL.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_rapido_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Rápido",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/RAPIDO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_lento_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Lento",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/LENTO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_nuevo_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Nuevo",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/NUEVO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_viejo_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Viejo",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/VIEJO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_claro_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Claro",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/CLARO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_oscuro_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Oscuro",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/OSCURO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_suave_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Suave",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/SUAVE.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_duro_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Duro",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/DURO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_ligero_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Ligero",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/LIGERO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_pesado_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Pesado",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/PESADO.jpg",
+    "subcategoria": "Calificativos"
+  },
+  {
+    "id": "adjetivos_redondo_calificativos",
+    "tipo_palabra": "adjetivo",
+    "etiqueta": "Redondo",
+    "imagen_url": "assets/Imagenes/ADJETIVOS/REDONDO.jpg",
+    "subcategoria": "Calificativos"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "instrumentos_acordeon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Acordeón",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/ACORDEON.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_armonica",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Armónica",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/ARMONICA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_arpa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Arpa",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/ARPA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_bajo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bajo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/BAJO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_bateria",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Batería",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/BATERIA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_bongo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bongo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/BONGO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_cajon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cajón",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CAJON.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_campana",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Campana",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CAMPANA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_castañuelas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Castañuelas",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CASTAÑUELAS.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_charango",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Charango",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CHARANGO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_chelo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Chelo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CHELO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_clarinete",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Clarinete",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CLARINETE.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_conga",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Conga",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CONGA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_contrabajo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Contrabajo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CONTRABAJO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_corneta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Corneta",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/CORNETA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_flauta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Flauta",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/FLAUTA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_gong",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Gong",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/GONG.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_guiro",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Güiro",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/GUIRO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_guitarra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Guitarra",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/GUITARRA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_kalimba",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Kalimba",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/KALIMBA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_laud",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Laúd",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/LAUD.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_maracas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Maracas",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/MARACAS.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_melodica",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Melódica",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/MELODICA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_oboe",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Oboe",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/OBOE.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_pandereta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pandereta",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/PANDERETA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_pandero",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pandero",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/PANDERO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_piano",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Piano",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/PIANO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_platillo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Platillo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/PLATILLO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_requinto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Requinto",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/REQUINTO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_saxofon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Saxofón",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/SAXOFON.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_sitar",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sitar",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/SITAR.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_sonaja",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sonaja",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/SONAJA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_tambor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tambor",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TAMBOR.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_tambora",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tambora",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TAMBORA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_triangulo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Triángulo",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TRIANGULO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_trombon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Trombón",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TROMBON.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_trompeta",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Trompeta",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TROMPETA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_tuba",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tuba",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/TUBA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_ukelele",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ukelele",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/UKELELE.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_viola",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Viola",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/VIOLA.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_violin",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Violín",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/VIOLIN.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_xilofono",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Xilófono",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/XILOFONO.png",
+    "subcategoria": "Instrumentos"
+  }
+,
+  {
+    "id": "instrumentos_zampoña",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Zampoña",
+    "imagen_url": "assets/Imagenes/INSTRUMENTOS/ZAMPOÑA.png",
+    "subcategoria": "Instrumentos"
+  }
+]

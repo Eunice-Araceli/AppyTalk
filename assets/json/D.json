@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "verbo_dar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Dar",
+    "imagen_url": "assets/Imagenes/VERBOS/DAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "doy",
+        "tu": "das",
+        "el_ella_usted": "da",
+        "nosotros": "damos",
+        "ellos_ellas_ustedes": "dan"
+      },
+      "pasado": {
+        "yo": "di",
+        "tu": "diste",
+        "el_ella_usted": "dio",
+        "nosotros": "dimos",
+        "ellos_ellas_ustedes": "dieron"
+      },
+      "futuro": {
+        "yo": "daré",
+        "tu": "darás",
+        "el_ella_usted": "dará",
+        "nosotros": "daremos",
+        "ellos_ellas_ustedes": "darán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_decir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Decir",
+    "imagen_url": "assets/Imagenes/VERBOS/DECIR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "digo",
+        "tu": "dices",
+        "el_ella_usted": "dice",
+        "nosotros": "decimos",
+        "ellos_ellas_ustedes": "dicen"
+      },
+      "pasado": {
+        "yo": "dije",
+        "tu": "dijiste",
+        "el_ella_usted": "dijo",
+        "nosotros": "dijimos",
+        "ellos_ellas_ustedes": "dijeron"
+      },
+      "futuro": {
+        "yo": "diré",
+        "tu": "dirás",
+        "el_ella_usted": "dirá",
+        "nosotros": "diremos",
+        "ellos_ellas_ustedes": "dirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_dejar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Dejar",
+    "imagen_url": "assets/Imagenes/VERBOS/DEJAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "dejo",
+        "tu": "dejas",
+        "el_ella_usted": "deja",
+        "nosotros": "dejamos",
+        "ellos_ellas_ustedes": "dejan"
+      },
+      "pasado": {
+        "yo": "dejé",
+        "tu": "dejaste",
+        "el_ella_usted": "dejó",
+        "nosotros": "dejamos",
+        "ellos_ellas_ustedes": "dejaron"
+      },
+      "futuro": {
+        "yo": "dejaré",
+        "tu": "dejarás",
+        "el_ella_usted": "dejará",
+        "nosotros": "dejaremos",
+        "ellos_ellas_ustedes": "dejarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_desarmar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Desarmar",
+    "imagen_url": "assets/Imagenes/VERBOS/DESARMAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "desarmo",
+        "tu": "desarmas",
+        "el_ella_usted": "desarma",
+        "nosotros": "desarmamos",
+        "ellos_ellas_ustedes": "desarman"
+      },
+      "pasado": {
+        "yo": "desarmé",
+        "tu": "desarmaste",
+        "el_ella_usted": "desarmó",
+        "nosotros": "desarmamos",
+        "ellos_ellas_ustedes": "desarmaron"
+      },
+      "futuro": {
+        "yo": "desarmaré",
+        "tu": "desarmarás",
+        "el_ella_usted": "desarmará",
+        "nosotros": "desarmaremos",
+        "ellos_ellas_ustedes": "desarmarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_descansar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Descansar",
+    "imagen_url": "assets/Imagenes/VERBOS/DESCANSAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "descanso",
+        "tu": "descansas",
+        "el_ella_usted": "descansa",
+        "nosotros": "descansamos",
+        "ellos_ellas_ustedes": "descansan"
+      },
+      "pasado": {
+        "yo": "descansé",
+        "tu": "descansaste",
+        "el_ella_usted": "descansó",
+        "nosotros": "descansamos",
+        "ellos_ellas_ustedes": "descansaron"
+      },
+      "futuro": {
+        "yo": "descansaré",
+        "tu": "descansarás",
+        "el_ella_usted": "descansará",
+        "nosotros": "descansaremos",
+        "ellos_ellas_ustedes": "descansarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_despertar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Despertar",
+    "imagen_url": "assets/Imagenes/VERBOS/DESPERTAR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "despierto",
+        "tu": "despiertas",
+        "el_ella_usted": "despierta",
+        "nosotros": "despertamos",
+        "ellos_ellas_ustedes": "despiertan"
+      },
+      "pasado": {
+        "yo": "desperté",
+        "tu": "despertaste",
+        "el_ella_usted": "despertó",
+        "nosotros": "despertamos",
+        "ellos_ellas_ustedes": "despertaron"
+      },
+      "futuro": {
+        "yo": "despertaré",
+        "tu": "despertarás",
+        "el_ella_usted": "despertará",
+        "nosotros": "despertaremos",
+        "ellos_ellas_ustedes": "despertarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_devolver",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Devolver",
+    "imagen_url": "assets/Imagenes/VERBOS/DEVOLVER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "devuelvo",
+        "tu": "devuelves",
+        "el_ella_usted": "devuelve",
+        "nosotros": "devolvemos",
+        "ellos_ellas_ustedes": "devuelven"
+      },
+      "pasado": {
+        "yo": "devolví",
+        "tu": "devolviste",
+        "el_ella_usted": "devolvió",
+        "nosotros": "devolvimos",
+        "ellos_ellas_ustedes": "devolvieron"
+      },
+      "futuro": {
+        "yo": "devolveré",
+        "tu": "devolverás",
+        "el_ella_usted": "devolverá",
+        "nosotros": "devolveremos",
+        "ellos_ellas_ustedes": "devolverán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_dibujar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Dibujar",
+    "imagen_url": "assets/Imagenes/VERBOS/DIBUJAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "dibujo",
+        "tu": "dibujas",
+        "el_ella_usted": "dibuja",
+        "nosotros": "dibujamos",
+        "ellos_ellas_ustedes": "dibujan"
+      },
+      "pasado": {
+        "yo": "dibujé",
+        "tu": "dibujaste",
+        "el_ella_usted": "dibujó",
+        "nosotros": "dibujamos",
+        "ellos_ellas_ustedes": "dibujaron"
+      },
+      "futuro": {
+        "yo": "dibujaré",
+        "tu": "dibujarás",
+        "el_ella_usted": "dibujará",
+        "nosotros": "dibujaremos",
+        "ellos_ellas_ustedes": "dibujarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_disfrutar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Disfrutar",
+    "imagen_url": "assets/Imagenes/VERBOS/DISFRUTAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "disfruto",
+        "tu": "disfrutas",
+        "el_ella_usted": "disfruta",
+        "nosotros": "disfrutamos",
+        "ellos_ellas_ustedes": "disfrutan"
+      },
+      "pasado": {
+        "yo": "disfruté",
+        "tu": "disfrutaste",
+        "el_ella_usted": "disfrutó",
+        "nosotros": "disfrutamos",
+        "ellos_ellas_ustedes": "disfrutaron"
+      },
+      "futuro": {
+        "yo": "disfrutaré",
+        "tu": "disfrutarás",
+        "el_ella_usted": "disfrutará",
+        "nosotros": "disfrutaremos",
+        "ellos_ellas_ustedes": "disfrutarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_doblar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Doblar",
+    "imagen_url": "assets/Imagenes/VERBOS/DOBLAR.JPG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "doblo",
+        "tu": "doblas",
+        "el_ella_usted": "dobla",
+        "nosotros": "doblamos",
+        "ellos_ellas_ustedes": "doblan"
+      },
+      "pasado": {
+        "yo": "doblé",
+        "tu": "doblaste",
+        "el_ella_usted": "dobló",
+        "nosotros": "doblamos",
+        "ellos_ellas_ustedes": "doblaron"
+      },
+      "futuro": {
+        "yo": "doblaré",
+        "tu": "doblarás",
+        "el_ella_usted": "doblará",
+        "nosotros": "doblaremos",
+        "ellos_ellas_ustedes": "doblarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_doler",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Doler",
+    "imagen_url": "assets/Imagenes/VERBOS/DOLER.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "duelo",
+        "tu": "dueles",
+        "el_ella_usted": "duele",
+        "nosotros": "dolemos",
+        "ellos_ellas_ustedes": "duelen"
+      },
+      "pasado": {
+        "yo": "dolí",
+        "tu": "doliste",
+        "el_ella_usted": "dolió",
+        "nosotros": "dolimos",
+        "ellos_ellas_ustedes": "dolieron"
+      },
+      "futuro": {
+        "yo": "doleré",
+        "tu": "dolerás",
+        "el_ella_usted": "dolerá",
+        "nosotros": "doleremos",
+        "ellos_ellas_ustedes": "dolerán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_dormir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Dormir",
+    "imagen_url": "assets/Imagenes/VERBOS/DORMIR.JPG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "duermo",
+        "tu": "duermes",
+        "el_ella_usted": "duerme",
+        "nosotros": "dormimos",
+        "ellos_ellas_ustedes": "duermen"
+      },
+      "pasado": {
+        "yo": "dormí",
+        "tu": "dormiste",
+        "el_ella_usted": "durmió",
+        "nosotros": "dormimos",
+        "ellos_ellas_ustedes": "durmieron"
+      },
+      "futuro": {
+        "yo": "dormiré",
+        "tu": "dormirás",
+        "el_ella_usted": "dormirá",
+        "nosotros": "dormiremos",
+        "ellos_ellas_ustedes": "dormirán"
+      }
+    }
+  }
+]

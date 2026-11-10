@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "verbo_imaginar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Imaginar",
+    "imagen_url": "assets/Imagenes/VERBOS/IMAGINAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "imagino",
+        "tu": "imaginas",
+        "el_ella_usted": "imagina",
+        "nosotros": "imaginamos",
+        "ellos_ellas_ustedes": "imaginan"
+      },
+      "pasado": {
+        "yo": "imaginé",
+        "tu": "imaginaste",
+        "el_ella_usted": "imaginó",
+        "nosotros": "imaginamos",
+        "ellos_ellas_ustedes": "imaginaron"
+      },
+      "futuro": {
+        "yo": "imaginaré",
+        "tu": "imaginarás",
+        "el_ella_usted": "imaginará",
+        "nosotros": "imaginaremos",
+        "ellos_ellas_ustedes": "imaginarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ir",
+    "imagen_url": "assets/Imagenes/VERBOS/IR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "voy",
+        "tu": "vas",
+        "el_ella_usted": "va",
+        "nosotros": "vamos",
+        "ellos_ellas_ustedes": "van"
+      },
+      "pasado": {
+        "yo": "fui",
+        "tu": "fuiste",
+        "el_ella_usted": "fue",
+        "nosotros": "fuimos",
+        "ellos_ellas_ustedes": "fueron"
+      },
+      "futuro": {
+        "yo": "iré",
+        "tu": "irás",
+        "el_ella_usted": "irá",
+        "nosotros": "iremos",
+        "ellos_ellas_ustedes": "irán"
+      }
+    }
+  }
+]

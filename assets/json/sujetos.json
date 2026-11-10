@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "sujetos_pronombres_personales_yo",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Yo",
+    "imagen_url": "assets/Imagenes/SUJETOS/YO.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_tu",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Tú",
+    "imagen_url": "assets/Imagenes/SUJETOS/TU.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_el",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Él",
+    "imagen_url": "assets/Imagenes/SUJETOS/EL.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_ella",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Ella",
+    "imagen_url": "assets/Imagenes/SUJETOS/ELLA.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_nosotros",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Nosotros",
+    "imagen_url": "assets/Imagenes/SUJETOS/NOSOTROS.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_ustedes",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Ustedes",
+    "imagen_url": "assets/Imagenes/SUJETOS/USTEDES.JPG",
+    "subcategoria": "Pronombres Personales"
+  },
+  {
+    "_id": "sujetos_pronombres_personales_ellos",
+    "tipo_palabra": "pronombre",
+    "etiqueta": "Ellos",
+    "imagen_url": "assets/Imagenes/SUJETOS/ELLOS.JPG",
+    "subcategoria": "Pronombres Personales"
+  }
+]

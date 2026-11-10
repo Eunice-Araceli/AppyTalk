@@ -1,0 +1,219 @@
+[
+  {
+    "_id": "casa_cuarto_cama",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cama",
+    "imagen_url": "assets/Imagenes/CASA/CAMA.JPG" ,
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_almohada",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Almohada",
+    "imagen_url": "assets/Imagenes/CASA/ALMOHADA.JPG",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_cobija",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cobija",
+    "imagen_url": "assets/Imagenes/CASA/COBIJA.JPG",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_espejo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Espejo",
+    "imagen_url": "assets/Imagenes/CASA/ESPEJO.JPG",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_ropa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Ropa",
+    "imagen_url": "assets/Imagenes/CASA/ROPA.JPG",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_juguetes",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Juguetes",
+    "imagen_url": "assets/Imagenes/CASA/JUGUETES.jpg",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_cuarto_peluches",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Peluches",
+    "imagen_url": "assets/Imagenes/CASA/PELUCHES.jpg",
+    "subcategoria": "Cuarto"
+  },
+  {
+    "_id": "casa_bano_toalla",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Toalla",
+    "imagen_url": "assets/Imagenes/BAÑO/TOALLA.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_bano_cepillo_de_dientes",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cepillo de dientes",
+    "imagen_url": "assets/Imagenes/BAÑO/CEPILLO DE DIENTES.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_bano_pasta_de_dientes",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pasta de dientes",
+    "imagen_url": "assets/Imagenes/BAÑO/JABON.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_bano_pasta_de_dientes",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pasta de dientes",    "imagen_url": "assets/Imagenes/BAÑO/PASTA DE DIENTES.JPG",
+    "subcategoria": "Baño"
+  },
+
+  {
+    "_id": "casa_bano_regadera",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Regadera",
+    "imagen_url": "assets/Imagenes/BAÑO/REGADERA.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_bano_jabon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Jabón",
+    "imagen_url": "assets/Imagenes/BAÑO/JABON.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_bano_shampoo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Shampoo",
+    "imagen_url": "assets/Imagenes/BAÑO/SHAMPOO.JPG",
+    "subcategoria": "Baño"
+  },
+  {
+    "_id": "casa_sala_silla",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Silla",
+    "imagen_url": "assets/Imagenes/SALA/SILLA.JPG",
+    "subcategoria": "Sala"
+  },
+  {
+    "_id": "casa_sala_sillon",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Sillón",
+    "imagen_url":"assets/Imagenes/SALA/SOFA.JPG" ,
+    "subcategoria": "Sala"
+  },
+  {
+    "_id": "casa_sala_mesa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Mesa",
+    "imagen_url": "assets/Imagenes/SALA/MESA.JPG",
+    "subcategoria": "Sala"
+  },
+  {
+    "_id": "casa_cocina_plato",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Plato",
+    "imagen_url": "assets/Imagenes/COCINA/PLATO.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_cuchara",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cuchara",
+    "imagen_url": "assets/Imagenes/COCINA/CUCHARA.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_tenedor",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tenedor",
+    "imagen_url": "assets/Imagenes/COCINA/TENEDOR.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_vaso",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Vaso",
+    "imagen_url": "assets/Imagenes/COCINA/VASO.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_trapo",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Trapo",
+    "imagen_url": "assets/Imagenes/COCINA/TRAPO.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_refrigerador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Refrigerador",
+    "imagen_url": "assets/Imagenes/COCINA/REFRIGERADOR.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_estufa",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Estufa",
+    "imagen_url": "assets/Imagenes/COCINA/ESTUFA.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_cocina_comida",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Comida",
+    "imagen_url": "assets/Imagenes/COCINA/COMIDA.JPG",
+    "subcategoria": "Cocina"
+  },
+  {
+    "_id": "casa_patio_pasto",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Pasto",
+    "imagen_url": "assets/Imagenes/PATIO/PASTO.JPG",
+    "subcategoria": "Patio"
+  },
+  {
+    "_id": "casa_patio_tierra",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tierra",
+    "imagen_url": "assets/Imagenes/PATIO/TIERRA.JPG",
+    "subcategoria": "Patio"
+  },
+  {
+    "_id": "casa_patio_piedras",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Piedras",
+    "imagen_url": "assets/Imagenes/PATIO/PIEDRAS.JPG",
+    "subcategoria": "Patio"
+  },
+  {
+    "_id": "casa_patio_flores",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Flores",
+    "imagen_url": "assets/Imagenes/PATIO/FLORES.JPG",
+    "subcategoria": "Patio"
+  },
+  {
+    "_id": "casa_patio_bichos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Bichos",
+    "imagen_url": "assets/Imagenes/PATIO/BICHOS.JPG",
+    "subcategoria": "Patio"
+  },
+  {
+    "_id": "casa_patio_hojas",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Hojas",
+    "imagen_url": "assets/Imagenes/PATIO/HOJAS.JPG",
+    "subcategoria": "Patio"
+  }
+]

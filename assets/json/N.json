@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "verbo_nadar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Nadar",
+    "imagen_url": "assets/Imagenes/VERBOS/NADAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "nado",
+        "tu": "nadas",
+        "el_ella_usted": "nada",
+        "nosotros": "nadamos",
+        "ellos_ellas_ustedes": "nadan"
+      },
+      "pasado": {
+        "yo": "nadé",
+        "tu": "nadaste",
+        "el_ella_usted": "nadó",
+        "nosotros": "nadamos",
+        "ellos_ellas_ustedes": "nadaron"
+      },
+      "futuro": {
+        "yo": "nadaré",
+        "tu": "nadarás",
+        "el_ella_usted": "nadará",
+        "nosotros": "nadaremos",
+        "ellos_ellas_ustedes": "nadarán"
+      }
+    }
+  }
+]
+

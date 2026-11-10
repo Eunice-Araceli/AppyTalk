@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "verbo_querer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Querer",
+    "imagen_url": "assets/Imagenes/VERBOS/QUERER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "quiero",
+        "tu": "quieres",
+        "el_ella_usted": "quiere",
+        "nosotros": "queremos",
+        "ellos_ellas_ustedes": "quieren"
+      },
+      "pasado": {
+        "yo": "quise",
+        "tu": "quisiste",
+        "el_ella_usted": "quiso",
+        "nosotros": "quisimos",
+        "ellos_ellas_ustedes": "quisieron"
+      },
+      "futuro": {
+        "yo": "querré",
+        "tu": "querrás",
+        "el_ella_usted": "querrá",
+        "nosotros": "querremos",
+        "ellos_ellas_ustedes": "querrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_quitar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Quitar",
+    "imagen_url": "assets/Imagenes/VERBOS/QUITAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "quito",
+        "tu": "quitas",
+        "el_ella_usted": "quita",
+        "nosotros": "quitamos",
+        "ellos_ellas_ustedes": "quitan"
+      },
+      "pasado": {
+        "yo": "quité",
+        "tu": "quitaste",
+        "el_ella_usted": "quitó",
+        "nosotros": "quitamos",
+        "ellos_ellas_ustedes": "quitaron"
+      },
+      "futuro": {
+        "yo": "quitaré",
+        "tu": "quitarás",
+        "el_ella_usted": "quitará",
+        "nosotros": "quitaremos",
+        "ellos_ellas_ustedes": "quitarán"
+      }
+    }
+  }
+]

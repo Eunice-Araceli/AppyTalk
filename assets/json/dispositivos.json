@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "dispositivos_electronicos_telefono",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Teléfono",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/TELEFONO.JPG",
+    "subcategoria": "Electrónicos"
+  },
+  {
+    "_id": "dispositivos_electronicos_tablet",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Tablet",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/TABLET.JPG",
+    "subcategoria": "Electrónicos"
+  },
+  {
+    "_id": "dispositivos_electronicos_television",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Televisión",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/TELEVISION.JPG",
+    "subcategoria": "Electrónicos"
+  },
+  {
+    "_id": "dispositivos_electronicos_computadora",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Computadora",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/COMPUTADORA.JPG",
+    "subcategoria": "Electrónicos"
+  },
+  {
+    "_id": "dispositivos_accesorios_audifonos",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Audífonos",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/AUDIFONOS.JPG",
+    "subcategoria": "Accesorios"
+  },
+  {
+    "_id": "dispositivos_accesorios_cargador",
+    "tipo_palabra": "sustantivo",
+    "etiqueta": "Cargador",
+    "imagen_url": "assets/Imagenes/DISPOSITIVOS/CARGADOR.JPG",
+    "subcategoria": "Accesorios"
+  }
+]

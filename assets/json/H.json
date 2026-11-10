@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "verbo_hablar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Hablar",
+    "imagen_url": "assets/Imagenes/VERBOS/HABLAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "hablo",
+        "tu": "hablas",
+        "el_ella_usted": "habla",
+        "nosotros": "hablamos",
+        "ellos_ellas_ustedes": "hablan"
+      },
+      "pasado": {
+        "yo": "hablé",
+        "tu": "hablaste",
+        "el_ella_usted": "habló",
+        "nosotros": "hablamos",
+        "ellos_ellas_ustedes": "hablaron"
+      },
+      "futuro": {
+        "yo": "hablaré",
+        "tu": "hablarás",
+        "el_ella_usted": "hablará",
+        "nosotros": "hablaremos",
+        "ellos_ellas_ustedes": "hablarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_hacer",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Hacer",
+    "imagen_url": "assets/Imagenes/VERBOS/HACER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "hago",
+        "tu": "haces",
+        "el_ella_usted": "hace",
+        "nosotros": "hacemos",
+        "ellos_ellas_ustedes": "hacen"
+      },
+      "pasado": {
+        "yo": "hice",
+        "tu": "hiciste",
+        "el_ella_usted": "hizo",
+        "nosotros": "hicimos",
+        "ellos_ellas_ustedes": "hicieron"
+      },
+      "futuro": {
+        "yo": "haré",
+        "tu": "harás",
+        "el_ella_usted": "hará",
+        "nosotros": "haremos",
+        "ellos_ellas_ustedes": "harán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_huir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Huir",
+    "imagen_url": "assets/Imagenes/VERBOS/HUIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "huyo",
+        "tu": "huyes",
+        "el_ella_usted": "huye",
+        "nosotros": "huimos",
+        "ellos_ellas_ustedes": "huyen"
+      },
+      "pasado": {
+        "yo": "huí",
+        "tu": "huiste",
+        "el_ella_usted": "huyó",
+        "nosotros": "huimos",
+        "ellos_ellas_ustedes": "huyeron"
+      },
+      "futuro": {
+        "yo": "huiré",
+        "tu": "huirás",
+        "el_ella_usted": "huirá",
+        "nosotros": "huiremos",
+        "ellos_ellas_ustedes": "huirán"
+      }
+    }
+  }
+]

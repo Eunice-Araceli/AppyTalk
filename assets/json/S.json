@@ -1,0 +1,512 @@
+[
+  {
+    "_id": "verbo_saber",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Saber",
+    "imagen_url": "assets/Imagenes/VERBOS/SABER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "sé",
+        "tu": "sabes",
+        "el_ella_usted": "sabe",
+        "nosotros": "sabemos",
+        "ellos_ellas_ustedes": "saben"
+      },
+      "pasado": {
+        "yo": "supe",
+        "tu": "supiste",
+        "el_ella_usted": "supo",
+        "nosotros": "supimos",
+        "ellos_ellas_ustedes": "supieron"
+      },
+      "futuro": {
+        "yo": "sabré",
+        "tu": "sabrás",
+        "el_ella_usted": "sabrá",
+        "nosotros": "sabremos",
+        "ellos_ellas_ustedes": "sabrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sacar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sacar",
+    "imagen_url": "assets/Imagenes/VERBOS/SACAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "saco",
+        "tu": "sacas",
+        "el_ella_usted": "saca",
+        "nosotros": "sacamos",
+        "ellos_ellas_ustedes": "sacan"
+      },
+      "pasado": {
+        "yo": "saqué",
+        "tu": "sacaste",
+        "el_ella_usted": "sacó",
+        "nosotros": "sacamos",
+        "ellos_ellas_ustedes": "sacaron"
+      },
+      "futuro": {
+        "yo": "sacaré",
+        "tu": "sacarás",
+        "el_ella_usted": "sacará",
+        "nosotros": "sacaremos",
+        "ellos_ellas_ustedes": "sacarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sacudir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sacudir",
+    "imagen_url": "assets/Imagenes/VERBOS/SACUDIR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "sacudo",
+        "tu": "sacudes",
+        "el_ella_usted": "sacude",
+        "nosotros": "sacudimos",
+        "ellos_ellas_ustedes": "sacuden"
+      },
+      "pasado": {
+        "yo": "sacudí",
+        "tu": "sacudiste",
+        "el_ella_usted": "sacudió",
+        "nosotros": "sacudimos",
+        "ellos_ellas_ustedes": "sacudieron"
+      },
+      "futuro": {
+        "yo": "sacudiré",
+        "tu": "sacudirás",
+        "el_ella_usted": "sacudirá",
+        "nosotros": "sacudiremos",
+        "ellos_ellas_ustedes": "sacudirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_salir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Salir",
+    "imagen_url": "assets/Imagenes/VERBOS/SALIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "salgo",
+        "tu": "sales",
+        "el_ella_usted": "sale",
+        "nosotros": "salimos",
+        "ellos_ellas_ustedes": "salen"
+      },
+      "pasado": {
+        "yo": "salí",
+        "tu": "saliste",
+        "el_ella_usted": "salió",
+        "nosotros": "salimos",
+        "ellos_ellas_ustedes": "salieron"
+      },
+      "futuro": {
+        "yo": "saldré",
+        "tu": "saldrás",
+        "el_ella_usted": "saldrá",
+        "nosotros": "saldremos",
+        "ellos_ellas_ustedes": "saldrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_saltar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Saltar",
+    "imagen_url": "assets/Imagenes/VERBOS/SALTAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "salto",
+        "tu": "saltas",
+        "el_ella_usted": "salta",
+        "nosotros": "saltamos",
+        "ellos_ellas_ustedes": "saltan"
+      },
+      "pasado": {
+        "yo": "salté",
+        "tu": "saltaste",
+        "el_ella_usted": "saltó",
+        "nosotros": "saltamos",
+        "ellos_ellas_ustedes": "saltaron"
+      },
+      "futuro": {
+        "yo": "saltaré",
+        "tu": "saltarás",
+        "el_ella_usted": "saltará",
+        "nosotros": "saltaremos",
+        "ellos_ellas_ustedes": "saltarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_saludar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Saludar",
+    "imagen_url": "assets/Imagenes/VERBOS/SALUDAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "saludo",
+        "tu": "saludas",
+        "el_ella_usted": "saluda",
+        "nosotros": "saludamos",
+        "ellos_ellas_ustedes": "saludan"
+      },
+      "pasado": {
+        "yo": "saludé",
+        "tu": "saludaste",
+        "el_ella_usted": "saludó",
+        "nosotros": "saludamos",
+        "ellos_ellas_ustedes": "saludaron"
+      },
+      "futuro": {
+        "yo": "saludaré",
+        "tu": "saludarás",
+        "el_ella_usted": "saludará",
+        "nosotros": "saludaremos",
+        "ellos_ellas_ustedes": "saludarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_secar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Secar",
+    "imagen_url": "assets/Imagenes/VERBOS/SECAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "seco",
+        "tu": "secas",
+        "el_ella_usted": "seca",
+        "nosotros": "secamos",
+        "ellos_ellas_ustedes": "secan"
+      },
+      "pasado": {
+        "yo": "secé",
+        "tu": "secaste",
+        "el_ella_usted": "secó",
+        "nosotros": "secamos",
+        "ellos_ellas_ustedes": "secaron"
+      },
+      "futuro": {
+        "yo": "secaré",
+        "tu": "secarás",
+        "el_ella_usted": "secará",
+        "nosotros": "secaremos",
+        "ellos_ellas_ustedes": "secarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_seguir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Seguir",
+    "imagen_url": "assets/Imagenes/VERBOS/SEGUIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "sigo",
+        "tu": "sigues",
+        "el_ella_usted": "sigue",
+        "nosotros": "seguimos",
+        "ellos_ellas_ustedes": "siguen"
+      },
+      "pasado": {
+        "yo": "seguí",
+        "tu": "seguiste",
+        "el_ella_usted": "siguió",
+        "nosotros": "seguimos",
+        "ellos_ellas_ustedes": "siguieron"
+      },
+      "futuro": {
+        "yo": "seguiré",
+        "tu": "seguirás",
+        "el_ella_usted": "seguirá",
+        "nosotros": "seguiremos",
+        "ellos_ellas_ustedes": "seguirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sentar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sentar",
+    "imagen_url": "assets/Imagenes/VERBOS/SENTAR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "siento",
+        "tu": "sientas",
+        "el_ella_usted": "sienta",
+        "nosotros": "sentamos",
+        "ellos_ellas_ustedes": "sientan"
+      },
+      "pasado": {
+        "yo": "senté",
+        "tu": "sentaste",
+        "el_ella_usted": "sentó",
+        "nosotros": "sentamos",
+        "ellos_ellas_ustedes": "sentaron"
+      },
+      "futuro": {
+        "yo": "sentaré",
+        "tu": "sentarás",
+        "el_ella_usted": "sentará",
+        "nosotros": "sentaremos",
+        "ellos_ellas_ustedes": "sentarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sentir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sentir",
+    "imagen_url": "assets/Imagenes/VERBOS/SENTIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "siento",
+        "tu": "sientes",
+        "el_ella_usted": "siente",
+        "nosotros": "sentimos",
+        "ellos_ellas_ustedes": "sienten"
+      },
+      "pasado": {
+        "yo": "sentí",
+        "tu": "sentiste",
+        "el_ella_usted": "sintió",
+        "nosotros": "sentimos",
+        "ellos_ellas_ustedes": "sintieron"
+      },
+      "futuro": {
+        "yo": "sentiré",
+        "tu": "sentirás",
+        "el_ella_usted": "sentirá",
+        "nosotros": "sentiremos",
+        "ellos_ellas_ustedes": "sentirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ser",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ser",
+    "imagen_url": "assets/Imagenes/VERBOS/SER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "soy",
+        "tu": "eres",
+        "el_ella_usted": "es",
+        "nosotros": "somos",
+        "ellos_ellas_ustedes": "son"
+      },
+      "pasado": {
+        "yo": "fui",
+        "tu": "fuiste",
+        "el_ella_usted": "fue",
+        "nosotros": "fuimos",
+        "ellos_ellas_ustedes": "fueron"
+      },
+      "futuro": {
+        "yo": "seré",
+        "tu": "serás",
+        "el_ella_usted": "será",
+        "nosotros": "seremos",
+        "ellos_ellas_ustedes": "serán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sonar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sonar",
+    "imagen_url": "assets/Imagenes/VERBOS/SONAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "sono",
+        "tu": "sonas",
+        "el_ella_usted": "sona",
+        "nosotros": "sonamos",
+        "ellos_ellas_ustedes": "sonan"
+      },
+      "pasado": {
+        "yo": "soné",
+        "tu": "sonaste",
+        "el_ella_usted": "sonó",
+        "nosotros": "sonamos",
+        "ellos_ellas_ustedes": "sonaron"
+      },
+      "futuro": {
+        "yo": "sonaré",
+        "tu": "sonarás",
+        "el_ella_usted": "sonará",
+        "nosotros": "sonaremos",
+        "ellos_ellas_ustedes": "sonarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sonar_tilde",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Soñar",
+    "imagen_url": "assets/Imagenes/VERBOS/SOÑAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "soño",
+        "tu": "soñas",
+        "el_ella_usted": "soña",
+        "nosotros": "soñamos",
+        "ellos_ellas_ustedes": "soñan"
+      },
+      "pasado": {
+        "yo": "soñé",
+        "tu": "soñaste",
+        "el_ella_usted": "soñó",
+        "nosotros": "soñamos",
+        "ellos_ellas_ustedes": "soñaron"
+      },
+      "futuro": {
+        "yo": "soñaré",
+        "tu": "soñarás",
+        "el_ella_usted": "soñará",
+        "nosotros": "soñaremos",
+        "ellos_ellas_ustedes": "soñarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_sonreir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Sonreír",
+    "imagen_url": "assets/Imagenes/VERBOS/SONREIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "sonrío",
+        "tu": "sonríes",
+        "el_ella_usted": "sonríe",
+        "nosotros": "sonreímos",
+        "ellos_ellas_ustedes": "sonríen"
+      },
+      "pasado": {
+        "yo": "sonreí",
+        "tu": "sonreíste",
+        "el_ella_usted": "sonrió",
+        "nosotros": "sonreímos",
+        "ellos_ellas_ustedes": "sonrieron"
+      },
+      "futuro": {
+        "yo": "sonreiré",
+        "tu": "sonreirás",
+        "el_ella_usted": "sonreirá",
+        "nosotros": "sonreiremos",
+        "ellos_ellas_ustedes": "sonreirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_soplar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Soplar",
+    "imagen_url": "assets/Imagenes/VERBOS/SOPLAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "soplo",
+        "tu": "soplas",
+        "el_ella_usted": "sopla",
+        "nosotros": "soplamos",
+        "ellos_ellas_ustedes": "soplan"
+      },
+      "pasado": {
+        "yo": "soplé",
+        "tu": "soplaste",
+        "el_ella_usted": "sopló",
+        "nosotros": "soplamos",
+        "ellos_ellas_ustedes": "soplaron"
+      },
+      "futuro": {
+        "yo": "soplaré",
+        "tu": "soplarás",
+        "el_ella_usted": "soplará",
+        "nosotros": "soplaremos",
+        "ellos_ellas_ustedes": "soplarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_subir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Subir",
+    "imagen_url": "assets/Imagenes/VERBOS/SUBIR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "subo",
+        "tu": "subes",
+        "el_ella_usted": "sube",
+        "nosotros": "subimos",
+        "ellos_ellas_ustedes": "suben"
+      },
+      "pasado": {
+        "yo": "subí",
+        "tu": "subiste",
+        "el_ella_usted": "subió",
+        "nosotros": "subimos",
+        "ellos_ellas_ustedes": "subieron"
+      },
+      "futuro": {
+        "yo": "subiré",
+        "tu": "subirás",
+        "el_ella_usted": "subirá",
+        "nosotros": "subiremos",
+        "ellos_ellas_ustedes": "subirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_susurrar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Susurrar",
+    "imagen_url": "assets/Imagenes/VERBOS/SUSURRAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "susurro",
+        "tu": "susurras",
+        "el_ella_usted": "susurra",
+        "nosotros": "susurramos",
+        "ellos_ellas_ustedes": "susurran"
+      },
+      "pasado": {
+        "yo": "susurré",
+        "tu": "susurraste",
+        "el_ella_usted": "susurró",
+        "nosotros": "susurramos",
+        "ellos_ellas_ustedes": "susurraron"
+      },
+      "futuro": {
+        "yo": "susurraré",
+        "tu": "susurrarás",
+        "el_ella_usted": "susurrará",
+        "nosotros": "susurraremos",
+        "ellos_ellas_ustedes": "susurrarán"
+      }
+    }
+  }
+]

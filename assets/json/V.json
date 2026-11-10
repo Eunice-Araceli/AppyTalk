@@ -1,0 +1,242 @@
+[
+  {
+    "_id": "verbo_vaciar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Vaciar",
+    "imagen_url": "assets/Imagenes/VERBOS/VACIAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "vacio",
+        "tu": "vacias",
+        "el_ella_usted": "vacia",
+        "nosotros": "vaciamos",
+        "ellos_ellas_ustedes": "vacian"
+      },
+      "pasado": {
+        "yo": "vacié",
+        "tu": "vaciaste",
+        "el_ella_usted": "vació",
+        "nosotros": "vaciamos",
+        "ellos_ellas_ustedes": "vaciaron"
+      },
+      "futuro": {
+        "yo": "vaciaré",
+        "tu": "vaciarás",
+        "el_ella_usted": "vaciará",
+        "nosotros": "vaciaremos",
+        "ellos_ellas_ustedes": "vaciarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_venir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Venir",
+    "imagen_url": "assets/Imagenes/VERBOS/VENIR.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "vengo",
+        "tu": "vienes",
+        "el_ella_usted": "viene",
+        "nosotros": "venimos",
+        "ellos_ellas_ustedes": "vienen"
+      },
+      "pasado": {
+        "yo": "vine",
+        "tu": "viniste",
+        "el_ella_usted": "vino",
+        "nosotros": "vinimos",
+        "ellos_ellas_ustedes": "vinieron"
+      },
+      "futuro": {
+        "yo": "vendré",
+        "tu": "vendrás",
+        "el_ella_usted": "vendrá",
+        "nosotros": "vendremos",
+        "ellos_ellas_ustedes": "vendrán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_ver",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Ver",
+    "imagen_url": "assets/Imagenes/VERBOS/VER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "veo",
+        "tu": "ves",
+        "el_ella_usted": "ve",
+        "nosotros": "vemos",
+        "ellos_ellas_ustedes": "ven"
+      },
+      "pasado": {
+        "yo": "vi",
+        "tu": "viste",
+        "el_ella_usted": "vio",
+        "nosotros": "vimos",
+        "ellos_ellas_ustedes": "vieron"
+      },
+      "futuro": {
+        "yo": "veré",
+        "tu": "verás",
+        "el_ella_usted": "verá",
+        "nosotros": "veremos",
+        "ellos_ellas_ustedes": "verán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_vestir",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Vestir",
+    "imagen_url": "assets/Imagenes/VERBOS/VESTIR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "vesto",
+        "tu": "vestes",
+        "el_ella_usted": "veste",
+        "nosotros": "vestimos",
+        "ellos_ellas_ustedes": "vesten"
+      },
+      "pasado": {
+        "yo": "vestí",
+        "tu": "vestiste",
+        "el_ella_usted": "vestió",
+        "nosotros": "vestimos",
+        "ellos_ellas_ustedes": "vestieron"
+      },
+      "futuro": {
+        "yo": "vestiré",
+        "tu": "vestirás",
+        "el_ella_usted": "vestirá",
+        "nosotros": "vestiremos",
+        "ellos_ellas_ustedes": "vestirán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_viajar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Viajar",
+    "imagen_url": "assets/Imagenes/VERBOS/VIAJAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "viajo",
+        "tu": "viajas",
+        "el_ella_usted": "viaja",
+        "nosotros": "viajamos",
+        "ellos_ellas_ustedes": "viajan"
+      },
+      "pasado": {
+        "yo": "viajé",
+        "tu": "viajaste",
+        "el_ella_usted": "viajó",
+        "nosotros": "viajamos",
+        "ellos_ellas_ustedes": "viajaron"
+      },
+      "futuro": {
+        "yo": "viajaré",
+        "tu": "viajarás",
+        "el_ella_usted": "viajará",
+        "nosotros": "viajaremos",
+        "ellos_ellas_ustedes": "viajarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_volar",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Volar",
+    "imagen_url": "assets/Imagenes/VERBOS/VOLAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "volo",
+        "tu": "volas",
+        "el_ella_usted": "vola",
+        "nosotros": "volamos",
+        "ellos_ellas_ustedes": "volan"
+      },
+      "pasado": {
+        "yo": "volé",
+        "tu": "volaste",
+        "el_ella_usted": "voló",
+        "nosotros": "volamos",
+        "ellos_ellas_ustedes": "volaron"
+      },
+      "futuro": {
+        "yo": "volaré",
+        "tu": "volarás",
+        "el_ella_usted": "volará",
+        "nosotros": "volaremos",
+        "ellos_ellas_ustedes": "volarán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_voltear",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Voltear",
+    "imagen_url": "assets/Imagenes/VERBOS/VOLTEAR.PNG",
+    "subcategoria": "Regular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "volteo",
+        "tu": "volteas",
+        "el_ella_usted": "voltea",
+        "nosotros": "volteamos",
+        "ellos_ellas_ustedes": "voltean"
+      },
+      "pasado": {
+        "yo": "volteé",
+        "tu": "volteaste",
+        "el_ella_usted": "volteó",
+        "nosotros": "volteamos",
+        "ellos_ellas_ustedes": "voltearon"
+      },
+      "futuro": {
+        "yo": "voltearé",
+        "tu": "voltearás",
+        "el_ella_usted": "volteará",
+        "nosotros": "voltearemos",
+        "ellos_ellas_ustedes": "voltearán"
+      }
+    }
+  },
+  {
+    "_id": "verbo_volver",
+    "tipo_palabra": "verbo",
+    "etiqueta": "Volver",
+    "imagen_url": "assets/Imagenes/VERBOS/VOLVER.PNG",
+    "subcategoria": "Irregular",
+    "conjugaciones": {
+      "presente": {
+        "yo": "vuelvo",
+        "tu": "vuelves",
+        "el_ella_usted": "vuelve",
+        "nosotros": "volvemos",
+        "ellos_ellas_ustedes": "vuelven"
+      },
+      "pasado": {
+        "yo": "volví",
+        "tu": "volviste",
+        "el_ella_usted": "volvió",
+        "nosotros": "volvimos",
+        "ellos_ellas_ustedes": "volvieron"
+      },
+      "futuro": {
+        "yo": "volveré",
+        "tu": "volverás",
+        "el_ella_usted": "volverá",
+        "nosotros": "volveremos",
+        "ellos_ellas_ustedes": "volverán"
+      }
+    }
+  }
+]
